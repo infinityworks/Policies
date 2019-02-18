@@ -1,4 +1,4 @@
-# Risk Assessment policy and procedure
+# Risk Assessment
 
 ## Policy wording
 The organisation will ensure that hazards are identified and that suitable and sufficient risk assessments are undertaken on all of the business' undertakings. Where possible, identified hazards will be eliminated; otherwise the risks associated with the hazards will be reduced to as low as is reasonably practicable and those affected will be informed of the significant findings of the risk assessments.
