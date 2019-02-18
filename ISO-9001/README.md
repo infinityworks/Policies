@@ -46,7 +46,7 @@ Thank You!
 - [HealthandSafetyatWorkPolicy](HealthAndSafetyAtWorkPolicy)
 - [ItAndCommunicationSystems](ItAndCommunicationSystems)
 - [JuryService](JuryServicePolicy)
-- [LoneWorker  - Needs Adding]
+- [Lone Worker](Lone%20Worker)
 - [MaternityPolicy](MaternityPolicy)
 - [PaternityPolicy](PaternityPolicy)
 - [RiskPolicy  - Needs Adding]
