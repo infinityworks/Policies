@@ -80,7 +80,7 @@ The management of information security within Infinity Works must function withi
 * Creating and distributing security incident response and escalation procedures
 * Administering user account and authentication management (Systems related to Infinity Works customer products)
 
-#### Consultants throughout Infintity Works are responsible for: 
+#### Consultants throughout Infinity Works are responsible for: 
 * Day-to-day implementation of this policy; 
 * Ensuring that suitable technical, physical and procedural controls are in place in accordance with this policy and associated guidance, and are properly applied and used by all employees. In particular, they must take measures to ensure that employees: 
   * Are informed of their obligations to fulfil relevant corporate policy statements by means of appropriate awareness, training and education activities. 
@@ -147,7 +147,7 @@ Users are required to follow good security practices in the selection, use and m
 Controls must be in place to ensure system changes are duly authorised by the tech lead, risk assessed and approved for production and staging systems.
 
 ### Physical Security 
-Physical security is in place in the Infinity Works offices to protect Infintity Works physical and data assets and just as importantly our employees. This is facilitated through the use of intruder alarms, physical access control systems, CCTV and Wireless Access Point Testing as documented in the: 
+Physical security is in place in the Infinity Works offices to protect Infinity Works physical and data assets and just as importantly our employees. This is facilitated through the use of intruder alarms, physical access control systems, CCTV and Wireless Access Point Testing as documented in the: 
 * [Physical Security Controls Policy](../physicalsecurity/readme.md) 
 
 ## Responsibility for Policy Maintenance
