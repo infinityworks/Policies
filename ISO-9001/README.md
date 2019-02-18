@@ -52,7 +52,7 @@ Thank You!
 - [Risk Policy](Risk%20Assessment)
 - [SDLC](SDLC%20in-life)
 - [SicknessandAbsencePolicy](SicknessandAbsencePolicy)
-- [Shared Parental Leave Policy  - Needs Adding]
+- [Shared Parental Leave Policy  - Draft available, speak to People Team]
 - [SocialMedia](SocialMedia)
 - [TimeOffForDependantsPolicy](TimeOffForDependantsPolicy)
 - [TrainingPolicy](TrainingPolicy)
