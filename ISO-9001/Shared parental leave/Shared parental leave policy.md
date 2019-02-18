@@ -1,144 +1,154 @@
 # Shared Parental Leave
 
+* Draft Policy - Speak to the People Team regarding Shared Parental Leave until this policy has been approved by the Exec Board *
+
 ## Introduction to shared parental leave
 This policy sets out the rights of employees to shared parental leave and pay.  Shared parental leave enables mothers to commit to ending their maternity leave and pay at a future date, and to share the untaken balance of leave and pay as shared parental leave and pay with their partner, or to return to work early from maternity leave and opt in to shared parental leave and pay at a later date. 
 Shared parental leave should not be confused with ordinary parental leave, which is unaffected by shared parental leave. Ordinary parental leave is the entitlement to up to *xx* weeks' unpaid leave.   The organisation provides a separate policy on ordinary parental leave (maternity and paternity leave).
-The organisation recognises that, from time to time, employees may have questions or concerns relating to their shared parental leave rights. It is the organisation's policy to encourage open discussion with employees to ensure that questions and problems can be resolved as quickly as possible. As the shared parental leave provisions are complex, if an employee wishes to take shared parental leave, he/she should clarify the relevant procedures with the [People Team] (mailto:people@infinityworks.com) to ensure that they are followed correctly.
+The organisation recognises that, from time to time, employees may have questions or concerns relating to their shared parental leave rights. It is the organisation's policy to encourage open discussion with employees to ensure that questions and problems can be resolved as quickly as possible. As the shared parental leave provisions are complex, if an employee wishes to take shared parental leave, he/she should clarify the relevant procedures with the [People Team](mailto:people@infinityworks.com) to ensure that they are followed correctly.
 
-##Data protection
+## Data protection
 When managing an employee's shared parental leave and pay, the organisation processes personal data collected in accordance with its data protection policy. Data collected from the point at which an employee informs the organisation that he/she plans to take shared parental leave is held securely and accessed by, and disclosed to, individuals only for the purposes of managing his/her shared parental leave and pay. Inappropriate access or disclosure of employee data constitutes a data breach and should be reported in accordance with the organisation's data protection policy immediately. It may also constitute a disciplinary offence, which will be dealt with under the organisation's disciplinary procedure.
 
-##Definitions under this shared parental leave policy
+## Definitions under this shared parental leave policy
 The following definitions are used in this policy:
 - "Mother" means the mother or expectant mother of the child.
 - "Partner" means the father of the child, or the person who, at the date of the child's birth, is married to, the civil partner of, or the partner of the mother. This includes someone, of either sex, who lives with the mother and the child in an enduring family relationship but who is not the mother's child, parent, grandchild, grandparent, sibling, aunt, uncle, niece or nephew.
 - "Expected week of childbirth" means the week, starting on a Sunday, during which the mother's doctor or midwife expects her to give birth.
 
-##Scope of this shared parental leave policy
+## Scope of this shared parental leave policy
 This policy applies in relation to employees of the organisation, whether they are the mother or the partner. If it is the mother who is employed by the organisation, her partner must (where relevant) submit any notifications to take shared parental leave set out in this policy to his/her own employer, which may have its own shared parental leave policy in place, if he/she wants to take a period of shared parental leave.
 Similarly, if it is the partner who is employed by the organisation, the mother must (where relevant) submit any notifications to take shared parental leave to her own employer.
 The mother and the partner should ensure that they are each liaising with their own employer to ensure that requests for shared parental leave are handled as smoothly as possible.
 
-##Amount of shared parental leave available
+## Amount of shared parental leave available
 The amount of shared parental leave to which an individual is entitled will depend on when the mother brings her maternity leave period to an end and the amount of leave that the other parent takes in respect of the child.  Shared parental leave must be taken in blocks of at least one week. The employee can request to take shared parental leave in one continuous block (in which case the organisation is required to accept the request as long as the employee meets the eligibility and notice requirements), or as a number of discontinuous blocks of leave (in which case the employee needs the organisation's agreement). A maximum of three requests for leave per pregnancy can normally be made by each parent.
 The first two weeks following birth are the compulsory maternity leave period and are reserved for the mother. This means that the mother cannot curtail her maternity leave to take shared parental leave until two weeks [or four weeks for factory workers] after the birth and the maximum period that the parents could take as shared parental leave is 50 weeks between them (although it will normally be less than this because of the maternity leave that mothers usually take before the birth).
 However, the mother's partner can begin a period of shared parental leave at any time from the date of the child's birth (but the partner should bear in mind that he/she is entitled to take up to two weeks' paternity leave following the birth of his/her child, which he/she will lose if shared parental leave is taken first). The mother and partner must take any shared parental leave within 52 weeks of birth.
 
 ## Eligibility for shared parental leave
 For employees to be eligible to take shared parental leave, both parents must meet certain eligibility requirements.
-###Mother's eligibility for shared parental leave
+### Mother's eligibility for shared parental leave
 The mother is eligible for shared parental leave if she:
-- has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with the organisation until the week before any period ofÊshared parental leaveÊthat she takes;
+- has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with the organisation until the week before any period of shared parental leave that she takes;
 - has, at the date of the child's birth, the main responsibility, apart from the partner, for the care of the child;
-- is entitled to statutory maternityÊleaveÊin respect of the child; and
-- complies with the relevant maternityÊleaveÊcurtailment requirements (or has returned to work before the end of statutory maternityÊleave), andÊshared parental leaveÊnotice and evidence requirements.
-###In addition, for the mother to be eligible forÊshared parental leave, the partner must:
+- is entitled to statutory maternity leave in respect of the child; and
+- complies with the relevant maternity leave curtailment requirements (or has returned to work before the end of statutory maternity leave), andÊshared parental leave notice and evidence requirements.
+### In addition, for the mother to be eligible for shared parental leave, the partner must:
 - have been employed or been a self-employed earner in at least 26 of the 66 weeks immediately preceding the expected week of childbirth;
 - have average weekly earnings of at least the maternity allowance threshold for any 13 of those 66 weeks; and
 - have, at the date of the child's birth, the main responsibility, apart from the mother, for the care of the child.
-###Partner's eligibility forÊshared parental leave
-The partner is eligible forÊshared parental leaveÊif he/she:
-- has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with the organisation until the week before any period ofÊshared parental leaveÊthat he/she takes;
+### Partner's eligibility for shared parental leave
+The partner is eligible for shared parental leaveÊif he/she:
+- has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with the organisation until the week before any period of shared parental leave that he/she takes;
 - has, at the date of the child's birth, the main responsibility, apart from the mother, for the care of the child; and
-- complies with the relevantÊshared parental leaveÊnotice and evidence requirements.
-###In addition, for the partner to be eligible forÊshared parental leave, the mother must:
+- complies with the relevant shared parental leave notice and evidence requirements.
+### In addition, for the partner to be eligible forÊshared parental leave, the mother must:
 - have been employed or been a self-employed earner during at least 26 of the 66 weeks immediately preceding the expected week of childbirth;
 - have average weekly earnings of at least the maternity allowance threshold for any 13 of those 66 weeks;
 - have, at the date of the child's birth, the main responsibility, apart from the partner, for the care of the child;
-- be entitled to statutory maternityÊleave, statutory maternity pay or maternity allowance in respect of the child; and
-- comply with the relevant maternityÊleaveÊor pay curtailment requirements (or have returned to work before the end of statutory maternityÊleave).
+- be entitled to statutory maternity leave, statutory maternity pay or maternity allowance in respect of the child; and
+- comply with the relevant maternity leave or pay curtailment requirements (or have returned to work before the end of statutory maternity leave).
 
-##Notice requirements forÊshared parental leave
-The notices that the parents must give to the relevant employer to be able to takeÊshared parental leaveÊare made up of three elements. They are:
-- a "maternityÊleaveÊcurtailment notice" from the mother setting out when she proposes to end her maternityÊleaveÊ(unless the mother has already returned to work from maternityÊleave);
-- a "notice of entitlement and intention" from the employee giving an initial, non-binding indication of each period ofÊshared parental leaveÊthat he/she is requesting; and
-- a "period ofÊleaveÊnotice" from the employee setting out the start and end dates of each period ofÊshared parental leaveÊthat he/she is requesting.
+## Notice requirements for shared parental leave
+The notices that the parents must give to the relevant employer to be able to takeÊshared parental leave are made up of three elements. They are:
+- a "maternity leave curtailment notice" from the mother setting out when she proposes to end her maternity leave (unless the mother has already returned to work from maternity leave);
+- a "notice of entitlement and intention" from the employee giving an initial, non-binding indication of each period of shared parental leave that he/she is requesting; and
+- a "period of leave notice" from the employee setting out the start and end dates of each period of shared parental leave that he/she is requesting.
 
-The notice periods set out below are the minimum required by law. However, the earlier the employee informs the organisation of his/her intentions, the more likely it is that the organisation will be able to accommodate the employee's wishes, particularly if he/she wants to take periods of discontinuousÊleave.
-Employees are advised that, if they have already decided the pattern ofÊshared parental leaveÊthat they would like to take, they can provide more than one type of notice at the same time. For example, the mother could provide a maternityÊleaveÊcurtailment notice, notice of entitlement and intention and period ofÊleaveÊnotice at the same time. Similarly, the partner could provide his/her notice of entitlement and intention and period ofÊleaveÊnotice at the same time.
-Mother's notice curtailing maternityÊleave
-Before the mother or partner can takeÊshared parental leave, the mother must either return to work before the end of her maternityÊleaveÊ(by giving the required eight weeks' notice of her planned return) or provide her employer with a maternityÊleaveÊcurtailment notice. The maternityÊleaveÊcurtailment notice must be in writing and state the date on which maternityÊleaveÊis to end. That date must be:
-* after the compulsory maternityÊleaveÊperiod, which is the two weeks [or four weeks for factory workers] after birth;
-* at least eight weeks after the date on which the mother gave the maternityÊleaveÊcurtailment notice to her employer; and
-* at least one week before what would be the end of the additional maternityÊleaveÊperiod.
-The mother must provide her maternityÊleaveÊcurtailment notice at the same time she provides either her notice of entitlement and intention or a declaration of consent and entitlement signed by the mother confirming that her partner has given his/her employer a notice of entitlement and intention (seeÊEmployee's notice of entitlement and intentionÊbelow).
-Revocation of maternityÊleaveÊcurtailment notice
-The mother can withdraw her notice curtailing her maternityÊleaveÊin limited circumstances. The withdrawal of a maternityÊleaveÊcurtailment notice must be in writing and can be given only if the mother has not returned to work. The mother can withdraw her maternityÊleaveÊcurtailment notice if:
-* it is discovered that neither the mother nor the partner are entitled toÊshared parental leaveÊor statutoryÊshared parentalÊpay and the mother withdraws her maternityÊleaveÊcurtailment notice within eight weeks of the date on which the notice was given;
-* the maternityÊleaveÊcurtailment notice was given before the birth of the child and the mother withdraws her maternityÊleaveÊcurtailment notice within six weeks of the child's birth; or
-* the partner has died.
-Employee's notice of entitlement and intention
-The employee, whether the mother or the partner, must provide the organisation with a non-binding notice of entitlement and intention. The employee's notice of entitlement and intention, which must be in writing and provided at least eight weeks before the start date of the first period ofÊshared parental leaveÊto be taken by the employee, must set out the following information.
+The notice periods set out below are the minimum required by law. However, the earlier the employee informs the organisation of his/her intentions, the more likely it is that the organisation will be able to accommodate the employee's wishes, particularly if he/she wants to take periods of discontinuous leave.
+Employees are advised that, if they have already decided the pattern of shared parental leave that they would like to take, they can provide more than one type of notice at the same time. For example, the mother could provide a maternity leave curtailment notice, notice of entitlement and intention and period of leaveÊnotice at the same time. Similarly, the partner could provide his/her notice of entitlement and intention and period of leave notice at the same time.
+### Mother's notice curtailing maternity leave
+Before the mother or partner can take shared parental leave, the mother must either return to work before the end of her maternity leave (by giving the required eight weeks' notice of her planned return) or provide her employer with a maternity leave curtailment notice. The maternity leave curtailment notice must be in writing and state the date on which maternity leave is to end. That date must be:
+- after the compulsory maternity leave period, which is the two weeks after birth;
+- at least eight weeks after the date on which the mother gave the maternity leave curtailment notice to her employer; and
+- at least one week before what would be the end of the additional maternity leave period.
+The mother must provide her maternity leave curtailment notice at the same time she provides either her notice of entitlement and intention or a declaration of consent and entitlement signed by the mother confirming that her partner has given his/her employer a notice of entitlement and intention (see Employee's notice of entitlement and intention below).
+### Revocation of maternity leave curtailment notice
+The mother can withdraw her notice curtailing her maternity leave in limited circumstances. The withdrawal of a maternity leave curtailment notice must be in writing and can be given only if the mother has not returned to work. The mother can withdraw her maternity leave curtailment notice if:
+- it is discovered that neither the mother nor the partner are entitled to shared parental leave or statutory shared parental pay and the mother withdraws her maternity leave curtailment notice within eight weeks of the date on which the notice was given;
+- the maternity leave curtailment notice was given before the birth of the child and the mother withdraws her maternity leave curtailment notice within six weeks of the child's birth; or
+- the partner has died.
+### Employee's notice of entitlement and intention
+The employee, whether the mother or the partner, must provide the organisation with a non-binding notice of entitlement and intention. The employee's notice of entitlement and intention, which must be in writing and provided at least eight weeks before the start date of the first period of shared parental leave to be taken by the employee, must set out the following information.
 If the employee is the mother, the notice of entitlement and intention must set out:
-* the mother's name;
-* the partner's name;
-* the start and end dates of any statutory maternityÊleaveÊtaken or to be taken by the mother;
-* the total amount ofÊshared parental leaveÊavailable;
-* the child's expected week of birth and the child's date of birth (although, if the child has not yet been born, the date of birth can be provided as soon as reasonably practicable after birth, and before the first period ofÊshared parental leaveÊto be taken by the mother);
-* how muchÊshared parental leaveÊthe mother and partner each intend to take; and
-* a non-binding indication as to when the employee intends to takeÊshared parental leaveÊ(including the start and end dates for each period ofÊleave).
+- the mother's name;
+- the partner's name;
+- the start and end dates of any statutory maternity leave taken or to be taken by the mother;
+- the total amount of shared parental leave available;
+- the child's expected week of birth and the child's date of birth (although, if the child has not yet been born, the date of birth can be provided as soon as reasonably practicable after birth, and before the first period of shared parental leave to be taken by the mother);
+- how much shared parental leave the mother and partner each intend to take; and
+- a non-binding indication as to when the employee intends to take shared parental leave (including the start and end dates for each period ofÊleave).
 The mother's notice of entitlement and intention must include a declaration signed by her that:
-* she satisfies, or will satisfy, the eligibility requirements to takeÊshared parental leave;
-* the information she gives in the notice of entitlement and intention is accurate; and
-* she will immediately inform the organisation if she ceases to care for the child.
+- she satisfies, or will satisfy, the eligibility requirements to take shared parental leave;
+- the information she gives in the notice of entitlement and intention is accurate; and
+- she will immediately inform the organisation if she ceases to care for the child.
 In addition, the mother's notice of entitlement and intention must include a declaration signed by her partner:
-* specifying the partner's name, address, and national insurance number (or declaring that the partner does not have a national insurance number);
-* declaring that the partner satisfies, or will satisfy, the conditions set out above (seeÊMother's eligibility forÊshared parental leave);
-* declaring that the partner is the father of the child, or is married to, the civil partner of, or the partner of, the mother;
-* declaring that the partner consents to the amount ofÊleaveÊthat the mother intends to take; and
-* declaring that the partner consents to the mother's employer processing the information in the partner's declaration.
+- specifying the partner's name, address, and national insurance number (or declaring that the partner does not have a national insurance number);
+- declaring that the partner satisfies, or will satisfy, the conditions set out above (see Mother's eligibility for shared parental leave);
+- declaring that the partner is the father of the child, or is married to, the civil partner of, or the partner of, the mother;
+- declaring that the partner consents to the amount of leave that the mother intends to take; and
+- declaring that the partner consents to the mother's employer processing the information in the partner's declaration.
 If the employee is the partner, the partner's notice of entitlement and intention must set out:
-* the partner's name;
-* the mother's name;
-* the start and end dates of any periods of statutory maternityÊleave, statutory maternity pay or maternity allowance taken or to be taken by the mother;
-* the total amount ofÊshared parental leaveÊavailable;
-* the child's expected week of birth and the child's date of birth (although, if the child has not yet been born, the date of birth can be provided as soon as reasonably practicable after birth, and before the first period ofÊshared parental leaveÊto be taken by the partner);
-* how muchÊshared parental leaveÊthe partner and mother each intend to take; and
-* a non-binding indication as to when the partner intends to takeÊshared parental leaveÊ(including the start and end dates for each period ofÊleave).
+- the partner's name;
+- the mother's name;
+- the start and end dates of any periods of statutory maternity leave, statutory maternity pay or maternity allowance taken or to be taken by the mother;
+- the total amount of shared parental leave available;
+- the child's expected week of birth and the child's date of birth (although, if the child has not yet been born, the date of birth can be provided as soon as reasonably practicable after birth, and before the first period of shared parental leave to be taken by the partner);
+- how much shared parental leave the partner and mother each intend to take; and
+- a non-binding indication as to when the partner intends to take shared parental leave (including the start and end dates for each period of leave).
 The partner's notice of entitlement and intention must include a declaration signed by the partner that:
-* he/she satisfies, or will satisfy, the eligibility requirements to takeÊshared parental leave;
+* he/she satisfies, or will satisfy, the eligibility requirements to take shared parental leave;
 * the information given by the partner in the notice of entitlement and intention is accurate; and
-* he/she will immediately inform the organisation if he/she ceases to care for the child or if the mother informs him/her that she no longer meets the requirement to have curtailed her maternityÊleaveÊor pay period.
+* he/she will immediately inform the organisation if he/she ceases to care for the child or if the mother informs him/her that she no longer meets the requirement to have curtailed her maternity leave or pay period.
 In addition, the partner's notice of entitlement and intention must include a declaration signed by the mother:
-* specifying the mother's name, address, and national insurance number (or declaring that the mother does not have a national insurance number);
-* declaring that the mother satisfies, or will satisfy, the conditions set out above (seeÊPartner's eligibility forÊshared parental leave) and she will notify the partner if she no longer qualifies for maternityÊleave, statutory maternity pay or maternity allowance;
-* declaring that the mother consents to the amount ofÊleaveÊthat the partner intends to take;
-* declaring that she will immediately inform the employee if she no longer meets the requirement to have curtailed her maternityÊleaveÊor pay period; and
-* declaring that the mother consents to the partner's employer processing the information in the mother's declaration.
+- specifying the mother's name, address, and national insurance number (or declaring that the mother does not have a national insurance number);
+- declaring that the mother satisfies, or will satisfy, the conditions set out above (see Partner's eligibility for shared parental leave) and she will notify the partner if she no longer qualifies for maternity leave, statutory maternity pay or maternity allowance;
+- declaring that the mother consents to the amount of leave that the partner intends to take;
+- declaring that she will immediately inform the employee if she no longer meets the requirement to have curtailed her maternity leave or pay period; and
+- declaring that the mother consents to the partner's employer processing the information in the mother's declaration.
 Within 14 days of receiving a notice of entitlement and intention from the employee, whether the mother or partner, the organisation can request from the employee:
-* a copy of the child's birth certificate (or, if the child has not been born, a copy of the birth certificate within 14 days of the birth - if the birth certificate has yet to be issued after this period, a signed declaration stating the date and location of the child's birth will suffice); and
-* the name and address of the other parent's employer (or a declaration that the other parent has no employer).
+- a copy of the child's birth certificate (or, if the child has not been born, a copy of the birth certificate within 14 days of the birth - if the birth certificate has yet to be issued after this period, a signed declaration stating the date and location of the child's birth will suffice); and
+- the name and address of the other parent's employer (or a declaration that the other parent has no employer).
 The employee has 14 days from the date of the request to send the organisation the required information.
-Variation or cancellation of notice of entitlement and intention
+
+### Variation or cancellation of notice of entitlement and intention
 The employee can vary or cancel his/her proposedÊshared parental leaveÊdates following the submission of a notice of entitlement and intention, provided that he/she provides the organisation with a written notice. The written notice must contain:
-* an indication as to when the employee intends to takeÊshared parental leaveÊ(including the start and end dates for each period ofÊleave);
-* details of any periods ofÊshared parental leaveÊthat have been notified through a period ofÊleavenotice;
-* details of any periods of statutoryÊshared parentalÊpay that have been notified in relation to periods whereÊshared parental leaveÊwas not to be taken; and
-* a declaration signed by the mother and the partner that they agree to the variation.
-Any indication ofÊleaveÊintended to be taken that the employee provides in a variation of notice of entitlement and intention is non-binding until he/she provides a period ofÊleaveÊnotice in relation to that period ofÊleave. There is no limit on the number of variations of notice of entitlement and intention that the employee can make.
-Employee's period ofÊleaveÊnotice
-To take a period ofÊshared parental leave, the employee must provide the organisation with a written notice setting out the start and end dates of each period ofÊshared parental leaveÊrequested in that notice.
-A period ofÊleaveÊnotice must be given not less than eight weeks before the start date of the first period ofÊshared parental leaveÊrequested in the notice. The notice may be given at the same time as a notice of entitlement and intention and can be a request for a continuous period ofÊleaveÊor discontinuous periods ofÊleave.
-Variation or cancellation of period ofÊleaveÊnotice
-The employee can vary or cancel his/her proposedÊshared parental leaveÊdates following the submission of a period ofÊleaveÊnotice, provided that he/she provides his/her employer with a written notice not less than eight weeks before any period ofÊleaveÊvaried or cancelled by the notice is due to commence. The written notice can:
-* vary the start date or the end date of any period ofÊshared parental leaveÊor cancel a request forÊleave;
-* request that a continuous period ofÊleaveÊbecome discontinuous periods ofÊleave; or
-* request that discontinuous periods ofÊleaveÊbecome a continuous period ofÊleave.
-Limit on number of requests forÊleave
-The employee can provide a combined total of up to three period ofÊleaveÊnotices or variations of period ofÊleaveÊnotices per pregnancy, although the organisation may waive this limit in some circumstances.
-Continuous period ofÊshared parental leave
-If the employee submits a period ofÊleaveÊnotice requesting one continuous period ofÊleave, he/she will be entitled to take that period ofÊleave.
-Discontinuous periods ofÊshared parental leave
-The employee may submit a period ofÊleaveÊnotice requesting discontinuous periods ofÊleave. For example, the mother and partner could request a pattern ofÊleaveÊfrom their respective employers that allows them to alternate childcare responsibilities.
-If the employee submits a period ofÊleaveÊnotice requesting discontinuous periods ofÊleave, the organisation, in the two weeks beginning with the date the period ofÊleaveÊnotice was given, can:
-* consent to the pattern ofÊleaveÊrequested;
-* propose an alternative pattern ofÊleave; or
-* refuse the pattern ofÊleaveÊrequested.
-If agreement is reached within those two weeks, the employee is entitled to take theÊleaveÊon the dates agreed.
-If no agreement has been reached within that two-week discussion period, the employee is entitled to take theÊleaveÊas one continuous period ofÊleave. In that event, the employee must choose a start date for theÊleaveÊthat is at least eight weeks from the date on which the period ofÊleaveÊnotice was originally given. The employee must notify the organisation of that date within five days of the end of the two-week discussion period. If the employee does not choose a start date within five days of the end of the two-week discussion period, the period of continuousÊleaveÊwill start on the date of the first period ofÊleaveÊrequested in the period ofÊleaveÊnotice.
-Alternatively, if the organisation has refused the request or no agreement has been reached during the two-week discussion period, the employee may withdraw a period ofÊleaveÊnotice requesting discontinuous periods ofÊleave. The employee can withdraw a period ofÊleaveÊnotice at any time on or before the 15th day after the period ofÊleaveÊnotice was given. A notice for discontinuousÊleaveÊthat has been withdrawn before it is agreed does not count towards the total number of requests forÊleavethat an employee can make.
-Amount ofÊshared parentalÊpay available
-Option 1 - employer offers enhancedÊshared parentalÊpay [seeÊWarningÊbelow]
+- an indication as to when the employee intends to take shared parental leave (including the start and end dates for each period of leave);
+- details of any periods of shared parental leave that have been notified through a period of leavenotice;
+- details of any periods of statutory shared parental pay that have been notified in relation to periods where shared parental leave was not to be taken; and
+- a declaration signed by the mother and the partner that they agree to the variation.
+Any indication of leave intended to be taken that the employee provides in a variation of notice of entitlement and intention is non-binding until he/she provides a period of leave notice in relation to that period of leave. There is no limit on the number of variations of notice of entitlement and intention that the employee can make.
+
+### Employee's period of leave notice
+To take a period of shared parental leave, the employee must provide the organisation with a written notice setting out the start and end dates of each period of shared parental leave requested in that notice.
+A period of leave notice must be given not less than eight weeks before the start date of the first period of shared parental leave requested in the notice. The notice may be given at the same time as a notice of entitlement and intention and can be a request for a continuous period of leave or discontinuous periods of leave.
+
+### Variation or cancellation of period of leave notice
+The employee can vary or cancel his/her proposed shared parental leave dates following the submission of a period of leave notice, provided that he/she provides his/her employer with a written notice not less than eight weeks before any period of leave varied or cancelled by the notice is due to commence. The written notice can:
+- vary the start date or the end date of any period of shared parental leaveÊor cancel a request for leave;
+- request that a continuous period of leave become discontinuous periods of leave; or
+- request that discontinuous periods of leave become a continuous period of leave.
+
+### Limit on number of requests for leave
+The employee can provide a combined total of up to three period of leave notices or variations of period of leave notices per pregnancy, although the organisation may waive this limit in some circumstances.
+
+### Continuous period of shared parental leave
+If the employee submits a period of leave notice requesting one continuous period of leave, he/she will be entitled to take that period of leave.
+
+### Discontinuous periods of shared parental leave
+The employee may submit a period of leave notice requesting discontinuous periods of leave. For example, the mother and partner could request a pattern of leave from their respective employers that allows them to alternate childcare responsibilities.
+
+If the employee submits a period of leave notice requesting discontinuous periods of leave, the organisation, in the two weeks beginning with the date the period of leave notice was given, can:
+- consent to the pattern of leave requested;
+- propose an alternative pattern of leave; or
+- refuse the pattern of leave requested.
+If agreement is reached within those two weeks, the employee is entitled to take the leave on the dates agreed.
+If no agreement has been reached within that two-week discussion period, the employee is entitled to take the leave as one continuous period of leave. In that event, the employee must choose a start date for the leave that is at least eight weeks from the date on which the period of leave notice was originally given. The employee must notify the organisation of that date within five days of the end of the two-week discussion period. If the employee does not choose a start date within five days of the end of the two-week discussion period, the period of continuous leave will start on the date of the first period of leave requested in the period of leave notice.
+Alternatively, if the organisation has refused the request or no agreement has been reached during the two-week discussion period, the employee may withdraw a period of leave notice requesting discontinuous periods of leave. The employee can withdraw a period of leave notice at any time on or before the 15th day after the period of leave notice was given. A notice for discontinuous leave that has been withdrawn before it is agreed does not count towards the total number of requests for leavethat an employee can make.
+
+### Amount of shared parental pay available
+Option 1 - employer offers enhanced shared parental pay.
 The organisation offers employees [with [one year's] service] generousÊshared parentalÊpay.
 Example 1 - enhancedÊshared parentalÊpay where the employer provides full pay during maternityÊleave
 The organisation pays employees [with the required one year's service] their normal pay during anyÊshared parental leaveÊperiod that they take.
