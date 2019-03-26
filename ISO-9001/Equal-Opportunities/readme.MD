@@ -3,6 +3,7 @@
  
 #### 1.   EQUAL OPPORTUNITIES STATEMENT
 1.1  Infinity Works is committed to promoting equal opportunities in employment. Our employees and applicants will receive equal treatment regardless of age, disability, gender reassignment, marital or civil partner status, pregnancy or maternity, race, colour, nationality, ethnic or national origin, religion or belief, sex or sexual orientation (Protected Characteristics).
+
 #### 2.  ABOUT THIS POLICY
 2.1  This policy sets out our approach to equal opportunities and the avoidance of discrimination at work. It applies to all aspects of employment with us, including recruitment, pay and conditions, training, appraisals, promotion, conduct at work, disciplinary and grievance procedures, and termination of employment.
 2.2  The Executive Board is responsible for this policy and any necessary training on equal opportunities.
@@ -35,8 +36,10 @@
  
 #### 5.  DISABILITIES
 5.1  If you are disabled or become disabled, we encourage you to tell us about your condition so that we can consider what reasonable adjustments or support may be appropriate.
+
 #### 6.  PART-TIME AND FIXED-TERM WORK
 6.1  Part-time and fixed-term employees should be treated the same as comparable full-time or permanent employees and enjoy no less favourable terms and conditions (on a pro-rata basis where appropriate), unless different treatment is justified.
+
 #### 7.  BREACHES OF THIS POLICY
 7.1  We take a strict approach to breaches of this policy, which will be dealt with in accordance with our Disciplinary Policy. Serious cases of deliberate discrimination may amount to gross misconduct resulting in dismissal.
 7.2  If you believe that you have suffered discrimination you can raise the matter through our Grievance Policy. Complaints will be treated in confidence and investigated as appropriate.
