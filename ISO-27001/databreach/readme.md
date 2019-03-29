@@ -49,11 +49,9 @@ An incident includes but is not restricted to, the following:
 
 Any individual who accesses, uses or manages the company’s information is responsible for reporting data breach and information security incidents immediately to the Data Protection Officer (data.protection@infinityworks.com) and IT Systems (at it.systems@infinityworks.com). 
  
-If the breach occurs or is discovered outside normal working hours, it must be reported as soon as is practicable. 
- 
 The report must include full and accurate details of the incident, when the breach occurred (dates and times), who is reporting it, if the data relates to people, the nature of the information, and how many individuals are involved.  [A Data Breach Incident Report Form] (https://goo.gl/forms/VfHKbokfpRdGAc9f2) should be completed as part of the reporting process.
  
-All staff should be aware that any breach of Data Protection legislation may result in the company’s Disciplinary Procedures being instigated. 
+All staff should be aware that any breach of data protection legislation may result in the company’s Disciplinary Procedures being instigated. 
 
 
 ### Containment and recovery
