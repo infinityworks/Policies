@@ -18,7 +18,7 @@ The purpose of this policy is to outline the acceptable use of computer equipmen
 
 ## Scope
 
-This policy applies to the use of information, electronic and computing devices, and network resources to conduct Infinity Works business or interact with internal networks and business systems, whether owned or leased by Infinity Works, the employee or a third party. All employees, contractors, consultants, temporary, and other workers at Infinity Works and its subsidiaries are responsible for exercising good judgement regarding appropriate use of information, electronic devices, and network resources in accordance with Infinity Works policies and standards, and local laws and regulations. Exceptions to this policy are documented in the Policy Compliance section of this document.
+This policy applies to the use of information, electronic and computing devices, and network resources to conduct Infinity Works business or interact with internal networks and business systems, whether owned or leased by Infinity Works, the employee or a third party. All employees, contractors, consultants, temporary, and other workers at Infinity Works and its subsidiaries are responsible for exercising good judgement regarding appropriate use of information, electronic devices, and network resources in accordance with Infinity Works' policies and standards, and local laws and regulations. Exceptions to this policy are documented in the Policy Compliance section of this document.
 
 This policy applies to employees, contractors, consultants, temporaries, and other workers at Infinity Works, including all personnel affiliated with third parties. This policy applies to all equipment that is owned or leased by Infinity Works.
 
