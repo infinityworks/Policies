@@ -32,24 +32,14 @@ process.
 
 ## 4. Policy
 All changes to IT services provided by Infinity Works to its clients must follow a standard
-process to ensure appropriate planning and execution. Where a Master Services
-Agreement between Infinity Works and a Client does not provide the provision for
-Change Management, it is advised to introduce Appendix A.
+process to ensure appropriate planning and execution. Details of the Change Management Process can be obtained from legal@infinityworks.com.
 
 ## 5. Policy Compliance
 
-* 5.1 Compliance Measurement
-The Infinity Works Consulting Commercial Team and Legal Counsel will verify
-compliance to this policy through various methods, including but not limited to,
-periodic walkthroughs of contracts, client reviews, business tool reports, internal and
-external audits, and feedback to the Board of Directors.
+* 5.1 Compliance Measurement: The Infinity Works Consulting Commercial Team and Legal Counsel will verify compliance to this policy through various methods, including but not limited to, periodic walkthroughs of contracts, client reviews, business tool reports, internal and external audits, and feedback to the Board of Directors.
 
-* 5.2 Exceptions
-Any exception to the policy must be approved by the Infinity Works Consulting
-Commercial Team in advance.
+* 5.2 Exceptions: Any exception to the policy must be approved by the Infinity Works Consulting Commercial Team and Legal Counsel in advance.
 
-* 5.3 Non-Compliance
-An employee found to have violated this policy may be subject to disciplinary action, up
-to and including termination of employment.
+* 5.3 Non-Compliance: An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
 
 Please contact Legal@Infinityworks.com for the uptodate Change Managment Templates.
