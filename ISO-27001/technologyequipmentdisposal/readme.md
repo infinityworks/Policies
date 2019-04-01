@@ -17,7 +17,7 @@ All Infinity Works Consulting employees and contractors must comply with this po
 
 - When Technology assets have reached the end of their useful life they should be sent to the Systems Manager for proper disposal.
 - The Systems Manager will securely erase all storage mediums in accordance with current industry best practices.
-- All data including, all files and licensed software shall be removed from equipment using disk sanitising software that cleans the media overwriting each and every disk sector of the machine with zero-filled blocks, meeting Department of Defense standards.
+- All data including, all files and licensed software shall be removed from equipment using disk sanitising software that cleans the media overwriting each and every disk sector of the machine with zero-filled blocks, meeting Ministry of Defence standards.
 - No computer or technology equipment may be sold to any individual other than through the processes identified in this policy (Employee Purchase of Disposed Equipment, see section below).
 - No computer equipment should be disposed of via skips, dumps, landfill etc.  Electronic recycling bins may be periodically placed in locations around Infinity Works Consulting.  These can be used to dispose of equipment.  The Systems Manager will properly remove all data prior to final disposal. 
 - All electronic drives must be degaussed or overwritten with a commercially available disk cleaning program. Hard drives may also be removed and rendered unreadable (drilling, crushing or other demolition methods).
@@ -27,12 +27,12 @@ All Infinity Works Consulting employees and contractors must comply with this po
 
 ### Employee Purchase of Disposed Equipment
 
-- Equipment which is working, but reached the end of its useful life to Infinity Works Consulting, will be made available for purchase by employees.
+- Equipment which is working, but reached the end of its useful life to Infinity Works Consulting, will have it memory cleared/deleted and then made available for purchase by employees.
 - A lottery system will be used to determine who has the opportunity to purchase available equipment.
 - All equipment purchases must go through the lottery process.  Employees cannot purchase their office computer directly or “reserve” a system.  This ensures that all employees have an equal chance of obtaining equipment.
 - The Finance team will determine an appropriate cost for each item.  
 - All purchases are final.  No warranty or support will be provided with any equipment sold.  
-- Any equipment not in working order or remaining from the lottery process will be donated or disposed of according to current environmental guidelines.
+- Any equipment not in working order or remaining from the lottery process will be donated or disposed of according to current environmental guidelines (following deletion of it memory).
 - Infinity Works Consulting will ensure that contracts are in place to donate or properly dispose of outdated technology assets.   
 - Prior to leaving Infinity Works Consulting premises, all equipment must be removed from the ISO Fixed Asset Register.  
 
