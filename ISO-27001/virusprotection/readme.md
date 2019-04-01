@@ -36,7 +36,7 @@ Infinity Works uses a hosted email service which protects our users from unsolic
 ## Detection
 
 * Any activities with the intention to create and/or distribute malicious programs within Infinity Works are prohibited without prior permission from the ISMS Committee.
-* Virus-infected computers must be removed from the network until they are verified as virus-free. If a virus is detected on your workstation and the anti-virus software can not eliminate the virus, contact the Security Comittee.
+* Virus-infected computers must be removed from the network until they are verified as virus-free. If a virus is detected on your workstation and the anti-virus software can not eliminate the virus, contact the ISMS Comittee.
 
 ## Penalties
 
