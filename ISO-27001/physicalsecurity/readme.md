@@ -92,11 +92,11 @@ If identification, a point of contact, or purpose for being within an Infinity W
 
 Hostile Intruders can be classed as anyone attempting to gain access to Infinity Works offices in order to gain information on the business, our customers or cause disruption.
 
-* Anyone acting suspiciously should be challenged e.g. people loitering, vehicles moving slowly or repeatedly around the site perimeter, or someone taking photographs of the buildings etc. Any activity or behaviour of this nature is classed as hostile reconnaissance.  
+* Anyone acting suspiciously should be challenged (having regard to you physical safety) e.g. people loitering, vehicles moving slowly or repeatedly around the site perimeter, or someone taking photographs of the buildings etc. Any activity or behaviour of this nature is classed as hostile reconnaissance.  
 * All instances of perceived hostile reconnaissance should be reported immediately, no matter how trivial. It is better to report your suspicions, even if they transpire to be unfounded, than to fail to report something significant. 
-* At this point as much detail should be recorded regarding the individual(s) / vehicle identified as being potentially hostile. You will never be able to obtain too much information but for every incident we should be recording, where relevant, the vehicle make / model / colour / registration / number of occupants / description of individual(s) identified / sex / height / build / hair colour / clothing / distinguishing features. 
+* At this point as much detail as possible (having regard to your physical safety) should be recorded regarding the individual(s) / vehicle identified as being potentially hostile. You will never be able to obtain too much information but for every incident we should be recording, where relevant, the vehicle make / model / colour / registration / number of occupants / description of individual(s) identified / sex / height / build / hair colour / clothing / distinguishing features. 
 
-Questions and details to be passed to the police:
+Questions and details to be passed to the police wherever possible (having regard to your physical safety):
 
 * Name 
 * Intentions 
