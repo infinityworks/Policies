@@ -12,7 +12,7 @@ In order to make sure we do this effectively, we have put this guidance together
 Your Account Lead or a Board Member will approve your expenses claim (with receipts) according to the following spending guidance.
 
 ## How do I create a claim?
-We are now using Expensify to make recording your expenses as easy and swift as possible.  To use Expensify you’ll need to be registered. If you haven’t registered, you can use this use this link to register https://join.my.expensify.com?team=FADA3AA6B709CC6E&thanks=tom.walton%40infinityworks.com
+We are now using Expensify to make recording your expenses as easy and swift as possible.  To use Expensify you’ll need to be registered. If you haven’t registered, you can use this use [this link to register](https://join.my.expensify.com?team=FADA3AA6B709CC6E&thanks=tom.walton%40infinityworks.com).
 
 Once you’ve joined, you can log in using your Google account.  
 
