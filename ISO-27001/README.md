@@ -78,7 +78,6 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Data Protection Policy](../ISO-9001/DataProtectionPolicy/readme.md)
 * [Data Retention, Destruction and Disposal](dataretentionanddisposal/readme.md)
 * [Data Transfer](datatransfer/readme.md)
-* [Device](device/readme.md)
 * [Digital Signature Acceptance](digitalsignatureacceptance/readme.md)
 * [Email and Internet](emailandinternet/readme.md)
 * [End User Encryption Key Protection](enduserencryptionkeyprotection/readme.md)
