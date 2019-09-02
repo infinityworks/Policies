@@ -7,13 +7,14 @@ This policy applies to Infinity Works staff when using systems provided for work
 You are responsible for using work systems securely in a way which complies with the Data Protection Policy.
 * "Work systems" includes software systems provided for use by staff as well as any devices used to connect to these systems or company networks.
 
-You must promptly report theft, loss or unauthorized disclosure of proprietary information.
-
-You must only use work information for work purposes.
-* "Work information" means proprietary information of Infinity Works and Customers (potential, current and former).
+You must only use work _information_ for work purposes.
+* "Work information" means proprietary information of Infinity Works and customers (potential, current and former).
 * "Work purposes" means only to the extent it is authorized and necessary to fulfil your assigned job duties.
 
-You may use work systems for reasonable personal use.
+You must promptly report theft, loss or unauthorized disclosure of work information.
+
+You may use work _systems_ for reasonable personal use.
+* Remember that you represent the company. If you state an affiliation to Infinity Works, you must also clearly indicate that the opinions expressed are your own and not necessarily those of Infinity Works.
 
 Infinity Works monitor networks and systems to ensure appropriate use.
 
@@ -40,11 +41,9 @@ You must not do these things unless your specific job role requires it. In all c
 1. Network scanning or intercepting data not intended for you.
 1. Interfere with network traffic not intended for you.
 1. Circumvent authentication or security mechanisms of work systems.
-1. Introduce honeypots, honeynets, or similar technology on work networks. "Work networks" means networks of Infinity Works or Customers (potential, current and former).
+1. Introduce honeypots, honeynets, or similar technology on work networks. "Work networks" means networks of Infinity Works or customers (potential, current and former).
 1. Provide information about, or lists of, Infinity Works employees to parties outside Infinity Works, unless this activity is a part of your normal job/duty and is in accordance with Infinity Works' Employee and Contractor Privacy Notice.
 1. Send unsolicited "junk" or "spam" messages unless in accordance with Infinity Works' Privacy Policy.
-
-When using work systems, remember that you represent the company. If you state an affiliation to Infinity Works, you must also clearly indicate that "the opinions expressed are my own and not necessarily those of Infinity Works".
 
 ## Blogging and Social Media
 
