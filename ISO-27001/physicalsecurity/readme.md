@@ -39,7 +39,7 @@ Infinity Works will adopt the following items of security equipment:
 
 * Intruder Alarm Equipment for designated fire doors
 * Access Control Systems including Identity Cards
-* CCTV surveillance and CCTV recording equipment
+* CCTV surveillance and CCTV recording equipment (for sensitive or higher risk areas, i.e. HR, Finance and Legal at Head Office)
 * Door furniture, locks and suiting
 
 Infinity Works reserves the rights to:
