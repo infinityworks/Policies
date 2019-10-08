@@ -1,12 +1,11 @@
 # Change Management
 
 ## 1. Overview
-Change management refers to a formal process for making changes to IT services. The goal of change management is to increase awareness and understanding of proposed changes across an organisation and ensure that all changes are made in a thoughtful
-way that minimise negative impact to services and customers. This Change Management Process should be followed when there isn't an agreed Change Management Process in place and documented by a Master Services Agreement (MSA).
+Change management refers to a formal process for making changes to IT services. The goal of change management is to increase awareness and understanding of proposed changes across an organisation and ensure that all changes are made in a thoughtful way that minimise negative impact to services and customers. This Change Management Process should be followed when there isn't an agreed Change Management Process in place and documented by a Master Services Agreement (MSA).
 
 ## 2. Purpose
 Change management generally includes the following steps:
-- Planning: Plan the change, including the implementation design, scheduling, communication plan, testing plan and roll-bac plan.
+- Planning: Plan the change, including the implementation design, scheduling, communication plan, testing plan and roll-back plan.
 - Evaluation: Evaluate the change, including determining the priority level of the service and the risk of the proposed change; determine the change type and the change process to use.
 - Review: Review Change Plan with peers and/or Change Advisory Board as appropriate to the change type.
 - Approval: Obtain approval of the Change Plan by management as needed.
