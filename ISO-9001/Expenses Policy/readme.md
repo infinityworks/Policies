@@ -12,7 +12,7 @@ In order to make sure we do this effectively, we have put this guidance together
 Your Account Lead or a Board Member will approve your expenses claim (with receipts) according to the following spending guidance.
 
 ## How do I create a claim?
-We are now using Expensify to make recording your expenses as easy and swift as possible.  To use Expensify you’ll need to be registered. If you haven’t registered, you can use this use this link to register https://join.my.expensify.com?team=FADA3AA6B709CC6E&thanks=tom.walton%40infinityworks.com
+We are now using Expensify to make recording your expenses as easy and swift as possible.  To use Expensify you’ll need to be registered. If you haven’t registered, you can use this use [this link](https://join.my.expensify.com?team=FADA3AA6B709CC6E&thanks=tom.walton%40infinityworks.com) to register.
 
 Once you’ve joined, you can log in using your Google account.  
 
@@ -30,12 +30,11 @@ There are 2 ways to create a claim:
 3.  **Categorise your expense**
 - Category: Pick an appropriate category from the options provided.
 - Comment: Comments are mandatory, see below for what we need for each expense category.
-- fice: Pick from Leeds, London or Manchester, i.e. your home office unless you’re seconded elsewhere.
--  the Expense is rechargeable to a client please categorise it ‘Expenses to recharge to client - Expensify’ 
-Category, Comments and Office location are mandatory fields.
-4. **Verify everything is set as expected**|
-If this expense is to be recharged to a client please use the category ‘Expenses to recharge to client - Expensify’ then
-Tag the  customer, e.g. Sainsbury’s
+- Office: Pick from Leeds, London, Manchester or Edinburgh, i.e. your home office unless you’re seconded elsewhere.
+- if the Expense is rechargeable to a client please categorise it ‘Expenses to recharge to client - Expensify’
+- Category, Comments and Office location are mandatory fields.
+4. **Verify everything is set as expected**
+- If this expense is to be recharged to a client please use the category ‘Expenses to recharge to client - Expensify’ then tag the customer, e.g. Sainsbury’s
 
 By default all expenses are reimbursable. 
 
@@ -77,7 +76,7 @@ Click Save.
 **When and how will I get paid?**
 Your expense claim will be paid once approved. The payment runs are twice monthly the first one being on or around the 15th of the month and on the last working day of the month. 
 
-**What do I need in order for my expense claim to be approved and paid?.**
+**What do I need in order for my expense claim to be approved and paid?**
 In all instances a VAT receipt MUST be provided where possible - exceptions to this will be reviewed on a case by case basis and may be escalated to a member of the Board.
 
 A VAT receipt will include the provider’s VAT number and a breakdown of the cost including VAT. Note that some common expenses, e.g. train fares or take away cold drinks are VAT exempt, and many small traders are not VAT registered. It’s always best to ask for a VAT receipt first and accept a non-VAT receipt if that is all that is available.
@@ -140,8 +139,7 @@ Is it rechargeable to the client? Allocate the claim to the ‘Expenses to recha
 So we’re clear on what our team can spend (and to allow the people who validate and approve expense claims to approve quickly) we have pulled together the following guidance. Please do your best to keep to these (and the spirit of these) - again, we’d prefer to spend money on things that improve our team and people where possible! 
 
 Obviously with all guidance there is a degree of common sense that needs to be applied, e.g. 
-we don’t want you to buy a cheap hotel only to spend a fortune on taxis
-we don’t want you walking through dodgy areas to get to a hotel that’s £10 cheaper.
+we don’t want you to book a cheap hotel only to spend a fortune on taxis, and we don’t want you walking through dodgy areas to get to a hotel that’s £10 cheaper.
 
 Book things like you would if it was your money, as not to be wasteful whilst taking the same care and consideration for your safety that you would at home.
 
@@ -174,7 +172,7 @@ Book things like you would if it was your money, as not to be wasteful whilst ta
 
 - New starter lunches - £15/head for the new starter, advocate and account representative.
 
-Whilst we do not skimp on buying appropriate accessories and IT kit, we expect these things (in all but an emergency) to be purchased via the Admin team. This also goes for office equipment, software, licenses etc. Please do not purchase these independently, as it makes it incredibly difficult for us to manage renewals etc. We always do our best to get those purchased as quickly as possible on your behalf.
+Whilst we do not skimp on buying appropriate accessories and IT kit, we expect these things (in all but an emergency) to be purchased via the Admin team. This also goes for office equipment, software, licenses etc. Please do not purchase these independently, as it makes it incredibly difficult for us to manage renewals, etc. We always do our best to get those purchased as quickly as possible on your behalf.
 
 
 
