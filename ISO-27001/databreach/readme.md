@@ -42,17 +42,26 @@ An incident includes but is not restricted to, the following:
 - hacking attack; 
 - unforeseen circumstances such as a fire or flood; 
 - human error; 
-- ‘blagging’ offences where information is obtained by deceiving the organisation who holds it. 
+- ‘blagging’ offences where information is obtained by deceiving the organisation who holds it; 
+- a client/third party accidentally sending Infinity Works sensitive data such as Personal Data.
 
 
 ### Reporting an incident
 
+Infinity Works' Originated Incidents
 Any individual who accesses, uses or manages the company’s information is responsible for reporting data breach and information security incidents immediately to the Data Protection Officer (data.protection@infinityworks.com) and IT Systems (at it.systems@infinityworks.com). 
  
 The report must include full and accurate details of the incident, when the breach occurred (dates and times), who is reporting it, if the data relates to people, the nature of the information, and how many individuals are involved.  [A Data Breach Incident Report Form] (https://goo.gl/forms/VfHKbokfpRdGAc9f2) should be completed as part of the reporting process.
  
 All staff should be aware that any breach of data protection legislation may result in the company’s Disciplinary Procedures being instigated. 
 
+Third Party Originated Incidents
+Although Infinity Works weren't the source/cause of the breach, in such a situation we must:
+- delete the data
+- tell the client what’s happened and the steps we’ve taken
+- allow our client to form their own view of whether they need to tell the ICO / their customers what has happened. 
+
+We must not process the data in any way, e.g. anonymising it.  All staff should be aware that any breach of data protection legislation may result in the company’s Disciplinary Procedures being instigated. 
 
 ### Containment and recovery
 The Data Protection Officer (DPO) will assign a permanent employee with an applicable skill set, as an Investigation Office (IO) to determine if the breach is still occurring.  If so, the appropriate steps will be taken immediately to minimise the effect of the breach. 
