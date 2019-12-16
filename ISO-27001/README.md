@@ -39,14 +39,10 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* Directors - Paul Henshaw, Matt Gaffney, Dan Rathbone, Tom Walton
-* ISMS Manager (acting) - Steve Anderson
+* IW Ops Director - James O'Donovan
+* ISMS Manager (acting) - Tom Walton
 * Legal Counsel - Clare Mackintosh
-* Board Members (nominated): 
-   * Leeds - Steve Anderson, Neil Dunlop, Natalie Lovett, Pete Cotton
-   * Manchester - David Postle & Adrian Hesketh
-   * London - Neil Jennings, Richard Allen, Lara Longhurst
-   * Edinburgh - Ed Marshall
+* Local Ops Directors - Pete Cotton, Dave Postle, Lara Longhurst, Ed Marshall (Acting for Edinburgh)
 
 Contact Email: isms@infinityworks.com 
 
