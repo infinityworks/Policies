@@ -39,14 +39,29 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* Directors - Paul Henshaw, Matt Gaffney, Dan Rathbone, Tom Walton
-* ISMS Manager (acting) - Steve Anderson
+* Exec Board
+   * Tom Walton (Acting ISMS Manager)
+   * Dan Rathbone (CTO)
+   * James O'Donovan (Group Operations Director)
+   * James Morgan (Group Commercial Director)
+* Operations Directors:
+   * Leeds - Pete Cotton
+   * London - Lara Longhurst
+   * Manchester - David Postle
+   * Edinburgh - Ed Marshall (Practice Lead)
+* Business Development Directors:
+   * Leeds - Natalie Lovett
+   * London - Richard Allen
+   * Manchester - TBC
+   * Edinburgh - Ed Marshall (Practice Lead)
+* Technical Directors:
+   * Leeds - Neil Dunlop
+   * London - Neil Jennings
+   * Manchester - Rick Boyce
+   * Edinburgh - Ed Marshall (Practice Lead)
+* Head of People - Clement Pickering
+* Finance Director - Sadie Alton
 * Legal Counsel - Clare Mackintosh
-* Board Members (nominated): 
-   * Leeds - Steve Anderson, Neil Dunlop, Natalie Lovett, Pete Cotton
-   * Manchester - David Postle & Adrian Hesketh
-   * London - Neil Jennings, Richard Allen, Lara Longhurst
-   * Edinburgh - Ed Marshall
 
 Contact Email: isms@infinityworks.com 
 
