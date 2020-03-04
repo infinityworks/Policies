@@ -21,7 +21,7 @@ This document addresses our obligation under any legislation, standard or best p
 5.	Provide and maintain a safe means of escape.
 6.	Demonstrate proactive preventative action.
 7.	Show responsibilities of IWC’s fire safety systems.
-8.	Provide systems to protect individuals that may work alone, be under 18-years old, have a visible or hidden disability or someone who may be working in our premises as a visitor or contractor.
+8.	Provide systems to protect individuals that may work alone, be under 18 years old, have a visible or hidden disability or someone who may be working in our premises as a visitor or contractor.
 9.	Provide guidance on our responsibilities to maintain, inspect, check and test equipment, systems or items to the required minimum standard. Also record and maintain documentation of findings and ensure if required, fire safety management are notified.
 
 ## 4	Details
@@ -42,7 +42,7 @@ The above will be maintained in accordance with the current legislation, standar
 •	IWC will supply information, instruction and training to all staff in respect to their responsibilities in relation to their position in a fire emergency.
 
 ## 5	Monitoring & Review
-The policy will be reviewed at regular intervals not exceeding 12-months or if any major changes are made to either staff or premises.
+The policy will be reviewed at regular intervals not exceeding 12 months or if any major changes are made to either staff or premises.
 
 ## 6	Non-Compliance
 As well as complying with the Regulatory (Fire Safety) Order 2006, employees have legal duties under the Health & Safety at Work Act 1974 and the management of Health & Safety at Work Regulations 1999 to take reasonable care of their own and others Health and Safety at work. 
@@ -52,13 +52,13 @@ Any member of staff who commits a serious breach of any fire or safety legislati
 ## 7	Related Documents
 
 Fire Procedures
-•	Are listed within this booklet including Fire Action Notices by all fire alarm call points and written information is given to all new staff as part of their induction.
+* Are listed within this booklet including Fire Action Notices by all fire alarm call points and written information is given to all new staff as part of their induction.
 
 External:
 
-•	The Regulatory Reform (Fire Safety) Order 2006
-•	The Health & Safety at Work Act 1974
-•	The Management of Health & Safety at work regulation 1999.
+* The Regulatory Reform (Fire Safety) Order 2006
+* The Health & Safety at Work Act 1974
+* The Management of Health & Safety at work regulation 1999.
 
 Note: There are many other documents covering recommendations for fire safety. These will be where required and are used if required within this document.
 
@@ -70,7 +70,7 @@ Note: There are many other documents covering recommendations for fire safety. T
 
 ### 8.2	Responsible Person, Managing Director = MATT GAFFNEY
 
-		Responsibilities Include:
+Responsibilities Include:
 
 The Managing Director holds the final responsibility in ensuring the complete fire safety of IWC’s part of the building and its occupants. The Managing Director will ensure the appointed person will carry out their duties as required in managing fire safety within the company.
 
@@ -83,27 +83,22 @@ Emma Telfer in their legal duties.
 
 ### 8.3	Person Who Manages Fire Safety = EMMA TELFER
 
-		Responsibilities Include: 
+Responsibilities Include: 
 
-•	Ensuring the Policy and Procedure document is fit for use.
+* Ensuring the Policy and Procedure document is fit for use.
+* Review the Fire Risk Assessment as required by this document and ensure actions required are undertaken or referred to the M.D.
+* Track Landlord fire drills. Problems with IWC staff will be dealt with internally. External problems will be reviewed with the Landlord’s representative.
+* If any contractor is to carry out hot work, they are to be controlled by the procedure listed in this document.
+* At present, no flammable materials that fall under DSEAR are used or stored by IWC and if this changes, the competent person will be consulted.
+* Maintain and record the following:
 
-•	Review the Fire Risk Assessment as required by this document and ensure actions required are undertaken or referred to the M.D.
-
-•	Track Landlord fire drills. Problems with IWC staff will be dealt with internally. External problems will be reviewed with the Landlord’s representative.
-
-•	If any contractor is to carry out hot work, they are to be controlled by the procedure listed in this document.
-
-•	At present, no flammable materials that fall under DSEAR are used or stored by IWC and if this changes, the competent person will be consulted.
-
-•	Maintain and record the following:
-
-o	Hearing the fire alarm 
-o	Checks on the fire-fighting equipment
-o	Checks on the Emergency Lighting
-o	Checks on the portable electrical equipment and fixed electrical wiring (5-yearly check)
-o	Check on fire stop doors
-o	Check Fire Marshal plans are current and that enough Marshals are trained to cover for holidays and sickness.
-o	Use SLACK to send reminders to staff to check electrical equipment, wires and plugs.
+- Hearing the fire alarm 
+- Checks on the fire-fighting equipment
+- Checks on the Emergency Lighting
+- Checks on the portable electrical equipment and fixed electrical wiring (5-yearly check)
+- Check on fire stop doors
+- Check Fire Marshal plans are current and that enough Marshals are trained to cover for holidays and sickness.
+- Use SLACK to send reminders to staff to check electrical equipment, wires and plugs.
 
 Note: The above tests/checks may not be carried out by the person who manages fire safety (excluding contractor testing). Tests and checks may be delegated to another member of staff however, it is still the responsibility of the person who manages fire safety to ensure the delegated person is trained to carry out the task asked of them. It is also their responsibility to ensure regular quality checks are carried out to check their tests and checks that have been completed.
 
@@ -114,13 +109,10 @@ The competent person is a consultant from SF Fire Ltd. Any changes of Policy and
 
 ### 8.5	Fire Marshal Co-Ordinator
 
-•	On a fire alarm activation, they will put on their red/orange/blue jacket stating, ‘Fire Co-Ordinator’ and quickly make their way to the assembly point.
-
-•	They will take the clipboard noting the marked areas of the floor’s Fire Marshals. 
-
-•	They will check off their list as each Marshal reports that their area is clear.
-
-•	If a Marshal reports a fire or was unable to check from some reason, they are to report to a fire officer and provide this information as dictated by your Marshal (ensuring the Marshal is present whilst informing the fire brigade in case more information is required.)
+* On a fire alarm activation, they will put on their red/orange/blue jacket stating, ‘Fire Co-Ordinator’ and quickly make their way to the assembly point.
+* They will take the clipboard noting the marked areas of the floor’s Fire Marshals. 
+* They will check off their list as each Marshal reports that their area is clear.
+* If a Marshal reports a fire or was unable to check from some reason, they are to report to a fire officer and provide this information as dictated by your Marshal (ensuring the Marshal is present whilst informing the fire brigade in case more information is required.)
 
 ### 8.6	Fire Marshals 
 
@@ -130,25 +122,18 @@ Fire Marshals will check all rooms and areas on their plan and when completed, t
 
 ### 8.7	Employee Responsibilities
 
-•	To comply with the company’s requirements on fire safety.
-
-•	To comply with Health & Safety regulations where they interject with fire requirements.
-
-•	To follow the fire evacuation procedures as supplied to all employees and posted by fire alarm call points.
-
-•	Staff will take reasonable care to ensure they do not place themselves or others at risk or harm. During a normal working day, all staff will ensure that they keep all escape routes clear of any blockage, trip hazard or anything likely to impede escape from the building.
-
-•	Staff should not keep fire stop doors open any longer than the time it takes to walk past the door in question.
-
-•	Staff should not by any means block or partially cover any fire notices, fire-fighting equipment or manual call points.
-
-•	Staff should report any problem or hazards that they may be aware of regarding fire safety or fire escape.
-
-•	All staff must keep visitors with them and escort them to the assembly point during a fire alert.
+* To comply with the company’s requirements on fire safety.
+* To comply with Health & Safety regulations where they interject with fire requirements.
+* To follow the fire evacuation procedures as supplied to all employees and posted by fire alarm call points.
+* Staff will take reasonable care to ensure they do not place themselves or others at risk or harm. During a normal working day, all staff will ensure that they keep all escape routes clear of any blockage, trip hazard or anything likely to impede escape from the building.
+* Staff should not keep fire stop doors open any longer than the time it takes to walk past the door in question.
+* Staff should not by any means block or partially cover any fire notices, fire-fighting equipment or manual call points.
+* Staff should report any problem or hazards that they may be aware of regarding fire safety or fire escape.
+* All staff must keep visitors with them and escort them to the assembly point during a fire alert.
 
 ### 8.8	Visitors
 
-		Visitors are the responsibility of the employee seen whilst under their supervision. 
+Visitors are the responsibility of the employee seen whilst under their supervision. 
 
 All other visitors where situated on their own or in a toilet are the responsibility of the Fire Marshal to guide them to the assembly point. It is advisable to select a member of staff to take them to the assembly point if the visitor staff member is not close.
 
@@ -220,30 +205,26 @@ All sessions will be a duration of 30-minutes approximately every 3 years. Gener
 
 The co-ordinator will be one of the reception staff and trained by one of the Fire Marshals covering the following details:
 
-•	To quickly make their way to the assembly point.
-•	Take their ID jacket and area clipboard with them.
-•	Identify Marshals and mark all areas on the ID plan that they have made safe.
-•	If there is any safety problem where a fire was found by a Marshal or people are trapped, the co-ordinator will take the Marshall to a fire officer to get help.
+* To quickly make their way to the assembly point.
+* Take their ID jacket and area clipboard with them.
+* Identify Marshals and mark all areas on the ID plan that they have made safe.
+* If there is any safety problem where a fire was found by a Marshal or people are trapped, the co-ordinator will take the Marshall to a fire officer to get help.
 
 ## 13	Personal Emergency Evacuation Plan (PEEPs)
 
 PEEPs for hearing, blind and disabled persons may be required for the 2nd and 3rd floor of the building.
 
-At present there are no PEEP’s. IWC will evaluate, when required, any future person requiring special arrangements or assistance during an emergency evacuation of the building. It will also, if necessary, undertake any further staff training or purchase evacuation equipment where necessary in any future needs.
+At present there are no PEEPs. IWC will evaluate, when required, any future person requiring special arrangements or assistance during an emergency evacuation of the building. It will also, if necessary, undertake any further staff training or purchase evacuation equipment where necessary in any future needs.
 
 ## 14 	Young Person Policy
 
 At present the company has not recently employed any anyone under the age of 18 for some time however, young people under the age of 18 will be additionally protected against dangers of fire by the following:
 
-•	When working in an area, an extra Health & Safety assessment regarding the dangers of fire in this department will be carried out and recorded.
-
-•	A full time (i.e. not a staff member that often works offsite) mentor will be appointed (don’t forget illness, holidays etc.)
-
-•	Anyone under the age of 18 will not be able to be appointed as a Fire Warden/Marshal or Fire Team.
-
-•	They will not be required to use a fire extinguisher and fight fires.
-
-•	Their use of flammable materials will be monitored, restricted or prohibited.
+* When working in an area, an extra Health & Safety assessment regarding the dangers of fire in this department will be carried out and recorded.
+* A full time (i.e. not a staff member that often works offsite) mentor will be appointed (don’t forget illness, holidays etc.)
+* Anyone under the age of 18 will not be able to be appointed as a Fire Warden/Marshal or Fire Team.
+* They will not be required to use a fire extinguisher and fight fires.
+* Their use of flammable materials will be monitored, restricted or prohibited.
 
 Information on these safety measures should be supplied to the person’s guardian	
 
@@ -253,31 +234,26 @@ IWC will consistently monitor the HSE ACOP on portable appliance testing and ado
 
 IWC allow staff to bring in their electrical equipment and charge them on company premises if:
 
--	The device is from a recognisable, quality brand.
--	The leads and chargers are original equipment manufacturer or equivalent if not supplied with the device.
--	Equipment should be in good order and charging cord not damaged, broken or frayed.
+* The device is from a recognisable, quality brand.
+* The leads and chargers are original equipment manufacturer or equivalent if not supplied with the device.
+* Equipment should be in good order and charging cord not damaged, broken or frayed.
 
 Staff are advised not to bring in cheaply sourced, unbranded chargers or leads.
 
 ## 16	Fire Drills
 
-		As IWC occupy a floor on a 4-storey building, drills are organised by the Landlord every 6 months.
+As IWC occupy a floor on a 4-storey building, drills are organised by the Landlord every 6 months.
 
-		IWC will monitor regular drills are being held to comply with fire regulations.
+IWC will monitor regular drills are being held to comply with fire regulations.
 
 ## 17	Dangerous Works
 
-		IWC will control any contractor under their control with strict fire procedures as follows:
+IWC will control any contractor under their control with strict fire procedures as follows:
 
-•	Any area where a contractor using a device that will create heat, flame or sparks will have the area cleared from any flammable material before work commences.
-
-•	The time of the contractor's arrival will be entered in a diary (paper or electronic).
-
-•	When the contractor leaves, the work area will be inspected for any signs of fire or smoke.
-
-This will be entered in the diary as the finishing time – 1st inspection.
-
-•	After at least 1-hour but no more than 3-hours, a further inspection is carried out again looking for signs of ignition. If all is well, it will be entered in the diary as the 2nd inspection.
+* Any area where a contractor using a device that will create heat, flame or sparks will have the area cleared from any flammable material before work commences.
+* The time of the contractor's arrival will be entered in a diary (paper or electronic).
+* When the contractor leaves, the work area will be inspected for any signs of fire or smoke. This will be entered in the diary as the finishing time – 1st inspection.
+* After at least 1-hour but no more than 3-hours, a further inspection is carried out again looking for signs of ignition. If all is well, it will be entered in the diary as the 2nd inspection.
 
 ## 18	Housekeeping
 
@@ -287,21 +263,16 @@ They will have (or be part of a general sheet) a sheet to sign off as inspected 
 
 Checks are carried out at least monthly.
 
-
-
-
-
-
 ## 19	Fire System Maintenance
 
-		All fire related systems will be checked to the minimum British Standard as required.
+All fire related systems will be checked to the minimum British Standard as required.
 
 As the building is a leased floor of a 4-storey block of offices, many parts are controlled and maintained by the Landlord. The Landlord’s responsibilities are (but not limited to):	
 
-•	The Fire Alarm System
-•	Common Area Portable Fire Equipment
-•	Common Area Emergency Lighting (and at present, all IWC’s lighting)
-•	Common Area Escape Routes and Doors.
+* The Fire Alarm System
+* Common Area Portable Fire Equipment
+* Common Area Emergency Lighting (and at present, all IWC’s lighting)
+* Common Area Escape Routes and Doors.
 
 IWC expects the Landlord to maintain the equipment above to the current British Standard expected by the fire authorities.
 
@@ -315,13 +286,13 @@ All IWC’s fire-fighting equipment is inspected at 11, 12 or 13-month periods b
 
 IWC will:
 
--	Visually inspect the body of the unit to ensure it is not damaged.
--	Ensure units are not falling from the walls or if units are on stands, ensure they are stable.
--	Ensure units are not obstructed and is completely visible.
--	Ensure the operating instructions are clear and visible.
--	Ensure the pin and pull tight seal (or on Chubb equipment, an OK pin) are intact and in position.
--	If fitted with a gauge, ensure it is in the green section.
--	On a CO2 unit, ensure the swivel horn assembly is not damaged or missing.
+* Visually inspect the body of the unit to ensure it is not damaged.
+* Ensure units are not falling from the walls or if units are on stands, ensure they are stable.
+* Ensure units are not obstructed and is completely visible.
+* Ensure the operating instructions are clear and visible.
+* Ensure the pin and pull tight seal (or on Chubb equipment, an OK pin) are intact and in position.
+* If fitted with a gauge, ensure it is in the green section.
+* On a CO2 unit, ensure the swivel horn assembly is not damaged or missing.
 
 ### 19.2	Emergency Lighting:
 
@@ -331,33 +302,20 @@ The Landlord is currently testing all Emergency Lighting units in IWC areas.
 
 IWC undertakes the following safety inspections and tests at regular intervals between daily to monthly.
 
-•	Final fire exit doors are checked and recorded weekly for ease of opening and if required, the route to safety is walked monthly.
-
-•	As well as general daily walk rounds, IWC has a formal monthly Health & Safety check where the following is also inspected:
-
--	Fire signage including escape and industrial fire signage to ensure they are not missing, blocked or falling from the wall.
-
--	Obstruction to exit ways, fire exit doors and trip hazards.
-
--	Loose, damaged or trailing extension leads (visual only).
-
--	Broken plugs or sockets (these should be reported by staff).
-
--	Flammable material on, under or near electrical devices or dangerous heating devices. 
-
--	Misuse or not stored flammable liquids and/or gasses.
-
--	Any areas required to be fire compartmented should not have any holes or services put through walls, floors or ceilings.
-
-•	Fire stop doors are checked monthly for the following:
-
--	No signs of damage on the door or the frame.
-
--	The door when opened that it closes without restriction into its rebate.
-
--	The hinges, closer, handle checked to ensure they are not coming away from the door or frame.
-
--	The cold smoke seals and intumescent strips are complete along the door of the frame (excluding hinge and lock areas).
+* Final fire exit doors are checked and recorded weekly for ease of opening and if required, the route to safety is walked monthly.
+* As well as general daily walk rounds, IWC has a formal monthly Health & Safety check where the following is also inspected:
+  * Fire signage including escape and industrial fire signage to ensure they are not missing, blocked or falling from the wall.
+  * Obstruction to exit ways, fire exit doors and trip hazards.
+  * Loose, damaged or trailing extension leads (visual only).
+  * Broken plugs or sockets (these should be reported by staff).
+  * Flammable material on, under or near electrical devices or dangerous heating devices. 
+  * Misuse or not stored flammable liquids and/or gasses.
+  * Any areas required to be fire compartmented should not have any holes or services put through walls, floors or ceilings.
+* Fire stop doors are checked monthly for the following:
+  * No signs of damage on the door or the frame.
+  * The door when opened that it closes without restriction into its rebate.
+  * The hinges, closer, handle checked to ensure they are not coming away from the door or frame.
+  * The cold smoke seals and intumescent strips are complete along the door of the frame (excluding hinge and lock areas).
 
 Note: If the door does not close fully or is extremely slow in closing, the hydraulic closer may have to be adjusted.  Where possible, IWC does not use the Perco internal door closing device.
 

@@ -6,12 +6,14 @@
 
 #### 2.  ABOUT THIS POLICY
 2.1  This policy sets out our approach to equal opportunities and the avoidance of discrimination at work. It applies to all aspects of employment with us, including recruitment, pay and conditions, training, appraisals, promotion, conduct at work, disciplinary and grievance procedures, and termination of employment.
+
 2.2  The Executive Board is responsible for this policy and any necessary training on equal opportunities.
  
 2.3  This policy does not form part of any employee’s contract of employment and we may amend it at any time.
  
 #### 3.  DISCRIMINATION
 3.1  As an employee of IW, you must not unlawfully discriminate against or harass other people including current and former employees, job applicants, clients, customers, suppliers and visitors. This applies in the workplace, outside the workplace (when dealing with customers, suppliers or other work-related contacts), and on work-related trips or events including social events.
+
 3.2  The following forms of discrimination are prohibited under this policy and are unlawful:
  
 (a)  Direct discrimination: treating someone less favourably because of a Protected Characteristic. For example, rejecting a job applicant because of their religious views or because they might be gay.
@@ -42,6 +44,7 @@
 
 #### 7.  BREACHES OF THIS POLICY
 7.1  We take a strict approach to breaches of this policy, which will be dealt with in accordance with our Disciplinary Policy. Serious cases of deliberate discrimination may amount to gross misconduct resulting in dismissal.
+
 7.2  If you believe that you have suffered discrimination you can raise the matter through our Grievance Policy. Complaints will be treated in confidence and investigated as appropriate.
  
 7.3  You must not be victimised or retaliated against for complaining about discrimination. However, making a false allegation deliberately and in bad faith will be treated as misconduct and dealt with under our Disciplinary Policy.

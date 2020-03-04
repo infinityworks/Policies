@@ -1,6 +1,6 @@
 # Anti-Corruption and Bribery Policy
 We strive to conduct all of our business in an honest and ethical manner.  We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, fairly and with integrity in all our business dealings and relationships.  Any employee who breaches this policy will face disciplinary action, which could result in dismissal for gross misconduct.  Any contractor who breaches this policy may have their contract terminated with immediate effect.  
-This policy applies to all persons working for us or on our behalf in any capacity, including employees at all levels, directors, contractors etc. 
+This policy applies to all persons working for us or on our behalf in any capacity, including employees at all levels, directors, contractors, etc. 
 
 ## What is bribery?
 “Bribe” means a financial or other inducement or reward for action which is illegal, unethical, a breach of trust or improper in any way.  Bribes can take the form of money, gifts, loans, fees, hospitality, services, discounts, the award of a contract or any other advantage or benefit. “Bribery” includes offering, promising, giving, accepting or seeking a bribe. 
