@@ -4,7 +4,7 @@ At Infinity Works we have a collection of proven industry experts, each with man
 
 Training is offered as either scheduled public courses, often with industry recognised certifications, or bespoke training, coaching and mentoring tuned to meet your specific needs.
 
-- Employee discusses possible training with advocate. 
+- Employee discusses possible training with Advocate. 
   Examples are classroom training, conference attendance, time out for self-paced learning
 
 - First training event each year will usually be approved
@@ -20,12 +20,8 @@ We will know we have succeeded when we see _measurable outcome_
 
 eg:
 
-I believe that attending a Scrum Master course and achieving certification, will allow me to act as a credible Scrum Master role and assist in training and coaching these roles
-We will know we have succeeded when we see me assigned in a Scrum Master, Agile Coach role and playing an active role in Scrum Master training
-
-I believe that by becoming a Scrum Certified Professional, it will allow me to provide training and coaching at all levels of Scrum delivery, both internally and externally
-
-We will know we have succeeded when we see me providing internal and external training to staff and clients
+_I believe that attending a Scrum Master course and achieving certification, will allow me to act as a credible Scrum Master role and assist in training and coaching these roles. We will know we have succeeded when we see me assigned in a Scrum Master, Agile Coach role and playing an active role in Scrum Master training._
+_I believe that by becoming a Scrum Certified Professional, it will allow me to provide training and coaching at all levels of Scrum delivery, both internally and externally. We will know we have succeeded when we see me providing internal and external training to staff and clients._
 
 - Advocates are empowered to approve training but discuss with other advocates to ensure fair levelling
 

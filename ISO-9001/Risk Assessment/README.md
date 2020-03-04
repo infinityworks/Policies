@@ -8,7 +8,7 @@ The organisation will ensure that those undertaking the risk assessments are com
 Employees should report any hazards that they discover so that remedial steps can be taken to reduce any harm.
 
 ## Procedure wording
-The Local Board and Office Manager will:
+### The Local Board and Office Manager will:
 - ensure that a workplace hazard identification exercise is completed for the area under his/her control;
 - ensure that hazards are eliminated where possible;
 - identify and list the tasks that require risk assessment within his/her area of control;

@@ -22,11 +22,11 @@ All employees should treat our company’s property, whether material or intangi
 
 Employees:
 
-*Shouldn’t misuse company equipment or use it frivolously.
+  * Shouldn’t misuse company equipment or use it frivolously.
 
-*Should respect all kinds of incorporeal property. This includes trademarks, copyright and other property (information, reports etc.) Employees should use them only to complete their job duties.
+  * Should respect all kinds of incorporeal property. This includes trademarks, copyright and other property (information, reports etc.) Employees should use them only to complete their job duties.
 
-*Employees should protect company facilities and other material property from damage and vandalism, whenever possible.
+  * Employees should protect company facilities and other material property from damage and vandalism, whenever possible.
 
 ## Professionalism
 All employees must show integrity and professionalism in the workplace:

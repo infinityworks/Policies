@@ -42,7 +42,24 @@ Group Members:
 * IW Ops Director - James O'Donovan
 * ISMS Manager (acting) - Tom Walton
 * Legal Counsel - Clare Mackintosh
-* Local Ops Directors - Pete Cotton, Dave Postle, Lara Longhurst, Ed Marshall (Acting for Edinburgh)
+* Operations Directors:
+   * Leeds - Pete Cotton
+   * London - Lara Longhurst
+   * Manchester - David Postle
+   * Edinburgh - Ed Marshall (Practice Lead)
+* Business Development Directors:
+   * Leeds - Natalie Lovett
+   * London - Richard Allen
+   * Manchester - TBC
+   * Edinburgh - Ed Marshall (Practice Lead)
+* Technical Directors:
+   * Leeds - Neil Dunlop
+   * London - Neil Jennings
+   * Manchester - Rick Boyce
+   * Edinburgh - Ed Marshall (Practice Lead)
+* Head of People - Clement Pickering
+* Finance Director - Sadie Alton
+* Office Team - Emma Telfer
 
 Contact Email: isms@infinityworks.com 
 
@@ -67,7 +84,6 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Backup](backup/readme.md)
 * [Business Continuity Policy](bcp/readme.md)
 * [Bring Your Own Device](byod/readme.md)
-* [CCTV](physicalsecurity/readme.md)
 * [Clear Desk](cleardesk/readme.md)
 * [Computing](computing/readme.md)
 * [Cryptographic Controls](cryptographiccontrols/readme.md)
@@ -75,7 +91,6 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Data Protection Policy](../ISO-9001/DataProtectionPolicy/readme.md)
 * [Data Retention, Destruction and Disposal](dataretentionanddisposal/readme.md)
 * [Data Transfer](datatransfer/readme.md)
-* [Device](device/readme.md)
 * [Digital Signature Acceptance](digitalsignatureacceptance/readme.md)
 * [Email and Internet](emailandinternet/readme.md)
 * [End User Encryption Key Protection](enduserencryptionkeyprotection/readme.md)
