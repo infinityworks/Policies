@@ -87,7 +87,6 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Backup](backup/readme.md)
 * [Business Continuity Policy](bcp/readme.md)
 * [Bring Your Own Device](byod/readme.md)
-* [CCTV](physicalsecurity/readme.md)
 * [Clear Desk](cleardesk/readme.md)
 * [Computing](computing/readme.md)
 * [Cryptographic Controls](cryptographiccontrols/readme.md)
