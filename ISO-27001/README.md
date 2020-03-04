@@ -62,6 +62,7 @@ Group Members:
 * Head of People - Clement Pickering
 * Finance Director - Sadie Alton
 * Legal Counsel - Clare Mackintosh
+* Office Team - Emma Telfer
 
 Contact Email: isms@infinityworks.com 
 
