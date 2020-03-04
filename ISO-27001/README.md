@@ -39,11 +39,9 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* Exec Board
-   * Tom Walton (Acting ISMS Manager)
-   * Dan Rathbone (CTO)
-   * James O'Donovan (Group Operations Director)
-   * James Morgan (Group Commercial Director)
+* IW Ops Director - James O'Donovan
+* ISMS Manager (acting) - Tom Walton
+* Legal Counsel - Clare Mackintosh
 * Operations Directors:
    * Leeds - Pete Cotton
    * London - Lara Longhurst
@@ -61,7 +59,6 @@ Group Members:
    * Edinburgh - Ed Marshall (Practice Lead)
 * Head of People - Clement Pickering
 * Finance Director - Sadie Alton
-* Legal Counsel - Clare Mackintosh
 * Office Team - Emma Telfer
 
 Contact Email: isms@infinityworks.com 
