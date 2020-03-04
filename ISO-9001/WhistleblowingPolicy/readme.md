@@ -1,7 +1,7 @@
 # Whistleblowing
 
 We are committed to conducting our business with honesty and integrity and we expect all Infinity Works
-colleagues to maintain high standards. However we want to ensure that if there is any wrong doing that it is
+colleagues to maintain high standards. However we want to ensure that if there is any wrongdoing that it is
 identified and stopped before it negatively impacts on the business, the people within it or anyone else. Any
 suspected wrong doing should be reported as soon as possible. This policy covers all employees, directors and
 contractors.
@@ -12,7 +12,7 @@ and any breach of legal or professional obligations.
 
 ## How to raise a concern
 We hope that in many cases you will be able to raise any concerns with your Manager. However, where you prefer
-not to raise it with your Manager for any reason, you should contact [The People Team](people@infinityworks.com).
+not to raise it with your Manager for any reason, you should contact the [People Team](mailto:people@infinityworks.com).
 
 We will arrange a meeting with you as soon as possible to discuss your concern. You may bring a colleague to any
 meetings under this policy. Your companion must respect the confidentiality of your disclosure or any subsequent
@@ -26,7 +26,7 @@ doing in the workplace. In most cases you should not find it necessary to alert 
 however recognise that in some circumstances it may be appropriate for you to report your concerns to an
 external body such as a regulator. We strongly encourage you to seek advice before reporting a concern to anyone
 external. Public Concern at Work operates a confidential helpline in this regard 0207 4046609 (email:
-whistle@pcaw.co.uk)
+[whistle@pcaw.co.uk](mailto:whistle@pcaw.co.uk))
 
 Whistleblowers must not suffer any detrimental treatment as a result of raising a genuine concern and any
 colleague who threatens or retaliates against them may be subject to disciplinary action. However, if we conclude
