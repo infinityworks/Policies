@@ -2,34 +2,33 @@
 
 ## Overview
 
-As an organisation Infinity Works has a responsibility to protect the integrity and confidentiality of personal data held by us with regard to our clients, employees and partners. Individual employees also have that obligation with regards to unauthorised disclosure of data whether it is oral, printed, hand-written or computer based.
+As an organisation Infinity Works has a responsibility to protect the integrity and confidentiality of personal data held by us with regard to our clients, employees and partners. Individual employees also have an obligation to protect the integrity and confidentiality of personal data and to prevent unauthorised disclosure of data whether it is oral, printed, hand-written or computer based.
 
 ## Purpose
 
-This policy has been written to provide the necessary information to Infinity Works employees and contractors detailing their duties under the General Data Protection Regulation (GDPR) and Record Retention procedures.
+This policy has been written to provide the necessary information to Infinity Works employees and contractors detailing their duties under the General Data Protection Regulation (GDPR) with regards to record retention.
 
-This policy has also been written to set out the standards expected by Infinity Works employees and contractors in relation to processing of personal data and safeguarding individual’s rights.
+This policy has also been written to set out the standards expected by Infinity Works employees and contractors in relation to the processing of their personal data and the safeguarding of individual’s rights.
 
 ## Policy
 
 ### Retention
 
-Data and records should not be kept for longer than is necessary. This principle finds statutory form in the GDPR, which requires that personal data processed for any purpose “shall not be kept for longer than is necessary for that purpose”. See Employee and Contractor Privacy Notice for more details.
+The GDPR requires that personal data processed for any purpose “shall not be kept for longer than is necessary for that purpose”. See Employee and Contractor Privacy Notice for more details.
 
 Please see the record retention schedule at the end of this Policy.
 
 ### Destruction and Disposal
 
-To ensure compliance with the GDPR, all information, in any format, must be destroyed after the retention period from any Infinity Works location. All information, in any format held by Infinity Works, must be destroyed in a way which does not breach the confidentiality of our employees, contractors and customers.
+Subject to the [Back-up policy](/ISO-27001/backup), to ensure compliance with the GDPR, all information, in any format, must be destroyed after the retention period from any Infinity Works location. All information, in any format held by Infinity Works, must be destroyed in a way which does not breach the data protection rights of our employees, contractors and customers.
 
-All office paperwork for destruction should be shredded or placed in the designated confidential waste bins provided in the offices to be shredded offsite by our designated 3rd party disposal supplier. Other paper can be disposed of in the other bins provided in offices as long as it contains no sensitive or identifiable information – if in any doubt then it must be shredded.
+All office paperwork for destruction should be shredded or placed in the designated confidential waste bins provided in the offices to be shredded offsite by our designated 3rd party disposal supplier. Other paper can be disposed of in the other bins provided in offices as long as it contains no sensitive or personal data – if in any doubt then it must be shredded.
 
-The procedure for the destruction of Confidential or Sensitive Waste on electronic media such as USB stick, SD card, hard drives, or other removable media is:
+The procedure for the destruction of confidential information held on electronic media such as USB stick, SD card, hard drives, or other removable media is:
 
 1.	Destruction is agreed by the ISMS Committee or Executive Board Director
-2.	The media is held by the Office
-3.	The Office will forward the device or media to our designated 3rd party disposal supplier for secure destruction or secure erasing (if the media or device will be given to a charity or school)
-Destruction of back-up copies of such data will also be dealt with in the same manner.
+2.	The media is provided to the Office
+3.	The Office will forward the device or media to our designated 3rd party disposal supplier for secure destruction or secure erasing (if the media or device will be given to a charity or school) Destruction of back-up copies of such data will also be dealt with in the same manner, subject to the [Back-up policy](/ISO-27001/backup)
 
 ### Record Retention Schedule
 
@@ -49,7 +48,7 @@ Disciplinary|6 years after employment ceases|Not statutory
 Redundancy|6 years after employment ceases|Not statutory
 Recruitment and eligibility to work in the UK|Throughout the period of working and at least 3 yrs after employment finishes.|Copies of all relevant documents should be retained.
 Accounting documents|Minimum 3years, recommend 6 years|Section 221 of the companies Act 1985 as modified by the Companies Acts 1989 and 2006
-Working Time Records|2 years from date on which they were made|The Working Time Regulations 1998 (SI 1998/1833)
+Working Time Records|6 years from date on which they were made|The Working Time Regulations 1998 (SI 1998/1833)
 Tax Records|6 years (not less than 3 years post the end of the financial year to which they relate)|The Income Tax (Employments) Regulations 1993 (SI1993/744) as amended for example by The Income Tax (Employments) (Amendment No 6) Regulations 1996 (SI1996/2631)
 Contracts|6 years|Public service contract regulations 1993 Public supply contract regulations 1995
 Contracts under seal|12 years|Public service contract regulations 1993 Public supply contract regulations 1995

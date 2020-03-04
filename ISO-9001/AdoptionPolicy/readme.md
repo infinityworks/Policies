@@ -11,8 +11,8 @@ Placement Date;
 agency notifies you in writing of the match (Qualifying Week);
 5. Your spouse or partner will not be taking adoption leave with their employer (although they may be
 entitled to take paternity leave).
-The maximum adoption leave entitlement is 52 weeks, consisting of 26 weeks’ Ordinary Adoption Leave (OAL)
-and 26 weeks Additional Adoption Leave (AAL).
+The maximum adoption leave entitlement is 52 weeks, consisting of 26 weeks' Ordinary Adoption Leave (OAL)
+and 26 weeks' Additional Adoption Leave (AAL).
 
 ## Notification Requirements
 
@@ -28,7 +28,7 @@ should give us as much notice as you can, but wherever possible you must tell us
 original Intended Start Date (or the new start date if you are bringing the date forward). We will then write to you
 within 28 days to tell you your new expected return date.
 ## Adoption Pay
-Statutory adoption pay (SAP) is payable for up to 39 weeks provided you have at least 26 weeks’ continuous
+Statutory adoption pay (SAP) is payable for up to 39 weeks provided you have at least 26 weeks' continuous
 employment with us at the end of the Qualifying Week and your average earnings are not less than the lower
 earnings limit set by the government each tax year. It is paid at a rate set by the government each year. For
 further information speak to the [People Team](https://intranet.infinityworks.com/key-people/head-office-support).
@@ -43,13 +43,13 @@ period of paid adoption leave based on your normal salary, in accordance with th
 employee contributions you make will be based on the amount of any adoption pay you are receiving, unless you
 inform the [People Team](https://intranet.infinityworks.com/key-people/head-office-support) that you wish to make up any shortfall.
 We may make reasonable contact with you from time to time during your adoption leave although we will keep
-this to a minimum. You may work (including attending training) on up to 10 “keeping-in- touch” days during your
+this to a minimum. You may work (including attending training) on up to 10 “keeping-in-touch” days during your
 adoption leave. This is not compulsory and must be discussed and agreed with your Manager. You will be paid at
 your normal basic rate of pay for time spent working on a keeping in touch day and this will be inclusive of any
 adoption pay entitlement.
 ## Returning to work
 You must return to work on the expected return date unless you tell us otherwise. If you wish to return to work
-early, you must give us at least 8 weeks’ notice of the date. It is helpful if you give this notice in writing. You may
+early, you must give us at least 8 weeks' notice of the date. It is helpful if you give this notice in writing. You may
 be able to return later than the expected return date if you request annual leave or parental leave which will be at
 our discretion. You are normally entitled to return to work to the position you held before starting adoption leave,
 on the same terms of employment. However, if you have taken AAL and it is not reasonably practicable for us to

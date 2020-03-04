@@ -18,7 +18,7 @@ The purpose of this policy is to outline the acceptable use of computer equipmen
 
 ## Scope
 
-This policy applies to the use of information, electronic and computing devices, and network resources to conduct Infinity Works business or interact with internal networks and business systems, whether owned or leased by Infinity Works, the employee or a third party. All employees, contractors, consultants, temporary, and other workers at Infinity Works and its subsidiaries are responsible for exercising good judgement regarding appropriate use of information, electronic devices, and network resources in accordance with The Company policies and standards, and local laws and regulations. Exceptions to this policy are documented in the Policy Compliance section of this document.
+This policy applies to the use of information, electronic and computing devices, and network resources to conduct Infinity Works business or interact with internal networks and business systems, whether owned or leased by Infinity Works, the employee or a third party. All employees, contractors, consultants, temporary, and other workers at Infinity Works and its subsidiaries are responsible for exercising good judgement regarding appropriate use of information, electronic devices, and network resources in accordance with Infinity Works' policies and standards, and local laws and regulations. Exceptions to this policy are documented in the Policy Compliance section of this document.
 
 This policy applies to employees, contractors, consultants, temporaries, and other workers at Infinity Works, including all personnel affiliated with third parties. This policy applies to all equipment that is owned or leased by Infinity Works.
 
@@ -26,7 +26,7 @@ This policy applies to employees, contractors, consultants, temporaries, and oth
 
 ### General Use and Ownership
 
-Infinity Works proprietary information stored on electronic and computing devices whether owned or leased by Infinity Works, the employee or a third party, remains the sole property of The Company. You must ensure through legal or technical means that proprietary information is protected in accordance with the Data Protection Standard.
+Infinity Works proprietary information stored on electronic and computing devices whether owned or leased by Infinity Works, the employee, consultant, contractor, temporary or other worker or a third party, remains the sole property of Infinity Works. You must ensure through legal or technical means that proprietary information is protected in accordance with the Data Protection Policy.
 
 You have a responsibility to promptly report the theft, loss or unauthorized disclosure of Infinity Works proprietary information.
 
@@ -40,7 +40,7 @@ Infinity Works reserves the right to audit networks and systems on a periodic ba
 
 ## Security and Proprietary Information
 
-All mobile and computing devices that connect to the internal network must comply with the Acceptable Usage Policy.
+All mobile and computing devices that connect to the internal network must comply with this Acceptable Usage Policy.
 
 System level and user level passwords must comply with the Password Policy. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
 
@@ -90,13 +90,13 @@ The following activities are strictly prohibited, with no exceptions:
 
 1. Using any program/script/command, or sending messages of any kind, with the intent to interfere with, or disable, a user's terminal session, via any means, locally or via the Internet/Intranet/Extranet, unless this activity is a part of the employee's normal job/duty.
 
-1. Providing information about, or lists of, Infinity Works employees to parties outside Infinity Works, unless this activity is a part of the employee's normal job/duty.
+1. Providing information about, or lists of, Infinity Works employees to parties outside Infinity Works, unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Employee and Contractor Privacy Notice.
 
 #### Email and Communication Activities
 
 When using company resources to access and use the Internet, users must realise they represent the company. Whenever employees state an affiliation to Infinity Works, they must also clearly indicate that "the opinions expressed are my own and not necessarily those of Infinity Works".
 
-1. Sending unsolicited email messages, including the sending of "junk mail" or other advertising material to individuals who did not specifically request such material (email spam), unless this activity is a part of the employee's normal job/duty.
+1. Sending unsolicited email messages, including the sending of "junk mail" or other advertising material to individuals who did not specifically consent to receiving such material (email spam), unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Privacy Policy.
 
 1. Any form of harassment via email, telephone or paging, whether through language, frequency, or size of messages.
 
@@ -112,11 +112,11 @@ When using company resources to access and use the Internet, users must realise 
 
 #### Blogging and Social Media
 
-1. Blogging by employees, whether using Infinity Works' property and systems or personal computer systems, is also subject to the terms and restrictions set forth in this Policy. Use of Infinity Works' systems to engage in blogging is acceptable, provided that it is done in a professional and responsible manner, does not otherwise violate Infinity Works' policy, is not detrimental to Infinity Works' best interests, and does not interfere with an employee's regular work duties. Blogging from Infinity Works' systems may also be subject to monitoring.
+1. Blogging by employees, whether using Infinity Works' property and systems or personal computer systems, is also subject to the terms and restrictions set forth in this Policy. Use of Infinity Works' systems to engage in blogging is acceptable, provided that it is done in a professional and responsible manner, does not otherwise violate Infinity Works' policies, is not detrimental to Infinity Works' best interests, and does not interfere with an employee's regular work duties. Blogging from Infinity Works' systems may also be subject to monitoring.
 
-1. Infinity Works' Confidential Information policy also applies to blogging. As such, Employees are prohibited from revealing any Company confidential or proprietary information, trade secrets or any other material covered by Infinity Works' Information Sensitivity Policy when engaged in blogging.
+1. Infinity Works' Confidential Information Policy also applies to blogging. As such, Employees are prohibited from revealing any Company confidential or proprietary information, trade secrets or any other material covered by Infinity Works' Information Sensitivity Policy when engaged in blogging.
 
-1. Employees shall not engage in any blogging that may harm or tarnish the image, reputation and/or goodwill of Infinity Works and/or any of its employees. Employees are also prohibited from making any discriminatory, disparaging, defamatory or harassing comments when blogging or otherwise engaging in any conduct prohibited by Infinity Works' Non-Discrimination and Anti-Harassment policy.
+1. Employees shall not engage in any blogging which contravenes the Data Protection Act 2018 or which contains personal data (as defined by the Data Protection Act 2018) of another individual or that may harm or tarnish the image, reputation and/or goodwill of Infinity Works and/or any of its employees. Employees are also prohibited from making any discriminatory, disparaging, defamatory or harassing comments when blogging or otherwise engaging in any conduct prohibited by Infinity Works' Non-Discrimination and Anti-Harassment policy.
 
 1. Employees may also not attribute personal statements, opinions or beliefs to Infinity Works when engaged in blogging. If an employee is expressing his or her beliefs and/or opinions in blogs, the employee may not, expressly or implicitly, represent themselves as an employee or representative of Infinity Works. Employees assume any and all risk associated with blogging.
 

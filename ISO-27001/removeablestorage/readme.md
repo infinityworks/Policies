@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this policy is to minimize the risk of loss or exposure of sensitive information maintained by Infinity Works.
+The purpose of this policy is to minimize the risk of loss or exposure of information maintained by Infinity Works.
 
 ## Scope
 
@@ -11,14 +11,14 @@ This policy covers all computers and servers operating in Infinity Works.
 ## Policy
 
 - The use of removable media is highly discouraged.
-- Sensitive information should be stored on removable media only when required in the performance of your assigned duties or when providing information required by other state or government agencies. 
+- Information should be stored on removable media only when required in the performance of your assigned duties.
 - When sensitive information is stored on removable media, it must be encrypted in accordance with the Infinity Works Computing Policy.
 
 ## Compliance
 
 ### Compliance Measurement
 
-The ISMS Committee will request periodic internal reviews whereby they will sample removable media for adherence to the encryption and IW supplied parts of the information, and log the report with the ISMS committee.
+The ISMS Committee will request periodic internal reviews whereby they will sample removable media to ensure adherence with applicable Infinity Works policies and log the report with the ISMS committee.
 
 ### Exceptions
 

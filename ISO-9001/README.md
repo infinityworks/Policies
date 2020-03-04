@@ -37,6 +37,7 @@ Thank You!
 - [CompassionateLeave](Compassionate%20Leave%20Policy)
 - [DataProtectionPolicy](DataProtectionPolicy)
 - [DisciplinaryAndCapabilityPolicy](DisciplinaryAndCapabilityPolicy)
+- [Driving for work](Driving%20for%20work)
 - [ExpensesPolicy](Expenses%20Policy)
 - [Equal Opportunities](Equal-Opportunities)
 - [Fire and EmergencyEvacuationPolicyAndProcedures](Fire%20and%20EmergencyEvacuationPolicyAndProcedures)
@@ -46,13 +47,13 @@ Thank You!
 - [HealthandSafetyatWorkPolicy](HealthAndSafetyAtWorkPolicy)
 - [ItAndCommunicationSystems](ItAndCommunicationSystems)
 - [JuryService](JuryServicePolicy)
-- [LoneWorker  - Needs Adding]
+- [Lone Worker](Lone%20Worker)
 - [MaternityPolicy](MaternityPolicy)
 - [PaternityPolicy](PaternityPolicy)
-- [RiskPolicy  - Needs Adding]
-- [SDLC](SDLC in-life)
+- [Risk Policy](Risk%20Assessment)
+- [SDLC](SDLC%20in-life)
 - [SicknessandAbsencePolicy](SicknessandAbsencePolicy)
-- [Shared Parental Leave Policy  - Needs Adding]
+- [Shared Parental Leave Policy  - Draft available, speak to People Team]
 - [SocialMedia](SocialMedia)
 - [TimeOffForDependantsPolicy](TimeOffForDependantsPolicy)
 - [TrainingPolicy](TrainingPolicy)
