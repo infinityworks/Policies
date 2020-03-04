@@ -7,8 +7,8 @@ the workplace. All employees and contractors (“Personnel”) shall observe, ab
 bound by the following provisions.
 1. No Personnel shall use, be in possession of or be under the influence of any drugs at
 the work location (whether Company or Client premises) or cause any drugs be
-carried into any work location. Exceptions are doctor prescribed drugs.
-2. No Personnel shall be under the influence of alcohol at the work location (whether
+carried into any work location. Exceptions are doctor prescribed drugs. 
+2. No Personnel shall be under the influence of alcohol at the work location, during working hours,(whether
 Company or Client premises).
 3. Personnel are obligated to advise the [People Team](https://intranet.infinityworks.com/key-people/head-office-support) of any arrest or prosecution: for
 driving or attempting to drive a motor vehicle while under the influence of drugs and
