@@ -1,6 +1,6 @@
 # Social Networking Policy
 
-This policy is in place to minimise the risks to our business through the use of social media.  The policy deals with the use of all forms of social media, including Facebook, Linkedin, Twitter, Google+, Wikipedia and all other social networking sites, internet postings and blogs.   It applies to the use of social media for business purposes as well as personal use that may affect our business in any way. This policy does not form part of any employee's contract of employment and we may amend it at any time.
+This policy is in place to minimise the risks to our business through the use of social media.  The policy deals with the use of all forms of social media, including Facebook, Linkedin, Twitter, Wikipedia and all other social networking sites, internet postings and blogs.   It applies to the use of social media for business purposes as well as personal use that may affect our business in any way. This policy does not form part of any employee's contract of employment and we may amend it at any time.
 
 
 ### Personal Conduct
