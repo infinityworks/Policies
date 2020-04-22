@@ -70,7 +70,7 @@ The Data Protection Officer (DPO) will assign a permanent employee with an appli
  
 An initial assessment will be made by the IO to establish the severity of the breach and if anyone else is needed to facilitate the investigation at this point or for subsequent steps, this will depend on the nature of the breach; in some cases it could be the DPO.  
  
-he Investigation Officer (IO) will establish whether there is anything that can be done to recover any losses and limit the damage the breach could cause. 
+The Investigation Officer (IO) will establish whether there is anything that can be done to recover any losses and limit the damage the breach could cause. 
  
 The IO will establish who may need to be notified as part of the initial containment and will inform the police, where appropriate. 
  
