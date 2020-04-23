@@ -54,7 +54,7 @@ Any individual who accesses, uses or manages the company’s information is resp
  
 The Data Breach Incident Report Form must include full and accurate details of the incident, when the breach occurred (dates and times), who is reporting it, if the data relates to people, the nature of the information, and how many individuals are involved.  
 
-The Data Protection Group (which comprises IW's Technical Directors, Operations Directors, Legal Counsel, IT Systems and Group Operations Director) will be automatically informed of the breach through email and Slack.  The breach will be triaged, assigned owners, resolved, reported and escalated as per the diagram below. 
+Members of the Data Protection Group will be automatically informed of the breach through email and Slack. The breach will be triaged, assigned owners, resolved, reported and escalated as per the diagram below. 
 
 ![Data Breach Action Plan](data-breach-action-plan.png)
  
