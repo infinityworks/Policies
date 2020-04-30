@@ -107,9 +107,9 @@ To aid our evaluation of incident severity, we should use the following matrices
 | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Critical | * Over 80% of staff (or several critical staff/teams) unable to work <br />* Critical systems offline with no known resolution * Financial impact of £100k or higher   |
 |   High   | * 50% of staff unable to work <br />* Non critical systems affected, or critical systems affected with known (< 30 minutes) resolution <br />* Financial impact of £25k-100k |
-|  Medium  | * 20% of staff unable to work <br />* Non critical systems affected, but known (<30 minutes resolution) * Low financial impact of <£25k                              |
+|  Medium  | * 20% of staff unable to work <br />* Non critical systems affected, but known (<30 minutes resolution) <br />* Low financial impact of <£25k                              |
 |   Low    | * <10% of staff or non critical staff affected temporarily (short term) <br />* One or two non-sensitive / non-critical machines affected                           |
-|   None   | * No staff impact * No impact to systems or data <br />* No financial impact                                                                                           |
+|   None   | * No staff impact <br />* No impact to systems or data <br />* No financial impact                                                                                           |
 
 <br>
 
