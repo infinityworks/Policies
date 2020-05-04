@@ -3,7 +3,7 @@
 
 Infinity Works (the “company”) collects, holds, processes, and shares personal data, a valuable asset that needs to be suitably protected.
 
-Every care is taken to protect personal data from incidents (either accidentally or deliberately) to avoid a data protection breach that could compromise security.
+Every care is taken to protect personal data from incidents (either accidentally or deliberately) and to avoid a data protection breach that could compromise security.
 
 Compromise of information, confidentiality, integrity, or availability may result in harm to individual(s), reputational damage, detrimental effect on service provision, legislative noncompliance, and/or financial costs.
 
@@ -14,11 +14,11 @@ Infinity Works is obliged under General Data Protection Regulation (EU) 2016/679
 
 This policy sets out the procedure to be followed to ensure a consistent and effective approach is in place for managing data breach and information security incidents across the company.
 
-This policy relates to all personal and special categories (sensitive) data held by the company regardless of format.
+This policy relates to all types of data (including personal data and special category (i.e. sensitive) data held by the company regardless of format.
 
-This policy applies to all staff at Infinity Works. This includes temporary, casual or agency staff and contractors, consultants, suppliers and data processors working for, or on behalf of the company.
+This policy applies to all staff at Infinity Works and to all temporary, casual or agency staff and contractors, consultants, suppliers and data processors working for, or on behalf of the company.
 
-The objective of this policy is to contain any breaches, to minimise the risk associated with the breach and consider what action is necessary to secure personal data and prevent further breaches.
+The objective of this policy is to assess the impact of a breach, to contain any breaches, to minimise the risk associated with the breach and consider what action is necessary to secure personal data and prevent further breaches.
 
 
 ## Policy
@@ -26,7 +26,7 @@ The objective of this policy is to contain any breaches, to minimise the risk as
 
 For the purpose of this policy, data security breaches include both confirmed and suspected incidents.
 
-An incident in the context of this policy is an event or action which may compromise the confidentiality, integrity or availability of systems or data, either accidentally or deliberately, and has caused or has the potential to cause damage to the company’s information assets and / or reputation.
+An incident in the context of this policy is an event or action which may compromise the confidentiality, integrity or availability of systems or data, either accidentally or deliberately, and has caused or has the potential to cause damage to the company’s information (including that of its clients to which it has access), assets and / or reputation.
 
 An incident includes but is not restricted to, the following:
 
@@ -47,18 +47,18 @@ An incident includes but is not restricted to, the following:
 ### Reporting an incident
 #### Infinity Works' Originated Incidents
 
-Any individual who accesses, uses or manages the company’s information is responsible for reporting data breach and information security incidents immediately to Infinity Works' Data Protection Group (data.protection@infinityworks.com) - This should be done by completing a [Data Breach Incident Report Form](https://forms.gle/QjXKKgvQ1wZ4GLcV8).
+Any individual who accesses, uses or manages the company’s information is responsible for reporting data breaches and information security incidents immediately to Infinity Works' Data Protection Group (data.protection@infinityworks.com) - This should be done by completing a [Data Breach Incident Report Form](https://forms.gle/QjXKKgvQ1wZ4GLcV8).
 
-The Data Breach Incident Report Form must include full and accurate details of the incident, when the breach occurred (dates and times), who is reporting it, if the data relates to people, the nature of the information, and how many individuals are involved. Please enter all details into the form in the third person, using clear and appropriate language as the data entered will be used to create an initial Security Breach Report for distribution following triage.
+The Data Breach Incident Report Form must include full and accurate details of the incident, when the incident occurred (dates and times), who is reporting it, if the data relates to people, the nature of the information, and how many individuals are involved. Please enter all details into the form in the third person, using clear and appropriate language as the data entered will be used to create an initial Security Breach Report for distribution following triage.
 
-Members of the Data Protection Group will be automatically informed of the breach through email and Slack. The breach will be triaged, assigned owners, resolved, reported and escalated. The employees shown in the diagram below will form the core of the Investigation Office and will be assigned the following tasks:
+Members of the Data Protection Group will be automatically informed of the breach through email and Slack. The breach will be triaged, assigned owners, resolved, reported and escalated. The employees shown in the diagram below will form the core of the Investigation Office (Response Team) and will be assigned the following tasks:
 
 |          Steps           | Employee                                                                                                                                               | Account Manager                                                                                                                                  | Technical Director                                                                                                                                        | Legal Counsel                                                                                                                        | Operations Director                                                                                                                                        | Data Protection Officer                                                                                                                          |
 | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 |    1<br>Report Breach    | [Employee files breach report](https://forms.gle/QjXKKgvQ1wZ4GLcV8)<br><br>Forwards breach report email to their Account Manager and confirms receipt. | Ensures Technical Director has been immediately notified about the breach.                                                                       | Receives email report detailing the breach and<br>acknowledges receipt to the employee and their Account Manager.                                         | Receives email report detailing the breach.                                                                                          | Receives email report detailing the breach.                                                                                                                | Receives email report detailing the breach.                                                                                                      |
 | 2<br>Triage and escalate | Works with Technical Director, as required, to provide more details about the cause of the breach.                                                     | Works with Technical Director to provide further details about the potential impact to the client based upon the MSA/SoW in place.               | Technical Director triages the breach and determines priority,<br>staffing (Investigation Office), speed and frequency of response.                       | Works with the Technical Director during Triage to understand any legal and/or commercial impact of the breach.                      | Triage output received from Technical Director.                                                                                                            | Triage output received from Technical Director.<br>Escalation Point if breach is deemed to have any potential commercial or reputational impact. |
 |       3<br>Respond       | Works as part of the Investigation Office to construct, test and launch a fix.                                                                         | Works as part of the Investigation Office to construct, test and launch a fix.<br><br>Informs the client (as instructed<br>by the Legal Counsel) | Coordinates the fix with the Investigation Office, sends out internal comms.<br>Determines with Legal Counsel if impact is wider than one client account. | Works within Investigation Office to understand legal and<br>commercial impacts to the client(s) and company. Drafts external comms. | Escalation point - Takes over from the Technical Director only where comms are necessary across multiple accounts. Coordinates response via Legal Counsel. | Escalation Point if breach is deemed to have any potential commercial or reputational impact.                                                    |
-|       4<br>Report        | Works with the other members of the Investigation Office to complete the Breach Report, detailing actions and mitigations.                             | Works with the other members of the Investigation Office to complete the Breach Report, detailing actions and mitigations.                       | Ensures breach is resolved and Breach Report has been completed<br>and closed in agreement with the other members of the Investigation Office.            | Reports any data breach as required to the ICO.<br>Adds incident to the MRM action log for discussion at the next Ops Board.         | No further action at this point.<br>Incident to be discussed during the MRM (ISO 27001 review section) at the Ops Board.                                   | No further action at this point.Incident to be discussed during the MRM (ISO 27001 review section) at the Ops Board.                             |
+|       4<br>Report        | Works with the other members of the Investigation Office to complete the Breach Report, detailing actions and mitigations.                             | Works with the other members of the Investigation Office to complete the Breach Report, detailing actions and mitigations.                       | Ensures breach is resolved and Breach Report has been completed<br>and closed in agreement with the other members of the Investigation Office.            | Reports any data breach as required to the ICO.<br>Reviews Breach Report prior to any external circulation.<br>Adds incident to the MRM action log for discussion at the next Ops Board.         | No further action at this point.<br>Incident to be discussed during the MRM (ISO 27001 review section) at the Ops Board.                                   | No further action at this point.Incident to be discussed during the MRM (ISO 27001 review section) at the Ops Board.                             |
 
 <br>
 The high-level flow diagram below attempts to show how this will work in action.
@@ -214,7 +214,7 @@ The IO will investigate the breach and assess the risks associated with it, for 
 The investigation will need to take into account the following: 
 - the type of data involved; 
 - its sensitivity; 
-- the protections are in place (e.g. encryptions); 
+- the protections that are in place (e.g. encryptions); 
 - what has happened to the data (e.g. has it been lost or stolen; 
 - whether the data could be put to any illegal or inappropriate use; 
 - data subject(s) affected by the breach, number of individuals involved and the potential effects on those data subject(s); 
@@ -226,7 +226,7 @@ In order to carry out such analysis we need to ensure that our staff are adequat
 
 Analysis may continue during the remediation / eradication stage in some cases.  For example, during a cyber attack when enough of the threat is understood to fully remove it from the network, but more analysis is needed to establish exactly what happened during the attack, so that legal, regulatory, and other external stakeholders can be informed.
  
-All staff should be aware that any analysis showing a breach of data protection legislation may result in the company’s Disciplinary Procedures being instigated. 
+All staff should be aware that any analysis showing a breach of data protection legislation may result in the company’s disciplinary procedures being instigated. 
 
 #### Contain / Mitigate
 The priority at this stage is to learn enough to contain, and ultimately remediate the breach. 
@@ -243,7 +243,7 @@ This work should be undertaken as soon as possible, and should continue througho
 
 It is important that we react swiftly and effectively without overreacting.  During this phase it is important to think through the potential repercussions of any actions you might take to deal with the incident.  Overreacting can cause more damage than the incident itself. And in the case of targeted attacks, the attacker could react or bury themselves more deeply in our systems or networks.
 
-In some cases, it may be better to monitor and analyse further before you take action. You will need to assess this on a case-by-case basis.  The key to knowing the right action to take is to ensure that we have categorised the type and severity of breach correctly.  This enables us to form the Investigation Office (response team) with sufficient people of the correct level of skills and experience to react effectively.
+In some cases, it may be better to monitor and analyse further before you take action. You will need to assess this on a case-by-case basis.  The key to knowing the right action to take is to ensure that we have categorised the type and severity of breach correctly.  This enables us to form the IO with sufficient people of the correct level of skills and experience to react effectively.
 
 #### Remediation/Eradication
 We’ll need to consider the following:
@@ -306,7 +306,7 @@ Which will involve the following steps as a minimum:
 - tell the client what’s happened and the steps we’ve taken
 - allow our client to form their own view of whether they need to tell the ICO / their customers what has happened. 
 
-We must not process the data in any way, e.g. anonymising it.  All staff should be aware that any breach of data protection legislation may result in the company’s Disciplinary Procedures being instigated. 
+We must not process the data in any way, e.g. anonymising it.  All staff should be aware that any breach of data protection legislation may result in the company’s disciplinary procedures being instigated. 
  
 ### Policy Review
 This policy will be updated as necessary to reflect best practice and to ensure compliance with any changes or amendments to relevant legislation.   
