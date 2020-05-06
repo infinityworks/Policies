@@ -1,7 +1,7 @@
 #  Business Continuity
 This policy outlines how we react to external events (e.g loss of access to our offices due to a fire) in order to continue to conduct business.
 
-#### To view the Infinity Works Business Continuity Plan [click here](https://docs.google.com/document/d/1UBDPaf8G7Jacxn8OGg8r1DvrjJDrkHleyNMx7GQdqQk/edit#) 
+#### The Infinity Works Business Continuity Plan can be found on the (TD) ISO Team drive.
 
 # General principles
 * We do not rely on the availability of our office building
