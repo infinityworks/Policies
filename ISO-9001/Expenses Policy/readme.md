@@ -46,7 +46,7 @@ There are a number of categories of expenses that you will raise, and here’s g
 - Postcode to and from
 - How many miles?
 
-**For Travel, e.g. Train, Air, Road (Can be booked by either Principals, Account Leads or the central Admin team):**
+**For Travel, e.g. Train, Air, Road (Can be booked by either Principals, Managing Consultants, Account Leads or the central Admin team):**
 - Receipt / booking confirmation
 - To / From?
 - Tag the customer and project (if necessary)
