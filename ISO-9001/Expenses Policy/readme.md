@@ -14,10 +14,10 @@ Your Account Lead or a Board Member will approve your expenses claim (with recei
 ## How do I create a claim?
 We have a user guide on the infinitranet (under the employee portal section) to guide you through entering and submitting expenses.
 
-**When and how will I get paid?**
+## When and how will I get paid?
 All expenses that are approved by the end of the month will be reimbursed no later than the Friday of the week that follows month end.
 
-**What do I need in order for my expense claim to be approved and paid?**
+## What do I need in order for my expense claim to be approved and paid?
 In all instances a VAT receipt MUST be provided where possible - exceptions to this will be reviewed on a case by case basis and may be escalated to a member of the Board.
 
 A VAT receipt will include the provider’s VAT number and a breakdown of the cost including VAT. Note that some common expenses, e.g. train fares or take away cold drinks are VAT exempt, and many small traders are not VAT registered. It’s always best to ask for a VAT receipt first and accept a non-VAT receipt if that is all that is available.
@@ -76,7 +76,7 @@ Claim for your own subsistence only.
 Tag the customer and project (if necessary)
 Is it rechargeable to the client? Allocate the claim to the ‘Expenses to recharge to client - Expensify’ category
 
-**What can I spend?**
+## What can I spend?
 So we’re clear on what our team can spend (and to allow the people who validate and approve expense claims to approve quickly) we have pulled together the following guidance. Please do your best to keep to these (and the spirit of these) - again, we’d prefer to spend money on things that improve our team and people where possible! 
 
 Obviously with all guidance there is a degree of common sense that needs to be applied, e.g. 
@@ -84,7 +84,7 @@ we don’t want you to book a cheap hotel only to spend a fortune on taxis, and 
 
 Book things like you would if it was your money, as not to be wasteful whilst taking the same care and consideration for your safety that you would at home.
 
-**Spending limits**
+### Spending limits
 
 - Advocacy sessions / lunch - up to a maximum of £15/head 
 
