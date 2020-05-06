@@ -87,9 +87,10 @@ Book things like you would if it was your money, as not to be wasteful whilst ta
 
 - Advocacy sessions / lunch - up to a maximum of £15/head 
 
-- Subsistence (Food and Drink)
-  * Overnight Stay. Up to £40 including breakfast (£25 if breakfast is included with your hotel booking) per overnight stay, supported by receipts (not a flat rate payment)
-  * Day travel to temporary workplace £10 supported by receipts, public transport where possible/reasonable e.g. in central London
+- Subsistence (Food and Drink when working away)
+  * Breakfast - £10
+  * Lunch Meal you have around midday - £10
+  * Dinner Meal you have in the evening - £25
  
 - Hotels (If admin don’t book)
   * UK - Staying outside of London & Edinburgh up to £100/night
