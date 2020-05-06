@@ -41,7 +41,6 @@ There are a number of categories of expenses that you will raise, and here’s g
 **For Mileage (to allow us to reclaim VAT):**
 - Fuel receipt (doesn’t have to be for that particular journey, but must be within 90 days)
 - Diesel or petrol car?
-- Engine size?
 - Tag the customer and project (if necessary)
 - Is it rechargeable to the client? Put to the 
 - Postcode to and from
