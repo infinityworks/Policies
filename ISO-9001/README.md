@@ -18,8 +18,8 @@ The management has a continuing commitment to:
 4.	Ensure that the Management Reviews set and review the Quality Objectives, and report on the internal audit results as a means of monitoring and measuring the processes and the effectiveness of the Quality Management System 
 5.	Ensure the availability of resources. 
  
-The structure of the Quality Management System is defined in this Quality Manual which [can be found here](https://drive.google.com/open?id=0BykM4n_obVe5LXpESXNLZC1icWc). 
- 
+The structure of the Quality Management System is defined in this Quality Manual (PDF) which can be found on the (TD) ISO Team drive.
+
 All personnel understand the requirements of this Quality Policy and abide with the contents of the Quality Manual.  The Organisation complies with all relevant statutory and regulatory requirements.  The Organisation constantly monitors its quality performance and implements improvements when appropriate. 
  
 Copies of the Quality Policy are made available to all members of staff and to relevant interested parties.  Copies of the minutes of Management Reviews, or extracts thereof, are provided to individual members of staff in accordance with their role and responsibilities as a means of communicating the effectiveness of the Quality Management System. 
