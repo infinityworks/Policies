@@ -48,11 +48,6 @@ Group Members:
    * London - Lara Longhurst
    * Manchester - David Postle
    * Edinburgh - Pete Cotton
-* Business Development Directors:
-   * Leeds - Natalie Lovett
-   * London - Richard Allen
-   * Manchester - TBC
-   * Edinburgh - Pete Cotton
 * Technical Directors:
    * Leeds - Neil Dunlop
    * London - Neil Dunlop
