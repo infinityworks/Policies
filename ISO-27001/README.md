@@ -39,7 +39,7 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* IW Ops Director - James O'Donovan
+* IW Group Ops Director - James O'Donovan
 * ISMS Manager (acting) - Tom Walton
 * Director of Technology Platforms - Ed Marshall
 * Legal Counsel - Clare Mackintosh
