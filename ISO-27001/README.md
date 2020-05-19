@@ -41,23 +41,24 @@ This contains all of the policies which make up the Information Management Syste
 Group Members:
 * IW Ops Director - James O'Donovan
 * ISMS Manager (acting) - Tom Walton
+* Director of Technology Platforms - Ed Marshall
 * Legal Counsel - Clare Mackintosh
 * Operations Directors:
    * Leeds - Pete Cotton
    * London - Lara Longhurst
    * Manchester - David Postle
-   * Edinburgh - Ed Marshall (Practice Lead)
+   * Edinburgh - Pete Cotton
 * Business Development Directors:
    * Leeds - Natalie Lovett
    * London - Richard Allen
    * Manchester - TBC
-   * Edinburgh - Ed Marshall (Practice Lead)
+   * Edinburgh - Pete Cotton
 * Technical Directors:
    * Leeds - Neil Dunlop
-   * London - Neil Jennings
+   * London - Neil Dunlop
    * Manchester - Rick Boyce
-   * Edinburgh - Ed Marshall (Practice Lead)
-* Head of People - Clement Pickering
+   * Edinburgh - Pete Cotton
+* Director of People - Clement Pickering
 * Finance Director - Sadie Alton
 * Office Team - Emma Telfer
 
