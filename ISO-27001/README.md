@@ -63,7 +63,7 @@ Information Security Roles and Responsibilities [view here](security#information
 
 ## Raising Incidents
 In the event of an incident please:
-* complete the [Security Incident Reporting Form](https://goo.gl/forms/zvzkPR4eZ6qB6hJh1)
+* complete the [Security Incident Reporting Form](https://forms.gle/QjXKKgvQ1wZ4GLcV8)
 * inform the ISMS Manager at: isms@infinityworks.com who will ensure all incidents are logged as per the [Security Incident Reporting Policy](securityincidentreporting/readme.md) 
 
 ## Raising Policy Issues
