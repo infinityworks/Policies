@@ -68,7 +68,7 @@ In the event of an incident please:
 
 ## Raising Policy Issues
 Feel free to raise issues for the ISMS Committee to discuss via (in order of preference):
-   * Github Pull Requests - https://github.com/infinityworks/isms
+   * Github Pull Requests - https://github.com/infinityworks/policies
    * Github Issues
    * Emails to isms@infinityworks.com
 
