@@ -39,25 +39,21 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* IW Ops Director - James O'Donovan
+* IW Group Ops Director - James O'Donovan
 * ISMS Manager (acting) - Tom Walton
+* Director of Technology Platforms - Ed Marshall
 * Legal Counsel - Clare Mackintosh
 * Operations Directors:
    * Leeds - Pete Cotton
    * London - Lara Longhurst
    * Manchester - David Postle
-   * Edinburgh - Ed Marshall (Practice Lead)
-* Business Development Directors:
-   * Leeds - Natalie Lovett
-   * London - Richard Allen
-   * Manchester - TBC
-   * Edinburgh - Ed Marshall (Practice Lead)
+   * Edinburgh - Pete Cotton
 * Technical Directors:
    * Leeds - Neil Dunlop
-   * London - Neil Jennings
+   * London - Neil Dunlop
    * Manchester - Rick Boyce
-   * Edinburgh - Ed Marshall (Practice Lead)
-* Head of People - Clement Pickering
+   * Edinburgh - Pete Cotton
+* Director of People - Clement Pickering
 * Finance Director - Sadie Alton
 * Office Team - Emma Telfer
 
@@ -67,12 +63,12 @@ Information Security Roles and Responsibilities [view here](security#information
 
 ## Raising Incidents
 In the event of an incident please:
-* complete the [Security Incident Reporting Form](https://goo.gl/forms/zvzkPR4eZ6qB6hJh1)
+* complete the [Security Incident Reporting Form](https://forms.gle/QjXKKgvQ1wZ4GLcV8)
 * inform the ISMS Manager at: isms@infinityworks.com who will ensure all incidents are logged as per the [Security Incident Reporting Policy](securityincidentreporting/readme.md) 
 
 ## Raising Policy Issues
 Feel free to raise issues for the ISMS Committee to discuss via (in order of preference):
-   * Github Pull Requests - https://github.com/infinityworks/isms
+   * Github Pull Requests - https://github.com/infinityworks/policies
    * Github Issues
    * Emails to isms@infinityworks.com
 
