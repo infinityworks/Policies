@@ -23,7 +23,7 @@ Physical Security involves a balance between physical presence and use of techno
 
 ### Physical Security Layering  
 
-Physical Security requires appropriate layering of physical and technical security such as appropriate building construction, suitable emergency preparedness, reliable power supplies, adequate climate control, alarm systems and CCTV.
+Physical Security requires appropriate layering of physical and technical security such as appropriate building construction, suitable emergency preparedness, reliable power supplies, adequate climate control, alarm systems and CCTV. The amount of control we have over these factors may vary between offices, dependant on the letting model and available facilities.
 
 Infinity Works will: 
 
@@ -35,9 +35,9 @@ Infinity Works will:
 * Use CCTV surveillance in sensitive or higher risk areas where applicable:
   * The provision of building Security Staff that are trained and authorised to operate and monitor CCTV equipment, during hours when the building is accessible to the public
 
-Infinity Works will adopt the following items of security equipment:
+Infinity Works will adopt where possible the following items of security equipment:
 
-* Intruder Alarm Equipment for designated fire doors
+* Intruder Alarm Equipment for designated fire doors (where the firedoors form part of our designated office boundry)
 * Access Control Systems including Identity Cards
 * CCTV surveillance and CCTV recording equipment (for sensitive or higher risk areas, i.e. HR, Finance and Legal at Head Office)
 * Door furniture, locks and suiting
