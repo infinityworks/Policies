@@ -28,7 +28,7 @@ Physical Security requires appropriate layering of physical and technical securi
 Infinity Works will: 
 
 * Secure the perimeters of its offices and take all reasonable measures to prevent unauthorised access
-* Reserve the right to limit access to the building to employees, visitors, clients and contractors
+* Reserve the right to limit access to the our offices to employees, visitors, clients and contractors
 * Take additional security measures to protect high value assets and confidential documentation storage areas
 * Provide additional security measures to ensure the protection of employees and equipment. These measures include, where applicable:  
   * The requirement for all high value assets (e.g. laptops and monitors) to be marked with an asset tag
