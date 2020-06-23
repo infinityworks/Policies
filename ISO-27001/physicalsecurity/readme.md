@@ -61,7 +61,7 @@ Infinity Works may share CCTV footage (unless unlawful to do so) for the purpose
 
 #### Wireless Access Point Testing 
 
-Infinity Works will undertake quarterly WAP testing in Infinity Works offices to identify rogue access points which could be connected to the network. This will be facilitated by an inventory of authorised WAPs.
+Infinity Works will undertake quarterly WAP testing in Infinity Works offices to identify rogue access points which could be connected to the network. This will be facilitated by features within the wireless network control systems where available, where that's not possible though, an inventory of authorised WAPs.
 
 See [Security Incident Reporting Policy](../securityincidentreporting/readme.md)
 
