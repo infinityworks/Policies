@@ -6,26 +6,12 @@ This policy is intended to protect the security and integrity of Infinity Works'
 Infinity Works employees must agree to the terms and conditions set forth in this policy in order to be able to connect their devices to the company network.
 
 ## Acceptable Use
-* Infinity Works defines acceptable business use as activities that directly or indirectly support the business.
-* Infinity Works defines acceptable personal use on company time as reasonable and limited personal communication or recreation, such as reading or game playing.
-* Employees are to refrain from accessing certain websites / media during work hours, while connected to the corporate network at the discretion of the company.
-* Devices may not be used at any time to: 
-    * Store or transmit illegal materials
-    * Store or transmit proprietary information belonging to another company without consent from that company
-    * Harass others
-
-* The following types of software are not allowed to be used whilst connected to company networks, or whilst working on company time:
-    * P2P file sharing
-    * Tor exit nodes
-* Employees may use their mobile device to access the following company-owned resources:
-    * Email, Calendars, Contacts, Documents, etc.
-* It is illegal to text or email while driving within the UK. Don't do it.
-    * It is better not to talk on the phone while driving, even if using hands free.
+Usage of a personal device must abide by the restrictions set out in the [Acceptable Use Policy](../acceptableusage/readme.md).
 
 In order to bring your own device and use it for work purposes, the device must be up-to-date and secure, meeting the requirements of relevant policies, e.g. [Laptop Policy](../device/readme.md).
 
 ## Devices and Support
-* If in doubt whether you should use the device, discuss with the ISMS Committee.
+* If in doubt whether you should use the device, discuss with a member of the ISMS Committee.
 
 ## Reimbursement
 * The company may reimburse the employee for usage of devices at their discretion through the existing expenses process. 
