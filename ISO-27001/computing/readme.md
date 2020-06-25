@@ -2,7 +2,7 @@
 
 ##	Overview
 
-Allowing employees to install software on company computing devices is a risk which needs to be managed. Risks include dependency conflicts which prevent programs from running, the introduction of malware and the use of unlicensed software.
+Allowing employees to install software on company computing devices is a risk which needs to be managed. Risks include dependency conflicts which prevent programs from running, the introduction of malware and the use of unlicensed software. As a technology consultancy and inline with our culture, we allow the employee to take responsibility for ensuring compliance with this policy. However, we also reserve the right to restrict this for cases we feel is appropriate.
 
 ## Purpose
 
