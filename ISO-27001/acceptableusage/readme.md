@@ -48,7 +48,7 @@ Employees must use extreme caution when opening e-mail attachments received from
 
 ### Unacceptable Use
 
-The following activities are, in general, prohibited. Employees may be exempted from these restrictions during the course of their legitimate job responsibilities (e.g., systems administration staff may have a need to disable the network access of a host if that host is disrupting production services).
+The following activities are, in general, prohibited. Employees may be exempted from these restrictions during the course of their legitimate job responsibilities (e.g., disabling key services to support troubleshooting).
 
 Under no circumstances is an employee of Infinity Works authorized to engage in any activity that is illegal under UK, European or international law while utilising Infinity Works-owned resources.
 
@@ -58,69 +58,71 @@ The lists below are by no means exhaustive, but attempt to provide a framework f
 
 The following activities are strictly prohibited, with no exceptions:
 
-1. Violations of the rights of any person or company protected by copyright, trade secret, patent or other intellectual property, or similar laws or regulations, including, but not limited to, the installation or distribution of "pirated" or other software products that are not appropriately licensed for use by Infinity Works.
+- Violations of the rights of any person or company protected by copyright, trade secret, patent or other intellectual property, or similar laws or regulations, including, but not limited to, the installation or distribution of "pirated" or other software products that are not appropriately licensed for use by Infinity Works.
 
-1. Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution of photographs from magazines, books or other copyrighted sources, copyrighted music, and the installation of any copyrighted software for which Infinity Works or the end user does not have an active license is strictly prohibited.
+- Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution of photographs from magazines, books or other copyrighted sources, copyrighted music, and the installation of any copyrighted software for which Infinity Works or the end user does not have an active license is strictly prohibited.
 
-1. Accessing data, a server or an account for any purpose other than conducting Infinity Works business, even if you have authorized access, is prohibited.
+- When working on a client's site, access to online services should be undertaken in-line with the client's IT Security Policies.
 
-1. Exporting software, technical information, encryption software or technology, in violation of international or regional export control laws, is illegal. The appropriate management should be consulted prior to export of any material that is in question.
+- Exporting software, technical information, encryption software or technology, in violation of international or regional export control laws, is illegal. The appropriate management should be consulted prior to export of any material that is in question.
 
-1. Deliberate introduction of malicious programs into the network or server (e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
+- Deliberate introduction of malicious programs into the network or server (e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
 
-1. Revealing your Infinity Works personal account password to others or allowing use of your account by others. This includes family and other household members when work is being done at home.
+- Revealing your Infinity Works personal account password to others or allowing use of your account by others. This includes family and other household members when work is being done at home.
 
-1. Using a Infinity Works computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws in the user's local jurisdiction.
+- Using a Infinity Works computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws in the user's local jurisdiction.
 
-1. Making fraudulent offers of products, items, or services originating from any Infinity Works account.
+- Making fraudulent offers of products, items, or services originating from any Infinity Works account.
 
-1. Making statements about warranty, expressly or implied, unless it is a part of normal job duties.
+- Making statements about warranty, expressly or implied, unless it is a part of normal job duties.
 
-1. Effecting security breaches or disruptions of network communication. Security breaches include, but are not limited to, accessing data of which the employee is not an intended recipient or logging into a server or account that the employee is not expressly authorized to access, unless these duties are within the scope of regular duties. For purposes of this section, "disruption" includes, but is not limited to, network sniffing, pinged floods, packet spoofing, denial of service, and forged routing information for malicious purposes.
+- Effecting security breaches or disruptions of network communication. Security breaches include, but are not limited to, accessing data of which the employee is not an intended recipient or logging into a server or account that the employee is not expressly authorized to access, unless these duties are within the scope of regular duties. For purposes of this section, "disruption" includes, but is not limited to, network sniffing, pinged floods, packet spoofing, denial of service, and forged routing information for malicious purposes.
 
-1. Port scanning or security scanning is expressly prohibited unless prior notification to the ISMS Committee is made.
+- Port scanning or security scanning of any devices or systems is prohibited unless prior notification to the ISMS Committee is made. The only exception to this would be security related validation of systems & servives we build as part of our commitment to our clients, in this instance the account lead should be made aware.
 
-1. Executing any form of network monitoring which will intercept data not intended for the employee's host, unless this activity is a part of the employee's normal job/duty.
+- Executing any form of network monitoring which will intercept data not intended for the employee's host, unless this activity is a part of the employee's normal job/duty.
 
-1. Circumventing user authentication or security of any host, network or account,  unless this activity is a part of the employee's normal job/duty.
+- Circumventing user authentication or security of any host, network or account,  unless this activity is a part of the employee's normal job/duty.
 
-1. Introducing honeypots, honeynets, or similar technology on the Infinity Works network.
+- Introducing honeypots, honeynets, or similar technology on the Infinity Works network.
 
-1. Interfering with or denying service to any user other than the employee's host (for example, denial of service attack).
+- Interfering with or denying service to any user other than the employee's host (for example, denial of service attack).
 
-1. Using any program/script/command, or sending messages of any kind, with the intent to interfere with, or disable, a user's terminal session, via any means, locally or via the Internet/Intranet/Extranet, unless this activity is a part of the employee's normal job/duty.
+- Using any program/script/command, or sending messages of any kind, with the intent to interfere with, or disable, a user's terminal session, via any means, locally or via the Internet/Intranet/Extranet, unless this activity is a part of the employee's normal job/duty.
 
-1. Providing information about, or lists of, Infinity Works employees to parties outside Infinity Works, unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Employee and Contractor Privacy Notice.
+- Providing information about, or lists of, Infinity Works employees to parties outside Infinity Works, unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Employee and Contractor Privacy Notice.
 
 #### Email and Communication Activities
 
 When using company resources to access and use the Internet, users must realise they represent the company. Whenever employees state an affiliation to Infinity Works, they must also clearly indicate that "the opinions expressed are my own and not necessarily those of Infinity Works".
 
-1. Sending unsolicited email messages, including the sending of "junk mail" or other advertising material to individuals who did not specifically consent to receiving such material (email spam), unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Privacy Policy.
+- Sending unsolicited email messages, including the sending of "junk mail" or other advertising material to individuals who did not specifically consent to receiving such material (email spam), unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Privacy Policy.
 
-1. Any form of harassment via email, telephone or paging, whether through language, frequency, or size of messages.
+- Any form of harassment via email, telephone or paging, whether through language, frequency, or size of messages.
 
-1. Unauthorized use, or forging, of email header information.
+- Unauthorized use, or forging, of email header information.
 
-1. Solicitation of email for any other email address, other than that of the poster's account, with the intent to harass or to collect replies.
+- Solicitation of email for any other email address, other than that of the poster's account, with the intent to harass or to collect replies.
 
-1. Creating or forwarding "chain letters", "Ponzi" or other "pyramid" schemes of any type.
+- Creating or forwarding "chain letters", "Ponzi" or other "pyramid" schemes of any type.
 
-1. Use of unsolicited email originating from within Infinity Works networks of other Internet/Intranet/Extranet service providers on behalf of, or to advertise, any service hosted by Infinity Works or connected via The Company' network.
+- Use of unsolicited email originating from within Infinity Works networks of other Internet/Intranet/Extranet service providers on behalf of, or to advertise, any service hosted by Infinity Works or connected via The Company' network.
 
-1. Posting the same or similar non-business-related messages to large numbers of Usenet newsgroups (newsgroup spam).
+- Posting the same or similar non-business-related messages to large numbers of Usenet newsgroups (newsgroup spam).
 
-#### Blogging and Social Media
+#### Social Media and Blogging 
 
-1. Blogging by employees, whether using Infinity Works' property and systems or personal computer systems, is also subject to the terms and restrictions set forth in this Policy. Use of Infinity Works' systems to engage in blogging is acceptable, provided that it is done in a professional and responsible manner, does not otherwise violate Infinity Works' policies, is not detrimental to Infinity Works' best interests, and does not interfere with an employee's regular work duties. Blogging from Infinity Works' systems may also be subject to monitoring.
+- Content for social media platforms and blogs, shared online, written by employees, whether using Infinity Works' property and systems or personal computer systems, is also subject to the terms and restrictions set forth in this Policy, when authored under working hours. Use of Infinity Works' systems to engage in social media and blogging is acceptable, provided that it is done in a professional and responsible manner, does not otherwise violate Infinity Works' policies, is not detrimental to Infinity Works' best interests, and does not interfere with an employee's regular work duties.
 
-1. Infinity Works' Confidential Information Policy also applies to blogging. As such, Employees are prohibited from revealing any Company confidential or proprietary information, trade secrets or any other material covered by Infinity Works' Information Sensitivity Policy when engaged in blogging.
+- Infinity Works' Confidential Information Policy also applies to social media. As such, Employees are prohibited from revealing any Company confidential or proprietary information relating to Infinity Works or it's clients, trade secrets or any other material covered by Infinity Works' Information Sensitivity Policy when engaged in blogging.
 
-1. Employees shall not engage in any blogging which contravenes the Data Protection Act 2018 or which contains personal data (as defined by the Data Protection Act 2018) of another individual or that may harm or tarnish the image, reputation and/or goodwill of Infinity Works and/or any of its employees. Employees are also prohibited from making any discriminatory, disparaging, defamatory or harassing comments when blogging or otherwise engaging in any conduct prohibited by Infinity Works' Non-Discrimination and Anti-Harassment policy.
+- Employees shall not engage in posting information online through social media or blogging that would represent a breach of trust with either Infinity Works or it's clients. (e.g. posting critique of our clients based upon information they've been given priveledged access to)
 
-1. Employees may also not attribute personal statements, opinions or beliefs to Infinity Works when engaged in blogging. If an employee is expressing his or her beliefs and/or opinions in blogs, the employee may not, expressly or implicitly, represent themselves as an employee or representative of Infinity Works. Employees assume any and all risk associated with blogging.
+- Employees shall not engage in any blogging which contravenes the Data Protection Act 2018 or which contains personal data (as defined by the Data Protection Act 2018) of another individual or that may harm or tarnish the image, reputation and/or goodwill of Infinity Works and/or any of its employees. Employees are also prohibited from making any discriminatory, disparaging, defamatory or harassing comments when blogging or otherwise engaging in any conduct prohibited by Infinity Works' Non-Discrimination and Anti-Harassment policy.
 
-1. Apart from following all laws pertaining to the handling and disclosure of copyrighted or export controlled materials, Infinity Works' trademarks, logos and any other Infinity Works intellectual property may also not be used in connection with any blogging activity
+- Employees may also not attribute personal statements, opinions or beliefs to Infinity Works when engaged in social media and blogging. If an employee is expressing his or her beliefs and/or opinions, the employee may not, expressly or implicitly, represent themselves as an employee or representative of Infinity Works. Employees assume any and all risk associated with these activies.
+
+- Apart from following all laws pertaining to the handling and disclosure of copyrighted or export controlled materials, Infinity Works' trademarks, logos and any other Infinity Works intellectual property may also not be used in connection with any social media activity.
 
 ## Policy Compliance
 
