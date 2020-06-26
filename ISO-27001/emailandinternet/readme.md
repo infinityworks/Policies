@@ -14,7 +14,7 @@ This policy covers appropriate use of any email sent from a Infinity Works email
 
 ## Policy
 
-All use of email must be consistent with Infinity Works policies and procedures of ethical conduct, safety, compliance with applicable laws and proper business practices. 
+All use of email must be consistent with Infinity Works policies and procedures of ethical conduct, safety, compliance with applicable laws and proper business practices. All email usage must also abide by the policy set out in the [Data Transfer Policy](../datatransfer/readme.md).
 
 Infinity Works email account should be used primarily for Infinity Works business-related purposes; personal communication is permitted on a limited basis, but non-Infinity Works Consulting related commercial uses are prohibited.
 
