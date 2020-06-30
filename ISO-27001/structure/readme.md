@@ -1,11 +1,5 @@
-## The ISMS Committee Structure
-Group Members:
-* Directors - Paul Henshaw, Matt Gaffney, Dan Rathbone, Tom Walton, Mike Bates & Mat Barrow
-* ISMS Manager (acting) - Steve Anderson
-* Legal Counsel - Clare Mackintosh
-* Board Members (nominated): 
-   * Leeds - Steve Anderson, Neil Dunlop, Ed Marshall & Clem Pickering
-   * Manchester - David Postle & Adrian Hesketh
-   * London - Neil Jennings, Paul Lucas, Rob Whittick & Richard Allen
+# The ISMS Committee Structure
 
-Contact Email: isms@infinityworks.com 
+The group members list is maintained at the root level of the ISO27001 policies, you can view these by clicking [this](../README.md#the-isms-committee) link.
+
+Contact Email: isms@infinityworks.com
