@@ -289,7 +289,7 @@ As the building is a leased floor of a 4-storey block of offices, many parts are
 * Common Area Emergency Lighting (and at present, all IWC’s lighting)
 * Common Area Escape Routes and Doors.
 
-IWC expects the Landlord to maintain the equipment above to the current British Standard expected by the fire authorities.
+IWC expects the building landlords to maintain the equipment above to the current British Standard expected by the fire authorities.
 
 IWC however does listen out weekly to ensure their audible alarm is working.
 
@@ -297,15 +297,7 @@ Any equipment or service relating to fire safety or fire fighting that is mainta
 
 ## 20	Lone Worker
 
-At present, some people can access the building 24-hours a day.
-
-Using the regional office SLACK channel, Staff are requested to alert that they are planning to work.
-
-Staff should alert when they have arrived and at the end, alert that they are departing. 
-
-Staff are also advised to ensure someone is aware of what time they should be home in case of off-site problems.
-
-At present, the system does not need any further change however, the policy will be reviewed along with all procedures within this document.
+Please see the [Lone Worker] (https://policies.infinityworks.com/ISO-9001/Lone%20Worker/) procedure for details of how to maintain Fire safety when working alone.
 
 ## 21	Risk Assessment
 
