@@ -62,7 +62,7 @@ External:
 
 Note: There are many other documents covering recommendations for fire safety. These will be referenced where required and are used if required within this document.
 
-## 8	Responsibilities in Relation to Fire Safety
+## 8	Responsibilities in Relation to Fire Safety for Leeds
 		
 ![Flow Chart](flowchart.png)
 
