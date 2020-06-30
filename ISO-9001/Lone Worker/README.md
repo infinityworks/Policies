@@ -1,6 +1,8 @@
 # Lone Worker Policy
 
-The organisation will avoid the need for employees to work alone where reasonably practicable. Where lone working is necessary, the organisation will take all reasonable steps to ensure the health and safety of employees working alone.
+At present, some people can access Infinity Works' office buildings 24-hours a day.
+
+The organisation will generally avoid the need for employees to work alone where reasonably practicable. Where lone working is necessary, the organisation will take all reasonable steps to ensure the health and safety of employees working alone.
 The organisation will ensure that a risk assessment is conducted and that arrangements are in place prior to employees working alone.
 
 ## Procedure wording
@@ -22,6 +24,14 @@ The Local Board and Office Manager will ensure that:
 - ensure that individuals' personal data, including information about their health, collected during lone working assessments is handled in accordance with the organisation's data protection policy on processing special categories of personal data.
 
 ### Employees working alone will:
-- follow the safe working arrangements developed by the organisation for loneworking;
+- follow the safe working arrangements developed by the organisation for loneworking (described below);
 - take reasonable steps to ensure their own safety; and
 - inform their line manager/assessor of any incidents or safety concerns.
+
+When working alone, employees must:
+- If the building has security or reception staff in attendance, advise them upon arrival that the staff member will be working alone.
+- Using the regional office Slack channel, alert colleagues that they are planning to work alone.
+- Send out a Slack alert both when they arrive and when they are departing.
+- Where possible, ensure someone outside the office is aware of what time they should be home in case of off-site problems.
+
+
