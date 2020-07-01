@@ -2,7 +2,9 @@
 
 ## Purpose
 
-The purpose of this policy is to provide guidance on the selection and use of cryptographic algorithms.
+The purpose of this policy is to provide guidance on the selection and use of cryptographic algorithms. An employee of Infinity Works may be required to encrypt data directly or make usage of a service where data is stored and encryped, either for the purposes of Infinity Works own systems or those of our clients. 
+
+This policy applies only to those systems maintained under Infinity Works, for clients systems please use this as a guide, but consult with the client on their own security policies to ensure the systems built for them are compliant.
 
 ## Scope
 
@@ -11,6 +13,8 @@ This policy applies to all Infinity Works Consulting employees and contractors.
 ## Policy
 
 ### Algorithm Requirements
+
+When consuming services from third parties, the algorithms used in most cases can't be updated to reflect this policy, in those cases, if the algorithms is less secure than those listed here, consult with a member of the ISMS comittee.
 
 - Ciphers in use must meet or exceed the set defined as "AES-compatible" or "partially AES-compatible" according to the IETF/IRTF Cipher Catalog, or the set defined for use in the United States National Institute of Standards and Technology (NIST) publication FIPS 140-2, or any superseding documents according to the date of implementation. The use of the Advanced Encryption Standard (AES) is strongly recommended for symmetric encryption.
 - Algorithms in use must meet the standards defined for use in NIST publication FIPS 140-2 or any superseding document, according to date of implementation. The use of the RSA and Elliptic Curve Cryptography (ECC) algorithms is strongly recommended for asymmetric encryption.
