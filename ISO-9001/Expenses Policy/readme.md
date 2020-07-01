@@ -46,20 +46,20 @@ There are a number of categories of expenses that you will raise, and here’s g
 - Postcode to and from
 - How many miles?
 
-For Taxis to client sites:
-Receipt or booking confirmation
-To / From?
-Who was there?
-Tag the customer and project (if appropriate)
-Is it rechargeable to the client? If so ensure the rechargeable expense code is used.
+**For Taxis to client sites:**
+- Receipt or booking confirmation
+- To / From?
+- Who was there?
+- Tag the customer and project (if appropriate)
+- Is it rechargeable to the client? If so ensure the rechargeable expense code is used.
 
 _**Please note - travel cannot be claimed from your home to your regular place of business (typically your home IW office)**._
 
 **For Subsistence:**
-VAT Receipt
-Claim for your own subsistence only.
-Tag the customer and project (if appropriate)
-Is it rechargeable to the client? If so ensure the rechargeable expense code is used.
+- VAT Receipt
+- Claim for your own subsistence only.
+- Tag the customer and project (if appropriate)
+- Is it rechargeable to the client? If so ensure the rechargeable expense code is used.
 
 ## What can I spend?
 So we’re clear on what our team can spend (and to allow the people who validate and approve expense claims to approve quickly) we have pulled together the following guidance. Please do your best to keep to these (and the spirit of these) - again, we’d prefer to spend money on things that improve our team and people where possible! 
