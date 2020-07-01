@@ -17,8 +17,8 @@ This policy outlines how we react to external events (e.g loss of access to our 
    * We store a directory of staff contact details in our Google and Slack directories
 
 ## Event handling process
-* In the case of a building evacuation, or any other event which could cause the loss of access to an office or the loss of the utility of that office (e.g. loss of Internet connection), the Office Manager will send out a message on Slack and Google Mail notifying everyone to avoid the office until further notice.
+* In the case of a building evacuation, or any other event which could cause the loss of access to an office or the loss of the utility of that office (e.g. loss of Internet connection), the Office Manager or regional operations director will send out a message on Slack and email notifying everyone to avoid the office until further notice. If the closure affects multiple offices then the exec will issue notice through both email and slack of the closures.
 * Regular updates will be provided so that everyone knows the current situation.
-* When the situation is resolved, the Office Manager will confirm the safety of the office, then communicate that it is ready for use.
+* When the situation is resolved, communications will be sent through on both slack and email
 
 [back](../README.md#a-z-policies)
