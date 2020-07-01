@@ -33,7 +33,7 @@ The organisation or individual who receives or consumes information from third p
 
 What data to capture largely relies on the requirements of the data and the agreement in-place between the parties involved. When recording this exchange, The provider should the consider the HASL categories first, in addition:
 
-* Encryption in Transit, consider whether the received information has to be encrypted when is retransmitted by the recipient.
+* Encryption in Transit, consider whether the received information has to be encrypted when is retransmitted by the recipient. See the [Data Transfer Policy](../datatransfer/readme.md) for further information.
 
 * Encryption at Rest, whether the received information has to be encrypted by the Recipient when it is stored at rest.
 
@@ -45,5 +45,9 @@ What data to capture largely relies on the requirements of the data and the agre
 
 * Obfuscation, recipients could be required to obfuscate or anonymise information that could be used to identify the affected parties before redistributing the information received.
 
+## Related Standards, Policies and Processes
+
+- [Cryptographic Controls Policy](../cryptographiccontrols/readme.md) 
+- [Data Transfer Policy](../datatransfer/readme.md)
 
 [back](../README.md#a-z-policies)
