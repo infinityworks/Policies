@@ -18,9 +18,8 @@ Employees agree to do the following:
 
 ## Repairing A Faulty Device
 
-Any laptop or electronic device owned by Infinity Works that is reported to the Admin Team as faulty or in need of repair will 
-be expected to have no information stored locally that would be of security risk to the company or any client. All necessary content should be saved to a secure location (e.g. the Infinity Works G-Drive).  If in doubt speak with the ISMS Manager. 
-
+Any laptop or electronic device owned by Infinity Works that is reported to the IT Systems team as faulty or in need of repair will 
+be expected to have no information stored locally that would be of security risk to the company or any client. All necessary content should be saved to a secure location (e.g. the Infinity Works G-Drive). If in doubt speak with the ISMS Manager. 
 
 ## Personal Laptops
 
@@ -28,7 +27,7 @@ All Employees are required to adhere to the [BYOD policy](../byod/readme.md) reg
 
 Personal Laptops are defined as laptops purchased by the employee. This can include personal laptops that an employee purchases for work purposes, but was not given or sanctioned by members of IT or management.
 
-Personal Laptops are permitted on the corporate network through wireless, wired, or other connective means.
+Personal Laptops are permitted on the networks operated by Infinity Works through either a wireless or wired connection.
 
 Personal Laptops are also permitted to access corporate information but this should through password protected secure locations (i.e. google drive).
 
