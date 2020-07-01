@@ -26,10 +26,10 @@ Infinity Works uses a hosted email service which protects our users from unsolic
   * e.g. apt-get, yum, OSX App Store, Windows Update, npm, nuget, go get
 * Employ a personal firewall and control ingress and egress rules and avoid exposing services to other users on the network
 * Take basic email precautions:
-   * Never open any files or macros attached to an email from unknown, suspicious, or untrustworthy sources
-   * Delete spam, chain, and other junk email without forwarding
-   * Never download files from unknown or suspicious sources
-   * Avoid direct disk-sharing, especially with read/write access
+  * Never open any files or macros attached to an email from unknown, suspicious, or untrustworthy sources
+  * Delete spam, chain, and other junk email without forwarding
+  * Never download files from unknown or suspicious sources
+  * Avoid direct disk-sharing, especially with read/write access
 * Never plug-in removable media "to see what's on it"
 * Exercise caution in executing code downloaded from the Web. It is often safer to run programs within a sandbox such as a Docker container or VM, taking care to ensure that directory sharing and network connectivity is properly secured.
 
