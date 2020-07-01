@@ -12,7 +12,7 @@ This policy applies only to digitally signed documents and correspondence within
 
 ## Policy
 
-Digital signatures are accepted as a means of validating the identity of a signer of electronic documents and correspondence, when they originate from an approved signature platfor. For a digital signature to be valid, we require it's processed through a digital signature platform, approved by our legal team. See the legal team if you wish to make use of this facility.
+Digital signatures are accepted as a means of validating the identity of a signer of electronic documents and correspondence, when they originate from an approved signature platform. For a digital signature to be valid, we require it's processed through a digital signature platform, approved by our legal team. See the legal team if you wish to make use of this facility.
 
 ## Policy Compliance
 
