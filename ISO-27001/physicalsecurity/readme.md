@@ -23,21 +23,21 @@ Physical Security involves a balance between physical presence and use of techno
 
 ### Physical Security Layering  
 
-Physical Security requires appropriate layering of physical and technical security such as appropriate building construction, suitable emergency preparedness, reliable power supplies, adequate climate control, alarm systems and CCTV.
+Physical Security requires appropriate layering of physical and technical security such as appropriate building construction, suitable emergency preparedness, reliable power supplies, adequate climate control, alarm systems and CCTV. The amount of control we have over these factors may vary between offices, dependant on the letting model and available facilities.
 
 Infinity Works will: 
 
 * Secure the perimeters of its offices and take all reasonable measures to prevent unauthorised access
-* Reserve the right to limit access to the building to employees, visitors, clients and contractors
+* Reserve the right to limit access to our offices, to employees, visitors, clients and contractors
 * Take additional security measures to protect high value assets and confidential documentation storage areas
 * Provide additional security measures to ensure the protection of employees and equipment. These measures include, where applicable:  
   * The requirement for all high value assets (e.g. laptops and monitors) to be marked with an asset tag
 * Use CCTV surveillance in sensitive or higher risk areas where applicable:
   * The provision of building Security Staff that are trained and authorised to operate and monitor CCTV equipment, during hours when the building is accessible to the public
 
-Infinity Works will adopt the following items of security equipment:
+Infinity Works will adopt where possible the following items of security equipment:
 
-* Intruder Alarm Equipment for designated fire doors
+* Intruder Alarm Equipment for designated fire doors (where the firedoors form part of our designated office boundary)
 * Access Control Systems including Identity Cards
 * CCTV surveillance and CCTV recording equipment (for sensitive or higher risk areas, i.e. HR, Finance and Legal at Head Office)
 * Door furniture, locks and suiting
@@ -61,7 +61,7 @@ Infinity Works may share CCTV footage (unless unlawful to do so) for the purpose
 
 #### Wireless Access Point Testing 
 
-Infinity Works will undertake quarterly WAP testing in Infinity Works offices to identify rogue access points which could be connected to the network. This will be facilitated by an inventory of authorised WAPs.
+Infinity Works will undertake quarterly WAP testing in Infinity Works offices to identify rogue access points which could be connected to the network. This will be facilitated by features within the wireless network control systems where available, where that's not possible though, an inventory of authorised WAPs.
 
 See [Security Incident Reporting Policy](../securityincidentreporting/readme.md)
 
