@@ -173,7 +173,7 @@ Staff will immediately receive information with regards to fire safety as soon a
 
 Tell them that you have seen a fire at your address: 
 * LEEDS: Infinity Works Consulting, 2nd or 3rd Floor, Aspley house, 78 Wellington Street, Leeds, LS1 2EQ, Telephone number – 0113 320 5010
-* LONDON: Infinity Works Consulting, CAnnon Green, 27 Bush Lane, London, EC4R 0AA
+* LONDON: Infinity Works Consulting, Cannon Green, 27 Bush Lane, London, EC4R 0AA
 * MANCHESTER: Infinity Works Consulting, The Offices, 53 King Street, Manchester, M2 4LQ
 * EDINBURGH: Infinity Works Consulting, WeWork, 80 George Leigh Street, Edinburgh, EH2 3BU
 
@@ -183,7 +183,7 @@ Tell them that you have seen a fire at your address:
 * LEEDS: At the corner of Northern Street and Wellington Street opposite the building.
 * LONDON: Pavement area on Laurence Pountney Lane (small square with benches and a fire assembly point notice)
 * MANCHESTER: Corner of Cross Street Street and Chapel Walks, next to Pret A Manger.
-* EDINBURGH: Port Hamilton
+* EDINBURGH: Rose St, behind WeWork car park / bike store.
 
 
 
@@ -282,7 +282,7 @@ Checks are carried out at least monthly.
 
 All fire related systems will be checked to the minimum British Standard as required.
 
-As the building is a leased floor of a 4-storey block of offices, many parts are controlled and maintained by the Landlord. The Landlord’s responsibilities are (but not limited to):	
+Many parts of IWC's office buildings are controlled and maintained by the Landlord. The Landlord’s responsibilities are (but not limited to):	
 
 * The Fire Alarm System
 * Common Area Portable Fire Equipment
@@ -293,7 +293,7 @@ IWC expects the building landlords to maintain the equipment above to the curren
 
 IWC however does listen out weekly to ensure their audible alarm is working.
 
-Any equipment or service relating to fire safety or fire fighting that is maintained by IWC can be found in the Facilities Handbook, as this differs per location. All locations carry out general fire precautions and regular checks.
+Any equipment or service relating to fire safety or fire fighting that is maintained by IWC can be found in the [Facilities Handbook](https://sites.google.com/infinityworks.com/iso-intranet/iso-9001/office-building#h.p_f8eHBMXXnOuo), as this differs per location. All locations carry out general fire precautions and regular checks.
 
 ## 20	Lone Worker
 
@@ -305,6 +305,6 @@ A fire risk assessment will be carried out by a competent person (generally a co
 
 This will be reviewed annually internally for any changes to operation and or the standards.
 
-On every 2nd year, a competent person will review the assessment for any changes to Standards, Legislation or internal changes be it structural or business to IWC.
+Every 2nd year, a competent person will review the assessment for any changes to Standards, Legislation or internal changes be it structural or business to IWC.
 
 If any major changes of business, substances, people or layout are made IWC will ensure a review is undertaken as soon as possible.
