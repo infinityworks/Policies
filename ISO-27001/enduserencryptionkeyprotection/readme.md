@@ -35,9 +35,7 @@ Public key cryptography, or asymmetric cryptography, uses public-private key pai
 
 #### Infinity Works Consulting’s Public Key Infrastructure (PKI) Keys
 
-The public-private key pairs used by the Infinity Works public key infrastructure (PKI) are generated on the tamper-resistant smart card issued to an individual end user. The private key associated with an end user’s identity certificate, which are only used for digital signatures, will never leave the smart card. This prevents the ISMS Committee from escrowing any private keys associated with identity certificates. The private key associated with any encryption certificates, which are used to encrypt email and other documents, must be escrowed in compliance with Infinity Works policies. 
-
-Access to the private keys stored on an Infinity Works issued smart-card will be protected by a personal identification number (PIN) known only to the individual to whom the smart-card is issued. The smart-card software will be configured to require entering the PIN prior to any private key contained on the smart card being accessed.
+Infinity Works do not operate a PKI infrastructure for our own needs. Instead we make use of commercial PKI's where required.
 
 #### Other Public Key Encryption Keys
 
