@@ -52,7 +52,7 @@ Any member of staff who commits a serious breach of any fire or safety legislati
 ## 7	Related Documents
 
 Fire Procedures
-* Are listed within this booklet including Fire Action Notices by all fire alarm call points and written information is given to all new staff as part of their induction.
+* Are listed within this procedure including Fire Action Notices by all fire alarm call points and information is given to all new staff as part of their induction.
 
 External:
 
@@ -60,33 +60,37 @@ External:
 * The Health & Safety at Work Act 1974
 * The Management of Health & Safety at work regulation 1999.
 
-Note: There are many other documents covering recommendations for fire safety. These will be where required and are used if required within this document.
+Note: There are many other documents covering recommendations for fire safety. These will be referenced where required and are used if required within this document.
 
-## 8	Responsibilities in Relation to Fire Safety
+## 8	Responsibilities in Relation to Fire Safety for Leeds
 		
 ![Flow Chart](flowchart.png)
 
 ### 8.1	Responsibilities, Arrangements & Guidance
 
-### 8.2	Responsible Person, Managing Director = MATT GAFFNEY
+### 8.2	Responsible Person, Executive Operations Director = James O'Donovan
 
 Responsibilities Include:
 
-The Managing Director holds the final responsibility in ensuring the complete fire safety of IWC’s part of the building and its occupants. The Managing Director will ensure the appointed person will carry out their duties as required in managing fire safety within the company.
+Final responsibility in ensuring the complete fire safety of IWC’s parts of its buildings and their occupants. The Operations Director will ensure the appointed person will carry out their duties as required in managing fire safety within the company.
 
-The day to day management is delegated by the Managing Director to Emma Telfer.
+The day to day management is delegated to the Office Managers in each location, as listed below.
 
-The Managing Director will ensure any company director will assist Emma Telfer in the task of managing fire safety.
+The Operations Director will ensure any company director will assist the Office Managers in the task of managing fire safety.
 
-The Managing Director will ensure any other director or manager does not block or delay
-Emma Telfer in their legal duties.
+The Operations Director will ensure any other director or manager does not block or delay the Office Managers in their legal duties.
 
-### 8.3	Person Who Manages Fire Safety = EMMA TELFER
+### 8.3	Persons Who Manage Fire Safety
+
+* Leeds: Emma Telfer (Office Manager) supported by Pete Cotton
+* London: Shelly Fraser (Office Manager) supported by Lara Longhurst
+* Manchester: Jenny Washbrook (Office Manager) supported by David Postle
+* Edinburgh: Pete Cotton 
 
 Responsibilities Include: 
 
 * Ensuring the Policy and Procedure document is fit for use.
-* Review the Fire Risk Assessment as required by this document and ensure actions required are undertaken or referred to the M.D.
+* Review the Fire Risk Assessment as required by this document and ensure actions required are undertaken or referred to the local board
 * Track Landlord fire drills. Problems with IWC staff will be dealt with internally. External problems will be reviewed with the Landlord’s representative.
 * If any contractor is to carry out hot work, they are to be controlled by the procedure listed in this document.
 * At present, no flammable materials that fall under DSEAR are used or stored by IWC and if this changes, the competent person will be consulted.
@@ -98,16 +102,16 @@ Responsibilities Include:
 - Checks on the portable electrical equipment and fixed electrical wiring (5-yearly check)
 - Check on fire stop doors
 - Check Fire Marshal plans are current and that enough Marshals are trained to cover for holidays and sickness.
-- Use SLACK to send reminders to staff to check electrical equipment, wires and plugs.
+- Use Slack to send reminders to staff to check electrical equipment, wires and plugs as needed.
 
 Note: The above tests/checks may not be carried out by the person who manages fire safety (excluding contractor testing). Tests and checks may be delegated to another member of staff however, it is still the responsibility of the person who manages fire safety to ensure the delegated person is trained to carry out the task asked of them. It is also their responsibility to ensure regular quality checks are carried out to check their tests and checks that have been completed.
 
 
 ### 8.4	Competent Person
 
-The competent person is a consultant from SF Fire Ltd. Any changes of Policy and Procedure should be passed to them to ensure compliance.
+The competent person is an external consultant appointed by the responsible person for each local office. Any changes of Policy and Procedure should be passed to them to ensure compliance.
 
-### 8.5	Fire Marshal Co-Ordinator
+### 8.5	Fire Marshal Co-Ordinator (non-serviced offices)
 
 * On a fire alarm activation, they will put on their red/orange/blue jacket stating, ‘Fire Co-Ordinator’ and quickly make their way to the assembly point.
 * They will take the clipboard noting the marked areas of the floor’s Fire Marshals. 
@@ -118,7 +122,9 @@ The competent person is a consultant from SF Fire Ltd. Any changes of Policy and
 
 Fire Marshals are responsible for ensuring their designated area (issued to them by management via a coded plan of the floor) is checked for employees or visitors and are directed towards a safe exit from the building towards the assembly point as dictated by the fire procedure.
 
-Fire Marshals will check all rooms and areas on their plan and when completed, they will report to their co-ordinator who will tick their area from the plan/list provided.
+Fire Marshals will check all rooms and areas on their plan and when completed, they will report to their co-ordinator/Office Manager who will tick their area from the plan/list provided.
+
+All full list of fire marshals for each location can be found [here] (https://sites.google.com/infinityworks.com/infinitranet/employee-portal/health-safety/fire-procedures)
 
 ### 8.7	Employee Responsibilities
 
@@ -139,11 +145,11 @@ All other visitors where situated on their own or in a toilet are the responsibi
 
 ### 8.9 	Contractors
 
-Contractors will be shown the fire evacuation procedures for Aspley House and shown a plan of where the assembly point is in relation to this building.
+Contractors will be shown the fire evacuation procedures for the office and shown a plan of where the assembly point is in relation to the building.
 
 If working outside the normal company area, two Marshals should be informed to check this area as long as it does not affect their safety in doing so.
 
-The contractor is to be advised to find the fire co-ordinator in the blue/orange/red jacket to ascertain that they are safe.
+The contractor is to be advised to find the fire co-ordinator/Office Manager in the blue/orange/red jacket to ascertain that they are safe.
 
 ## 9 	Documents & Records
 
@@ -165,18 +171,27 @@ Staff will immediately receive information with regards to fire safety as soon a
 
 2.	Dial 999 or 112 from a mobile phone and ask for the fire brigade. 
 
-Tell them that you have seen a fire at: Infinity Works Consulting, 2nd or 3rd Floor, Aspley house, 78 Wellington Street, Leeds, LS1 2EQ.
+Tell them that you have seen a fire at your address: 
+* LEEDS: Infinity Works Consulting, 2nd or 3rd Floor, Aspley house, 78 Wellington Street, Leeds, LS1 2EQ, Telephone number – 0113 320 5010
+* LONDON: Infinity Works Consulting, Cannon Green, 27 Bush Lane, London, EC4R 0AA
+* MANCHESTER: Infinity Works Consulting, The Offices, 53 King Street, Manchester, M2 4LQ
+* EDINBURGH: Infinity Works Consulting, WeWork, 80 George Leigh Street, Edinburgh, EH2 3BU
 
-The telephone number – 0113 320 5010
 3.	Evacuate the building by the nearest exit route. Do not use the lifts and only take belongings next to you.
 
-4.	Report to the assembly point at the corner of Northern Street and Wellington Street opposite the building.
+4.	Report to the assembly point for your location:
+* LEEDS: At the corner of Northern Street and Wellington Street opposite the building.
+* LONDON: Pavement area on Laurence Pountney Lane (small square with benches and a fire assembly point notice)
+* MANCHESTER: Corner of Cross Street Street and Chapel Walks, next to Pret A Manger.
+* EDINBURGH: Rose St, behind WeWork car park / bike store.
+
+
 
 ### 11.2	On Hearing an Alarm
 
 1.	Evacuate the building by the nearest exit route. Do not use the lifts and only take belongings next to you.
 
-2.	Report to the assembly point at the corner of Northern Street and Wellington Street opposite the building.
+2.	Report to the assembly point as listed above.
 
 3.	Do not under any circumstances re-enter the building until advised it is safe to do so.
 
@@ -212,7 +227,7 @@ The co-ordinator will be one of the reception staff and trained by one of the Fi
 
 ## 13	Personal Emergency Evacuation Plan (PEEPs)
 
-PEEPs for hearing, blind and disabled persons may be required for the 2nd and 3rd floor of the building.
+PEEPs for hearing, blind and disabled persons may be required.
 
 At present there are no PEEPs. IWC will evaluate, when required, any future person requiring special arrangements or assistance during an emergency evacuation of the building. It will also, if necessary, undertake any further staff training or purchase evacuation equipment where necessary in any future needs.
 
@@ -230,7 +245,7 @@ Information on these safety measures should be supplied to the person’s guardi
 
 ## 15	PAT & Electrical Equipment Policy
 
-IWC will consistently monitor the HSE ACOP on portable appliance testing and adopt its policy to comply with current advice issued by the HSE. 
+IWC will consistently monitor the HSE ACOP on portable appliance testing and adopt its policy to comply with current advice issued by the HSE. PAT testing is carried out annually in all IWC offices.
 
 IWC allow staff to bring in their electrical equipment and charge them on company premises if:
 
@@ -242,7 +257,7 @@ Staff are advised not to bring in cheaply sourced, unbranded chargers or leads.
 
 ## 16	Fire Drills
 
-As IWC occupy a floor on a 4-storey building, drills are organised by the Landlord every 6 months.
+Fire drills are organised by the Landlord as per each office location every 6 months.
 
 IWC will monitor regular drills are being held to comply with fire regulations.
 
@@ -267,69 +282,22 @@ Checks are carried out at least monthly.
 
 All fire related systems will be checked to the minimum British Standard as required.
 
-As the building is a leased floor of a 4-storey block of offices, many parts are controlled and maintained by the Landlord. The Landlord’s responsibilities are (but not limited to):	
+Many parts of IWC's office buildings are controlled and maintained by the Landlord. The Landlord’s responsibilities are (but not limited to):	
 
 * The Fire Alarm System
 * Common Area Portable Fire Equipment
 * Common Area Emergency Lighting (and at present, all IWC’s lighting)
 * Common Area Escape Routes and Doors.
 
-IWC expects the Landlord to maintain the equipment above to the current British Standard expected by the fire authorities.
+IWC expects the building landlords to maintain the equipment above to the current British Standard expected by the fire authorities.
 
 IWC however does listen out weekly to ensure their audible alarm is working.
 
-At present, the following is maintained by IWC:
-
-### 19.1	Fire-Fighting Equipment:
-
-All IWC’s fire-fighting equipment is inspected at 11, 12 or 13-month periods by a qualified contractor.
-
-IWC will:
-
-* Visually inspect the body of the unit to ensure it is not damaged.
-* Ensure units are not falling from the walls or if units are on stands, ensure they are stable.
-* Ensure units are not obstructed and is completely visible.
-* Ensure the operating instructions are clear and visible.
-* Ensure the pin and pull tight seal (or on Chubb equipment, an OK pin) are intact and in position.
-* If fitted with a gauge, ensure it is in the green section.
-* On a CO2 unit, ensure the swivel horn assembly is not damaged or missing.
-
-### 19.2	Emergency Lighting:
-
-The Landlord is currently testing all Emergency Lighting units in IWC areas.
-
-### 19.3	General Fire Precautions
-
-IWC undertakes the following safety inspections and tests at regular intervals between daily to monthly.
-
-* Final fire exit doors are checked and recorded weekly for ease of opening and if required, the route to safety is walked monthly.
-* As well as general daily walk rounds, IWC has a formal monthly Health & Safety check where the following is also inspected:
-  * Fire signage including escape and industrial fire signage to ensure they are not missing, blocked or falling from the wall.
-  * Obstruction to exit ways, fire exit doors and trip hazards.
-  * Loose, damaged or trailing extension leads (visual only).
-  * Broken plugs or sockets (these should be reported by staff).
-  * Flammable material on, under or near electrical devices or dangerous heating devices. 
-  * Misuse or not stored flammable liquids and/or gasses.
-  * Any areas required to be fire compartmented should not have any holes or services put through walls, floors or ceilings.
-* Fire stop doors are checked monthly for the following:
-  * No signs of damage on the door or the frame.
-  * The door when opened that it closes without restriction into its rebate.
-  * The hinges, closer, handle checked to ensure they are not coming away from the door or frame.
-  * The cold smoke seals and intumescent strips are complete along the door of the frame (excluding hinge and lock areas).
-
-Note: If the door does not close fully or is extremely slow in closing, the hydraulic closer may have to be adjusted.  Where possible, IWC does not use the Perco internal door closing device.
+Any equipment or service relating to fire safety or fire fighting that is maintained by IWC can be found in the [Facilities Handbook](https://sites.google.com/infinityworks.com/iso-intranet/iso-9001/office-building#h.p_f8eHBMXXnOuo), as this differs per location. All locations carry out general fire precautions and regular checks.
 
 ## 20	Lone Worker
 
-At present, some people can access the building 24-hours a day.
-
-Using the regional office SLACK channel, Staff are requested to alert that they are planning to work.
-
-Staff should alert when they have arrived and at the end, alert that they are departing. 
-
-Staff are also advised to ensure someone is aware of what time they should be home in case of off-site problems.
-
-At present, the system does not need any further change however, the policy will be reviewed along with all procedures within this document.
+Please see the [Lone Worker] (https://policies.infinityworks.com/ISO-9001/Lone%20Worker/) procedure for details of how to maintain Fire safety when working alone.
 
 ## 21	Risk Assessment
 
@@ -337,6 +305,6 @@ A fire risk assessment will be carried out by a competent person (generally a co
 
 This will be reviewed annually internally for any changes to operation and or the standards.
 
-On every 2nd year, a competent person will review the assessment for any changes to Standards, Legislation or internal changes be it structural or business to IWC.
+Every 2nd year, a competent person will review the assessment for any changes to Standards, Legislation or internal changes be it structural or business to IWC.
 
 If any major changes of business, substances, people or layout are made IWC will ensure a review is undertaken as soon as possible.
