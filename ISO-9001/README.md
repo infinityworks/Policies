@@ -51,6 +51,7 @@ Thank You!
 - [Lone Worker](Lone%20Worker)
 - [Maternity Policy](MaternityPolicy)
 - [Office Visitor Policy](OfficeVisitorPolicy)
+- [Office Visitor Privacy Policy](OfficeVisitorPrivacyPolicy)
 - [Paternity Policy](PaternityPolicy)
 - [Risk Policy](Risk%20Assessment)
 - [SDLC](SDLC%20in-life)
