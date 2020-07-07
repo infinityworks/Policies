@@ -26,3 +26,4 @@ This is a list of the key systems that underpin the Infinity Works business. Thi
 | Workable | B | Talent Team | Recruitment Pipeline & Tracking | Contacts detailes are regularily exported, fallback to offline communication with the candidate | www.workable.com |
 | Bamboo | A | Employees & Contractors | Leave Tracking, New Starter On-Boarding, Training (Recording) | Training would be retrospectivley updated, New starters would be contacted by our HR team to be progressed. Leave would be agreed manually with account leads and retrospectivley updated | www.bamboohr.com |
 | Atlassian Cloud | B | Employees & Contractors | Ticket Tracking, Documentation Portal | Tickets would be logged manually through Slack, documents could be recovered from backup if required | www.atlassian.com |
+| HowNow | C | Employees | Employee Training Portal | Training would be placed on-hold until available | www.hownow.com |
