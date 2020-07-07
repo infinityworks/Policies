@@ -32,14 +32,15 @@ Infinity Works will:
 * Take additional security measures to protect high value assets and confidential documentation storage areas
 * Provide additional security measures to ensure the protection of employees and equipment. These measures include, where applicable:  
   * The requirement for all high value assets (e.g. laptops and monitors) to be marked with an asset tag
-* Use CCTV surveillance in sensitive or higher risk areas where applicable:
+* Restrict access to sensitive or higher risk areas where applicable:
+* Use CCTV to monitor physical access to our offices
   * The provision of building Security Staff that are trained and authorised to operate and monitor CCTV equipment, during hours when the building is accessible to the public
 
 Infinity Works will adopt where possible the following items of security equipment:
 
 * Intruder Alarm Equipment for designated fire doors (where the firedoors form part of our designated office boundary)
 * Access Control Systems including Identity Cards
-* CCTV surveillance and CCTV recording equipment (for sensitive or higher risk areas, i.e. HR, Finance and Legal at Head Office)
+* CCTV surveillance and CCTV recording equipment
 * Door furniture, locks and suiting
 
 Infinity Works reserves the rights to:
