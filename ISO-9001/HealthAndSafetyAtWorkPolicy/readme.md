@@ -13,3 +13,8 @@ All Infinity Works colleagues should familiarise themselves with the fire safety
 ## Computers and Display Screen Equipment
 We will ensure that you are given adequate training and supervision to perform your work competently and safely. Infinity Works colleagues will be given health and safety training as and when considered necessary. You must use equipment in accordance with any instructions given to you. Any equipment fault or damage must immediately be reported to your Manager.
 As you use a computer screen or other display screen equipment (DSE) as a significant part of your work, you are entitled to a workstation assessment and regular eyesight tests by an optician at our expense. Further information on workstation assessments and eye tests can be obtained from the  [People Team](mailto:people@infinityworks.com).
+
+## Communications in the event of an incident
+Should a major incident occur (e.g. a fire, or terrorist threat etc), the Office Manager and Operations Director for that office will communicate with the people in the office that day to let them know what's happening, and to confirm the actions that should be taken. 
+
+In the event of an evacuation, the fire alarm will sound and normal evacuation procedures should be followed, but in the case of other sorts of incident, the procedure may not be so clear cut. The Operations Director (or designate) will decide on the appropriate course of action, then use the office-specific Slack channel, plus an email to the distribution list for the office, to communicate about any incidents and inform people of any actions that may be required. They will also liaise with the company-wide operations team to keep them informed of what is going on, and to ask for any help that may be needed.
