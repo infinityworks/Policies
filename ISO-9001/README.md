@@ -44,7 +44,7 @@ Thank You!
 - [External Dependency Policy](ExternalDependencyPolicy)
 - [Fire and Emergency Evacuation Policy and Procedures](Fire%20and%20EmergencyEvacuationPolicyAndProcedures)
 - [Flexible Working](FlexibleWorking)
-- [Gifts and Hospitality Policy](Gifts%20and%20Hospitality)
+- [Gifts and Hospitality Policy](GiftsandHospitality)
 - [Grievance Policy](GrievancePolicy)
 - [Health and Safety at Work Policy](HealthAndSafetyAtWorkPolicy)
 - [IT and Communication Systems](ItAndCommunicationSystems)
