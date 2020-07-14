@@ -41,7 +41,7 @@ Thank You!
 - [Driving for work](Driving%20for%20work)
 - [Equal Opportunities](Equal-Opportunities)
 - [Expenses Policy](Expenses%20Policy)
-- [External Dependency Policy](External%20Dependency%20Policy)
+- [External Dependency Policy](ExternalDependencyPolicy)
 - [Fire and Emergency Evacuation Policy and Procedures](Fire%20and%20EmergencyEvacuationPolicyAndProcedures)
 - [Flexible Working](FlexibleWorking)
 - [Gifts and Hospitality Policy](Gifts%20and%20Hospitality)
