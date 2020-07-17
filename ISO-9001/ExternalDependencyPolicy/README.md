@@ -20,8 +20,8 @@ These categories each have a level of mitigation proportionate to the immediacy 
 Infinity Works have a contract which directly includes the external party product or services within our own commercial obligations.
 
 ### Examples
-* SkyBet managed service which includes AWS instances under the Infinity Works account and costs are encapsulated in the managed service fee.
-* TFN Fares Data Capture tool which includes AWS instances under the Infinity Works account and costs are directly passed through to the customer.
+* Customer A managed service which includes AWS instances under the Infinity Works account and costs are encapsulated in the managed service fee.
+* Customer B tool includes AWS instances under the Infinity Works account and costs are directly passed through to the customer.
 
 ### Mitigations
 * Partnership. Infinity Works establish a formal partnership agreement with the product or service provider to provide a contractual foundation and access to people, information and training as far as necessary.
@@ -35,8 +35,8 @@ Infinity Works have a contract which directly includes the external party produc
 Infinity Works use a tool or service for which there is no direct commercial obligation to the customer, but it is depended upon as part of an agreed process which is part of our contractual obligations.
 
 ### Examples
-* Virgin uses an Infinity Works provisioned instance of Atlassian’s JIRA tool to document, track and audit tasks as part of the development process.
-* Sainsbury’s Bank uses an Infinity Works provisioned Pagerduty system to provide a 24/7 on-call number with an in-built rota, escalations etc. as part of incident management.
+* Customer C uses an Infinity Works provisioned instance of Atlassian’s JIRA tool to document, track and audit tasks as part of the development process.
+* Customer D uses an Infinity Works provisioned Pagerduty system to provide a 24/7 on-call number with an in-built rota, escalations etc. as part of incident management.
 
 ### Mitigations
 * Reputation. Infinity Works only source tools directly in support of essential customer processes from providers who are ubiquitous throughout the industry and have a long-standing, proven standard of performance.
@@ -50,8 +50,8 @@ Infinity Works use a tool or service for which there is no direct commercial obl
 Infinity Works employ external contractors where necessary to fulfil short term demand or specialist roles required as part of our customer obligations.
 
 ### Examples
-* NHS DBAs were brought in on a contractor basis due to their niche skill set and the lack of consistent demand across all clients.
-* Cinch engineers were brought in on a contract basis to allow a quick ramp up for a team that needed to be established at short notice.
+* Customer E DBAs were brought in on a contractor basis due to their niche skill set and the lack of consistent demand across all clients.
+* Customer F engineers were brought in on a contract basis to allow a quick ramp up for a team that needed to be established at short notice.
 
 ### Mitigations
 * Contractor agreement. Infinity Works ensures that contractors are employed with terms that are suitable and in line with our customer commitments.
