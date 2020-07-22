@@ -92,6 +92,12 @@ The following activities are strictly prohibited, with no exceptions:
 
 - Providing information about, or lists of, Infinity Works employees to parties outside Infinity Works, unless this activity is a part of the employee's normal job/duty and is in accordance with Infinity Works' Employee and Contractor Privacy Notice.
 
+#### Priviledged Utility Programs
+
+The very nature of the role we ask our consultants to facilitate requires them to interact with the operating system and software at a deep level, for example many of our staff develop software on low level technologies such as containerisation and virtualisation. Privileged access and subsequent modifications to the system, either directly or through utility programs is part of the duties of their role. When undertaking such tasks, staff must abide by good practice and have a clear understanding of the security implications.
+
+Whilst modifications to support their duties are supported by Infinity Works, any modifications made to a system with the intention, or impact of breaching any of our policies as defined will be managed through our disciplinary process as per the policy guidance.
+
 #### Email and Communication Activities
 
 When using company resources to access and use the Internet, users must realise they represent the company. Whenever employees state an affiliation to Infinity Works, they must also clearly indicate that "the opinions expressed are my own and not necessarily those of Infinity Works".
