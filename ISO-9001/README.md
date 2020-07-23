@@ -64,6 +64,7 @@ Thank You!
 - [Whistleblowing Policy](WhistleblowingPolicy)
 
 ![Signature](../signature.png)
+
 Signed by James O'Donovan
 Date 23/07/2020
 On Behalf of Infinity Works Consulting Ltd, Board of Directors
