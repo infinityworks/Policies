@@ -4,12 +4,12 @@
 
 Infinity Works uses a number of externally provided tools and services in support of standard business operations. In some cases, an external dependency forms a crucial part of our own customer obligations and so must be diligently selected and carefully managed. At the other end of the spectrum, some dependencies support internal processes which only distantly impact our client obligations and may be subject to softer mitigation controls. This policy identifies four categories of dependency which can be summarised as follows:
 
-|Type|Description|Definition                                                                                                                                                                                                 |
-|----|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|A   |Commercial |Infinity Works have a contract which directly includes the external party product or services within our own commercial obligations.                                                                       |
-|B   |Process    |Infinity Works use a tool or service for which there is no direct commercial obligation to the customer, but it is depended upon as part of an agreed process which is part of our contractual obligations.|
-|C   |People     |Infinity Works employ external contractors where necessary to fulfil short term demand or specialist roles required as part of our customer obligations.                                                   |
-|D   |Tools      |Infinity Works employ external contractors where necessary to fulfil short term demand or specialist roles required as part of our customer obligations.                                                   |
+|Type|Description|Definition                                                                                                                                                                                                     |
+|----|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|A   |Commercial |Infinity Works have a contract which directly includes the external party product or services within our own commercial obligations.                                                                           |
+|B   |Process    |Infinity Works use a tool or service for which there is no direct commercial obligation to the customer, but it is depended upon as part of an agreed process which is part of our contractual obligations.    |
+|C   |People     |Infinity Works employ external contractors where necessary to fulfil short term demand or specialist roles required as part of our customer obligations.                                                       |
+|D   |Tools      |Infinity Works use a number of tools which are not directly exposed to the customer in any way, but which provide key internal processes and are indirectly part of our ability to fulfil customer obligations.|
 
 These categories each have a level of mitigation proportionate to the immediacy of their impact on Infinity Works’ own obligations. A detailed description of each category follows.
 
