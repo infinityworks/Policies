@@ -62,6 +62,7 @@ Contact Email: isms@infinityworks.com
 Information Security Roles and Responsibilities [view here](security#information-security-roles-and-responsibilities)
 
 ![Signature](../signature.png)
+
 Signed by James O'Donovan
 Date 23/07/2020
 On Behalf of Infinity Works Consulting Ltd, Board of Directors
