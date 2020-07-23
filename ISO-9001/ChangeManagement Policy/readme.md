@@ -28,4 +28,4 @@ All changes to IT services provided by Infinity Works to its clients must follow
 
 * 5.3 Non-Compliance: An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
 
-Please contact [legal@infinityworks.com](mailto:legal@infinityworks.com) for the up-to-date Change Managment Templates.
+Please contact [legal@infinityworks.com](mailto:legal@infinityworks.com) for the up-to-date Change Management Templates.
