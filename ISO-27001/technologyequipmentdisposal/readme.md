@@ -26,14 +26,19 @@ All Infinity Works Consulting employees and contractors must comply with this po
 
 ### Employee Purchase of Disposed Equipment
 
-- Equipment which is working, but reached the end of its useful life to Infinity Works Consulting, will have it memory cleared/deleted and then made available for purchase by employees.
-- A lottery system will be used to determine who has the opportunity to purchase available equipment.
-- All equipment purchases must go through the lottery process.  Employees cannot purchase their office computer directly or “reserve” a system.  This ensures that all employees have an equal chance of obtaining equipment.
-- The Finance team will determine an appropriate cost for each item.  
+- Equipment which is working, but reached the end of its useful life to Infinity Works Consulting, will have its memory cleared/deleted and then made available for purchase by employees.
+- Employees leaving Infinity Works Consulting employment will be offered the opportunity of purchasing their work equipment, this includes their company laptop and working from home equipment (e.g. monitor).
+- Any employee who's laptop has reached the end of its useful life and is replaced, will have the opportunity to purchase their laptop.
+- For all other equipment purchases, a waiting list system will be used to determine who has the opportunity to purchase available equipment. When equipment is deemed available, it will first be offered to the employee at the top of this list, before moving to the next person on the list and so on. An employee choosing to buy a piece of equipment will then be removed from the waiting list, however they can then be re-added to the bottom of the waiting list again. An employee who declines on the purchase of a piece of equipment will remain on the waiting list. This ensures that all employees have a chance of obtaining equipment.
+- Employees can request to be added to the disposal equipment waiting list at any time, by contacting the IT Systems Team.
+- The IT Systems Team will manage the disposal equipment waiting list system.
 - All purchases are final.  No warranty or support will be provided with any equipment sold.  
-- Any equipment not in working order or remaining from the lottery process will be donated or disposed of according to current environmental guidelines (following deletion of it memory).
+- Any equipment not in working order or remaining from the waiting list process will be donated or disposed of according to current environmental guidelines (following deletion of its memory).
+- The IT Systems Team will grade the condition of each asset, the quality grading will account for any damages or performance issues.
+- Taking the asset grading into account, the Finance team will determine an appropriate cost for each item.
+- Where data is held on the equipment, the IT Systems Team will ensure the asset has a full system restore and is clear of any Infinity Works Consulting data or links to data.
+- The purchaser will ensure that the reset has been completed and that all Infinity Works Consulting data and links to data have been removed.
 - Infinity Works Consulting will ensure that contracts are in place to donate or properly dispose of outdated technology assets.
-- Prior to leaving Infinity Works Consulting premises, all equipment must be removed from the ISO Fixed Asset Register.  
 
 ## Policy Compliance
 
