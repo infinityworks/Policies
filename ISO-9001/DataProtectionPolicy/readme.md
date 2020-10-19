@@ -19,7 +19,7 @@ We will only process “sensitive personal data” about ethnic origin, politica
 
 ## How are we likely to use your personal data
 We will only process your personal data for the specific purpose or purposes notified to you or for any other purposes specifically permitted by GDPR.  We will process data about Infinity Works colleagues for legal, personnel, administrative and management purposes and to enable us to meet our legal obligations as an employer, for example to pay you, monitor your performance and to confer benefits in connection with your employment.  We may process sensitive personal data relating to Infinity Works colleagues including, as appropriate: 
-Information about an employee’s physical or mental health or condition in order to monitor sick leave and take decisions as o the employee’s fitness for work; 
+Information about an employee’s physical or mental health or condition in order to monitor sick leave and take decisions as to the employee’s fitness for work; 
 The employee’s racial or ethnic origin or religious or similar information in order to monitor compliance with equal opportunities legislation; 
 In order to comply with legal requirements and obligations to third parties. 
 Your personal data will only be processed to the extent it is necessary for the specific purposes notified to you.
