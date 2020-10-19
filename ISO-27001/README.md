@@ -39,23 +39,24 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* IW Group Ops Director - James O'Donovan
 * ISMS Manager (acting) - Tom Walton
-* Director of Technology Platforms - Ed Marshall
-* Legal Counsel - Clare Mackintosh
+* Group Operations Director - James O'Donovan
 * Operations Directors:
    * Leeds - Pete Cotton
    * London - Lara Longhurst
    * Manchester - David Postle
    * Edinburgh - Pete Cotton
+* Group Technical Director - Neil Dunlop
 * Technical Directors:
-   * Leeds - Neil Dunlop
+   * Leeds - Ed Marshall
    * London - Neil Dunlop
    * Manchester - Rick Boyce
-   * Edinburgh - Pete Cotton
-* Director of People - Clement Pickering
-* Finance Director - Sadie Alton
-* Office Team - Emma Telfer
+   * Edinburgh - Ed Marshall
+* Director of People - Charlotte Goulding
+* Director of Talent Acquisition - Jen Riley
+* Legal Counsel:
+   * Clare Mackintosh
+   * Lynsey Kerr
 
 Contact Email: isms@infinityworks.com 
 
