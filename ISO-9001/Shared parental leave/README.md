@@ -33,17 +33,17 @@ The mother is eligible for shared parental leave if she:
 - has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with the organisation until the week before any period of shared parental leave that she takes;
 - has, at the date of the child's birth, the main responsibility, apart from the partner, for the care of the child;
 - is entitled to statutory maternity leave in respect of the child; and
-- complies with the relevant maternity leave curtailment requirements (or has returned to work before the end of statutory maternity leave), andÊshared parental leave notice and evidence requirements.
+- complies with the relevant maternity leave curtailment requirements (or has returned to work before the end of statutory maternity leave), and shared parental leave notice and evidence requirements.
 ### In addition, for the mother to be eligible for shared parental leave, the partner must:
 - have been employed or been a self-employed earner in at least 26 of the 66 weeks immediately preceding the expected week of childbirth;
 - have average weekly earnings of at least the maternity allowance threshold for any 13 of those 66 weeks; and
 - have, at the date of the child's birth, the main responsibility, apart from the mother, for the care of the child.
 ### Partner's eligibility for shared parental leave
-The partner is eligible for shared parental leaveÊif he/she:
+The partner is eligible for shared parental leave if he/she:
 - has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with the organisation until the week before any period of shared parental leave that he/she takes;
 - has, at the date of the child's birth, the main responsibility, apart from the mother, for the care of the child; and
 - complies with the relevant shared parental leave notice and evidence requirements.
-### In addition, for the partner to be eligible forÊshared parental leave, the mother must:
+### In addition, for the partner to be eligible for shared parental leave, the mother must:
 - have been employed or been a self-employed earner during at least 26 of the 66 weeks immediately preceding the expected week of childbirth;
 - have average weekly earnings of at least the maternity allowance threshold for any 13 of those 66 weeks;
 - have, at the date of the child's birth, the main responsibility, apart from the partner, for the care of the child;
@@ -51,13 +51,13 @@ The partner is eligible for shared parental leaveÊif he/she:
 - comply with the relevant maternity leave or pay curtailment requirements (or have returned to work before the end of statutory maternity leave).
 
 ## Notice requirements for shared parental leave
-The notices that the parents must give to the relevant employer to be able to takeÊshared parental leave are made up of three elements. They are:
+The notices that the parents must give to the relevant employer to be able to take shared parental leave are made up of three elements. They are:
 - a "maternity leave curtailment notice" from the mother setting out when she proposes to end her maternity leave (unless the mother has already returned to work from maternity leave);
 - a "notice of entitlement and intention" from the employee giving an initial, non-binding indication of each period of shared parental leave that he/she is requesting; and
 - a "period of leave notice" from the employee setting out the start and end dates of each period of shared parental leave that he/she is requesting.
 
 The notice periods set out below are the minimum required by law. However, the earlier the employee informs the organisation of his/her intentions, the more likely it is that the organisation will be able to accommodate the employee's wishes, particularly if he/she wants to take periods of discontinuous leave.
-Employees are advised that, if they have already decided the pattern of shared parental leave that they would like to take, they can provide more than one type of notice at the same time. For example, the mother could provide a maternity leave curtailment notice, notice of entitlement and intention and period of leaveÊnotice at the same time. Similarly, the partner could provide his/her notice of entitlement and intention and period of leave notice at the same time.
+Employees are advised that, if they have already decided the pattern of shared parental leave that they would like to take, they can provide more than one type of notice at the same time. For example, the mother could provide a maternity leave curtailment notice, notice of entitlement and intention and period of leave notice at the same time. Similarly, the partner could provide his/her notice of entitlement and intention and period of leave notice at the same time.
 ### Mother's notice curtailing maternity leave
 Before the mother or partner can take shared parental leave, the mother must either return to work before the end of her maternity leave (by giving the required eight weeks' notice of her planned return) or provide her employer with a maternity leave curtailment notice. The maternity leave curtailment notice must be in writing and state the date on which maternity leave is to end. That date must be:
 - after the compulsory maternity leave period, which is the two weeks after birth;
@@ -78,7 +78,7 @@ If the employee is the mother, the notice of entitlement and intention must set 
 - the total amount of shared parental leave available;
 - the child's expected week of birth and the child's date of birth (although, if the child has not yet been born, the date of birth can be provided as soon as reasonably practicable after birth, and before the first period of shared parental leave to be taken by the mother);
 - how much shared parental leave the mother and partner each intend to take; and
-- a non-binding indication as to when the employee intends to take shared parental leave (including the start and end dates for each period ofÊleave).
+- a non-binding indication as to when the employee intends to take shared parental leave (including the start and end dates for each period of leave).
 The mother's notice of entitlement and intention must include a declaration signed by her that:
 - she satisfies, or will satisfy, the eligibility requirements to take shared parental leave;
 - the information she gives in the notice of entitlement and intention is accurate; and
@@ -113,7 +113,7 @@ Within 14 days of receiving a notice of entitlement and intention from the emplo
 The employee has 14 days from the date of the request to send the organisation the required information.
 
 ### Variation or cancellation of notice of entitlement and intention
-The employee can vary or cancel his/her proposedÊshared parental leaveÊdates following the submission of a notice of entitlement and intention, provided that he/she provides the organisation with a written notice. The written notice must contain:
+The employee can vary or cancel his/her proposed shared parental leave dates following the submission of a notice of entitlement and intention, provided that he/she provides the organisation with a written notice. The written notice must contain:
 - an indication as to when the employee intends to take shared parental leave (including the start and end dates for each period of leave);
 - details of any periods of shared parental leave that have been notified through a period of leavenotice;
 - details of any periods of statutory shared parental pay that have been notified in relation to periods where shared parental leave was not to be taken; and
@@ -126,7 +126,7 @@ A period of leave notice must be given not less than eight weeks before the star
 
 ### Variation or cancellation of period of leave notice
 The employee can vary or cancel his/her proposed shared parental leave dates following the submission of a period of leave notice, provided that he/she provides his/her employer with a written notice not less than eight weeks before any period of leave varied or cancelled by the notice is due to commence. The written notice can:
-- vary the start date or the end date of any period of shared parental leaveÊor cancel a request for leave;
+- vary the start date or the end date of any period of shared parental leave or cancel a request for leave;
 - request that a continuous period of leave become discontinuous periods of leave; or
 - request that discontinuous periods of leave become a continuous period of leave.
 
@@ -149,50 +149,51 @@ Alternatively, if the organisation has refused the request or no agreement has b
 
 ### Amount of shared parental pay available
 Option 1 - employer offers enhanced shared parental pay.
-The organisation offers employees [with [one year's] service] generousÊshared parentalÊpay.
-Example 1 - enhancedÊshared parentalÊpay where the employer provides full pay during maternityÊleave
-The organisation pays employees [with the required one year's service] their normal pay during anyÊshared parental leaveÊperiod that they take.
-Example 2 - enhancedÊshared parentalÊpay where the employer provides full pay followed by half pay during maternityÊleave
-The organisation pays employees [with the required one year's service] their normal pay during [the first [number] weeks'Êshared parental leave, followed by [half] pay for the subsequent [number] weeks'Êshared parental leave], unless the employee has already benefited from enhanced [maternity/adoption] pay in relation to the same child. Employees who take a period of [maternity/adoption]ÊleaveÊfollowed by one or more periods ofÊshared parental leaveÊare entitled to a maximum of [number] weeks' normal pay and [number] weeks' [half] pay, when any periods of enhanced [maternity/adoption] andÊshared parentalÊpay are combined.
-Option 2 - employees entitled only to statutoryÊshared parentalÊpay
-StatutoryÊshared parentalÊpay is available for eligible parents toÊshareÊbetween them while onÊshared parental leave. The number of weeks' statutoryÊshared parentalÊpay available to the parents will depend on how much statutory maternity pay or maternity allowance the mother has been paid when her maternityÊleaveÊor pay period ends.
-A total of 39 weeks' statutory maternity pay or maternity allowance is available to the mother. As there is a compulsory maternityÊleaveÊperiod of two weeks [or four weeks for factory workers], this means that a mother who ends her maternityÊleaveÊat the earliest opportunity couldÊshareÊup to 37 weeks' statutoryÊshared parentalÊpay with her partner [35 weeks' statutoryÊshared parentalÊpay can beÊsharedif the mother is a factory worker] (although it will normally be less than this because of the maternityÊleaveÊthat mothers usually take before the birth).
-Any statutoryÊshared parentalÊpay due duringÊshared parental leaveÊwill be paid at a rate set by the Government for the relevant tax year, or at 90% of the employee's average weekly earnings, if this figure is lower than the Government's set weekly rate.
-It is up to the parents as to who is paid the statutoryÊshared parentalÊpay and how it is apportioned between them.
-Eligibility for statutoryÊshared parentalÊpay
-For employees to be eligible for statutoryÊshared parentalÊpay, both parents must meet certain eligibility requirements.
-Mother's eligibility for statutoryÊshared parentalÊpay
-The mother is eligible for statutoryÊshared parentalÊpay if she:
-* has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with her employer until the week before any period ofÊshared parentalÊpay that she gets;
+The organisation offers employees [with [one year's] service] generous shared parental pay.
+Example 1 - enhanced shared parental pay where the employer provides full pay during maternity leave
+The organisation pays employees [with the required one year's service] their normal pay during any shared parental leave period that they take.
+Example 2 - enhanced shared parental pay where the employer provides full pay followed by half pay during maternity leave
+The organisation pays employees [with the required one year's service] their normal pay during [the first [number] weeks' shared parental leave, followed by [half] pay for the subsequent [number] weeks' shared parental leave], unless the employee has already benefited from enhanced [maternity/adoption] pay in relation to the same child. Employees who take a period of [maternity/adoption] leave followed by one or more periods of shared parental leave are entitled to a maximum of [number] weeks' normal pay and [number] weeks' [half] pay, when any periods of enhanced [maternity/adoption] and shared parental pay are combined.
+
+Option 2 - employees entitled only to statutory shared parental pay
+Statutory shared parental pay is available for eligible parents to share between them while on shared parental leave. The number of weeks' statutory shared parental pay available to the parents will depend on how much statutory maternity pay or maternity allowance the mother has been paid when her maternity leave or pay period ends.
+A total of 39 weeks' statutory maternity pay or maternity allowance is available to the mother. As there is a compulsory maternity leave period of two weeks [or four weeks for factory workers], this means that a mother who ends her maternity leave at the earliest opportunity could share up to 37 weeks' statutory shared parental pay with her partner [35 weeks' statutory shared parental pay can be sharedif the mother is a factory worker] (although it will normally be less than this because of the maternity leave that mothers usually take before the birth).
+Any statutory shared parental pay due during shared parental leave will be paid at a rate set by the Government for the relevant tax year, or at 90% of the employee's average weekly earnings, if this figure is lower than the Government's set weekly rate.
+It is up to the parents as to who is paid the statutory shared parental pay and how it is apportioned between them.
+Eligibility for statutory shared parental pay
+For employees to be eligible for statutory shared parental pay, both parents must meet certain eligibility requirements.
+Mother's eligibility for statutory shared parental pay
+The mother is eligible for statutory shared parental pay if she:
+* has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with her employer until the week before any period of shared parental pay that she gets;
 * has normal weekly earnings for a period of eight weeks ending with the 15th week before the expected week of childbirth of at least the lower earnings limit for national insurance contribution purposes;
 * has, at the date of the child's birth, the main responsibility, apart from the partner, for the care of the child;
-* is absent from work and intends to care for the child during each week in which she receives statutoryÊshared parentalÊpay; and
+* is absent from work and intends to care for the child during each week in which she receives statutory shared parental pay; and
 * is entitled to statutory maternity pay in respect of the child, but the maternity pay period has been reduced.
-In addition, for the mother to be eligible for statutoryÊshared parentalÊpay, the partner must:
+In addition, for the mother to be eligible for statutory shared parental pay, the partner must:
 * have been employed or been a self-employed earner during at least 26 of the 66 weeks immediately preceding the expected week of childbirth;
 * have, at the date of the child's birth, the main responsibility, apart from the mother, for the care of the child; and
 * have average weekly earnings of at least the maternity allowance threshold [currently £30] for any 13 of those 66 weeks.
-Partner's eligibility for statutoryÊshared parentalÊpay
-The partner is eligible for statutoryÊshared parentalÊpay if he/she:
-* has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with his/her employer until the week before any period ofÊshared parentalÊpay that he/she gets;
+Partner's eligibility for statutory shared parental pay
+The partner is eligible for statutory shared parental pay if he/she:
+* has at least 26 weeks' continuous employment ending with the 15th week before the expected week of childbirth and remains in continuous employment with his/her employer until the week before any period of shared parental pay that he/she gets;
 * has normal weekly earnings for eight weeks ending with the 15th week before the expected week of childbirth of at least the lower earnings limit for national insurance contribution purposes;
 * has, at the date of the child's birth, the main responsibility, apart from the mother, for the care of the child; and
-* is absent from work and intends to care for the child during each week in which he/she receives statutoryÊshared parentalÊpay.
+* is absent from work and intends to care for the child during each week in which he/she receives statutory shared parental pay.
 In addition, for the partner to be eligible, the mother must:
 * have been employed or been a self-employed earner during at least 26 of the 66 weeks immediately preceding the expected week of childbirth;
 * have average weekly earnings of at least the maternity allowance threshold [currently £30] for any 13 of those 66 weeks;
 * have, at the date of the child's birth, the main responsibility, apart from the partner, for the care of the child; and
 * be entitled to statutory maternity pay or maternity allowance in respect of the child, but the maternity pay period or maternity allowance period has been reduced.
-Rights duringÊshared parental leave
-DuringÊshared parental leave, all terms and conditions of the employee's contract except normal pay will continue. [Salary/wages] will be replaced by [statutoryÊshared parentalÊpay/pay under the organisation's enhancedÊshared parentalÊpay scheme] if the employee is eligible for it.
+Rights during shared parental leave
+During shared parental leave, all terms and conditions of the employee's contract except normal pay will continue. [Salary/wages] will be replaced by [statutory shared parental pay/pay under the organisation's enhanced shared parental pay scheme] if the employee is eligible for it.
 This means that, while sums payable by way of [wages/salary] will cease, all other benefits will remain in place. For example, holiday entitlement will continue to accrue. Pension contributions will continue to be paid. [The employee will remain in the life assurance and private medical insurance schemes.]
-Contact duringÊshared parental leave
-The organisation reserves the right to maintain reasonable contact with employees duringÊshared parental leave. This may be to discuss employees' plans for their return to work, to discuss any special arrangements to be made or training to be given to ease their return to work or to update them on developments at work during their absence.
-An employee can agree to work for the organisation (or to attend training) for up to 20 days duringÊshared parental leaveÊwithout that work bringing the period of his/herÊshared parental leaveÊand pay to an end. These are known as "shared-parental-leave-in-touch" (SPLIT) days.
-The organisation has no right to require employees to carry out any work and employees have no right to undertake any work during theirÊshared parental leave. Any work undertaken, and the amount of salary paid for any work done on SPLIT days, is entirely a matter for agreement between employees and the organisation.
-[You will continue to receive pay under the organisation's enhancedÊshared parentalÊpay scheme for any week during which you attend work for SPLIT days. [The organisation will also pay you an additional payment for each hour that you work during a SPLIT day at the rate of [hourly payment rate].]
+Contact during shared parental leave
+The organisation reserves the right to maintain reasonable contact with employees during shared parental leave. This may be to discuss employees' plans for their return to work, to discuss any special arrangements to be made or training to be given to ease their return to work or to update them on developments at work during their absence.
+An employee can agree to work for the organisation (or to attend training) for up to 20 days during shared parental leave without that work bringing the period of his/her shared parental leave and pay to an end. These are known as "shared-parental-leave-in-touch" (SPLIT) days.
+The organisation has no right to require employees to carry out any work and employees have no right to undertake any work during their shared parental leave. Any work undertaken, and the amount of salary paid for any work done on SPLIT days, is entirely a matter for agreement between employees and the organisation.
+[You will continue to receive pay under the organisation's enhanced shared parental pay scheme for any week during which you attend work for SPLIT days. [The organisation will also pay you an additional payment for each hour that you work during a SPLIT day at the rate of [hourly payment rate].]
 OR
-If you are entitled to receive statutoryÊshared parentalÊpay for any week during which you attend work for SPLIT days, you will still receive this in the usual way. In addition, we will also pay you for each hour that you work during a SPLIT day at the rate of [hourly payment rate].]
-Returning to work followingÊshared parental leave
-The employee has the right to resume working in the same job when returning to work fromÊshared parental leaveÊif the period ofÊleave, when added to any other period ofÊshared parental leave, statutory maternityÊleaveÊor statutory paternityÊleaveÊtaken by the employee in relation to the same child, is 26 weeks or less.
-If the employee is returning to work fromÊshared parental leaveÊand the period ofÊleaveÊtaken is more than 26 weeks, when added to any other period ofÊshared parental leave, statutory maternity or paternityÊleaveÊtaken in relation to the same child, or was the last of two or more consecutive periods of statutoryÊleaveÊthat included a period of ordinaryÊparental leaveÊof more than four weeks, or a period of additional maternityÊleave, the employee has the right to return to the same job unless this is not reasonably practicable. In these circumstances, if it is not reasonably practicable for the organisation to permit a return to the same job, the employee has the right to return to another job that is suitable and appropriate for him/her.
+If you are entitled to receive statutory shared parental pay for any week during which you attend work for SPLIT days, you will still receive this in the usual way. In addition, we will also pay you for each hour that you work during a SPLIT day at the rate of [hourly payment rate].]
+Returning to work following shared parental leave
+The employee has the right to resume working in the same job when returning to work from shared parental leave if the period of leave, when added to any other period of shared parental leave, statutory maternity leave or statutory paternity leave taken by the employee in relation to the same child, is 26 weeks or less.
+If the employee is returning to work from shared parental leave and the period of leave taken is more than 26 weeks, when added to any other period of shared parental leave, statutory maternity or paternity leave taken in relation to the same child, or was the last of two or more consecutive periods of statutory leave that included a period of ordinary parental leave of more than four weeks, or a period of additional maternity leave, the employee has the right to return to the same job unless this is not reasonably practicable. In these circumstances, if it is not reasonably practicable for the organisation to permit a return to the same job, the employee has the right to return to another job that is suitable and appropriate for him/her.
