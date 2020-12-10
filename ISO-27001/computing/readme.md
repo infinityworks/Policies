@@ -1,37 +1,46 @@
 # Computing Policy
 
-##	Overview
+## Overview
 
-Allowing employees to install software on company computing devices is a risk which needs to be managed. Risks include dependency conflicts which prevent programs from running, the introduction of malware and the use of unlicensed software. As a technology consultancy and inline with our culture, we allow the employee to take responsibility for ensuring compliance with this policy. However, we also reserve the right to restrict this for cases we feel is appropriate.
+Allowing employees to be responsible for and manage both the operating system and the installed applications is a fundamental concept to the responsibility and culture at Infinity Works. This responsibility however, carries risk, a risk which needs to be managed. Risks include dependency conflicts which prevent programs from running, the introduction of malware and the use of unlicensed software. As a technology consultancy and inline with our culture, we allow the employee to take responsibility for ensuring compliance with this policy. However, we also reserve the right to restrict this for cases we feel is appropriate.
 
 ## Purpose
 
-To outline the requirements around installation software on company owned computing devices and to minimise the risk of loss of program functionality, the exposure of sensitive information contained within Infinity Works' computing network, the risk of introducing malware, and the legal exposure of running unlicensed software.
+To outline the requirements of the consultants in maintaining their devices inline with company policies and in a secure fashion. Compliance with this policies mitigates key risks around the exposure of sensitive information contained within Infinity Works' computing network, the risk of introducing malware, the legal exposure of running unlicensed software and the potential breach of a device due to missing security patches.
 
 ## Scope
 
-This policy applies to all Infinity Works employees, contractors, vendors and agents with an Infinity Works-owned device. This policy covers all computers, servers, smartphones, tablets and other computing devices operating within Infinity Works.
+- This policy applies to all Infinity Works employees, contractors, vendors and agents with an Infinity Works-owned device.
+- This policy applies to all contractors working on behalf of Infinity Works using a device provided by themselves for the role, only when using the device to access Infinity Works systems.
+
+This policy covers all computers, servers, smartphones, tablets and other computing devices operating within Infinity Works.
 
 ## Policy
 
-- Employees may install software on computing devices operated within the Infinity Works network in order to perform their role / function.
+- Employees will have the ability to perform administrative actions on their device, unless explicitly revoked on an individual level by the ISMS.
+- The main user logins on a machine should not be running with super user priveledges, users should maintain a seperate administrative account for when that level of access is needed.
+- Employees may install software on computing devices operated within the Infinity Works network in order to perform their role / function, using the seperated admin account.
 - All software must be appropriately licensed either by Infinity Works or by the user.
+- Operating system and application security patches must be applied within 14 days maximum of being made available.
+- All laptops and desktops must run company issued malware protection, above and beyond the built-in OS controls (ESET).
 - All users must take every measure to ensure that they do not inject malware onto Infinity Works systems and networks.
 - The Administration Team will obtain and track licenses owned by Infinity Works.
+- All non-essential software should be removed when no longer relevant or required to ensure the security footprint of the device is minimised.
 - Infinity Works computational devices may be audited at any time.
 
 ## Policy Compliance
 
 ### Compliance Measurement
 
-The ISMS Committee will verify compliance to this policy through various methods, including but not limited to, periodic walkthroughs, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner. 
+The ISMS Committee will verify compliance to this policy through various methods, including but not limited to, periodic walkthroughs, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
 
 ### Exceptions
-Any exception to the policy must be approved by the ISMS Committee in advance. 
+
+Any exception to the policy must be approved by the ISMS Committee in advance.
 
 ### Non-Compliance
 
-An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment. 
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
 
 ## Related Standards, Policies and Processes
 
