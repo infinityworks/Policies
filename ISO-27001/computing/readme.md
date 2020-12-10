@@ -18,15 +18,19 @@ This policy covers all computers, servers, smartphones, tablets and other comput
 ## Policy
 
 - Employees will have the ability to perform administrative actions on their device, unless explicitly revoked on an individual level by the ISMS.
-- The main user logins on a machine should not be running with super user priveledges, users should maintain a seperate administrative account for when that level of access is needed.
+- The main named user login on a machine should not be running with super user rights.
+- Users should maintain a seperate administrative account for when that level of access is needed, this account can either be used to authorise priveledged operations when prompted, or switched into to perform an action. This user must not to be used for accessing the internet or email.
 - Employees may install software on computing devices operated within the Infinity Works network in order to perform their role / function, using the seperated admin account.
 - All software must be appropriately licensed either by Infinity Works or by the user.
 - Operating system and application security patches must be applied within 14 days maximum of being made available.
-- All laptops and desktops must run company issued malware protection, above and beyond the built-in OS controls (ESET).
+- All laptops and desktops must run company issued malware protection (ESET) with daily updates enabled and the web and email protections enabled, this is above and beyond the built-in OS controls.
+- All laptops and desktops must have the local OS firewall enabled.
+- All laptops and desktops must have full disk Encryption enabled, Filevault on Mac and Bitlocker on Windows.
 - All users must take every measure to ensure that they do not inject malware onto Infinity Works systems and networks.
 - The Administration Team will obtain and track licenses owned by Infinity Works.
 - All non-essential software should be removed when no longer relevant or required to ensure the security footprint of the device is minimised.
 - Infinity Works computational devices may be audited at any time.
+- All laptops and desktops must have the Google Endpoint Verification plugin enabled and must ensure the device syncs at least every 30 days.
 
 ## Policy Compliance
 
