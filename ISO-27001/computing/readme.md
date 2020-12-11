@@ -10,8 +10,8 @@ To outline the requirements of the consultants in maintaining their devices inli
 
 ## Scope
 
-- This policy applies to all Infinity Works employees, contractors, vendors and agents with an Infinity Works-owned device.
-- This policy applies to all contractors working on behalf of Infinity Works using a device provided by themselves for the role, only when using the device to access Infinity Works systems.
+- This policy applies to all Infinity Works employees, contractors, vendors and agents with an Infinity Works-owned and managed device.
+- Any Device used to store corporate information related to Infinity Works is in-scope of the policies set out here.
 
 This policy covers all computers, servers, smartphones, tablets and other computing devices operating within Infinity Works.
 
@@ -32,6 +32,7 @@ This policy covers all computers, servers, smartphones, tablets and other comput
 - For Windows users, Autoplay options must be disabled on the laptop/desktop.
 - Infinity Works computational devices may be audited at any time.
 - All laptops and desktops must have the Google Endpoint Verification plugin enabled and must ensure the device syncs at least every 30 days.
+- When using your device to access Infinity Works systems, via a home network, the router for this network needs to be compliant with security patch policy and have had any default passwords changed.
 
 ## Policy Compliance
 

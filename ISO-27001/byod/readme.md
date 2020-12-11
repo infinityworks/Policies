@@ -8,7 +8,8 @@ Infinity Works employees must agree to the terms and conditions set forth in thi
 
 ## Acceptable Use
 
-Usage of a personal device must abide by the restrictions set out in the [Acceptable Use Policy](../acceptableusage/readme.md) and the policy as set out 
+Usage of a personal device must abide by the restrictions set out in the [Acceptable Use Policy](../acceptableusage/readme.md) and the [computing policy](../computing/readme.md). The device must also be configured and used in-line with the other security policies set out by Infinity Works.
+
 In order to bring your own device and use it for work purposes, the device must be up-to-date and secure, meeting the requirements of relevant policies, e.g. [Laptop Policy](../device/readme.md).
 
 ## Devices and Support
@@ -36,5 +37,12 @@ In order to bring your own device and use it for work purposes, the device must 
 * Employees are personally liable for all costs associated with their devices.
 * The employee assumes full liability for the risk of the device becoming inoperable or damaged while carrying out work for Infinity Works, e.g. by dropping the device, or the device being hacked.
 * Infinity Works reserves the right to take appropriate disciplinary action up to and including termination for noncompliance with this policy.
+
+## Related Standards, Policies and Processes
+
+- [Acceptable Usage Policy](../acceptableusage/readme.md)
+- [Password Policy](../password/readme.me)
+- [Laptop Policy](../device/readme.md)
+- [computing policy](../computing/readme.md)
 
 [back](../README.md#a-z-policies)
