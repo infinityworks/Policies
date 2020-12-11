@@ -18,7 +18,7 @@ The scope of this policy includes all personnel who have or are responsible for 
 
 - Both user-level and system-level passwords must be sufficiently strong such as to make cracking or guessing difficult.
 - Where possible passwords should be randomly generated rather than expose the risk that the password be deduced from information about the user.
-- In all cases passwords should be of sufficient length (>= 12 characters if possible) and contain a mixture of upper case, lower case, numerical and special characters.
+- In all cases passwords should be of sufficient length (>= 12 characters if possible, 8 minimum) and contain a mixture of upper case, lower case, numerical and special characters.
 - Length of password is more important than complexity - i.e. adding length increases entropy (how much uncertainty there is in a password) more efficiently than replacing letters with symbols.
 - Users must not use the same password for Infinity Works accounts as for other non-Infinity Works access (for example, personal ISP account, option trading, benefits, and so on).
 - User accounts that have system-level privileges granted through group memberships or programs such as sudo must have a unique password from all other accounts held by that user to access system-level privileges.
