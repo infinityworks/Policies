@@ -21,7 +21,7 @@ This policy covers all computers, servers, smartphones, tablets and other comput
 - The main named user login on a machine should not be running with super user rights; for Mac / Linux machines, this user should not be added to the sudoers file. This standard user account must be password protected using a password that adheres to the password policy.
 - Users should maintain a seperate administrative account for when that level of access is needed, this account can either be used to authorise priveledged operations when prompted, or switched into to perform an action. This user must not to be used for accessing the internet or email. This administritive account must have the password enabled, use a different password to the standard user account and be compliant with the password policy.
 - Employees may install software on computing devices operated within the Infinity Works network in order to perform their role / function, using the seperated admin account.
-- All software must be appropriately licensed either by Infinity Works or by the user.
+- All software must be appropriately licensed either by Infinity Works or by the user and must be supported with patches for security vulnerabilities.
 - Operating system, firmware and application security patches must be applied within 14 days maximum of being made available. Where an application falls out of support and no longer has a mechanism to recieve such patches, it must be removed.
 - All laptops and desktops must run company issued malware protection (ESET) with daily updates enabled and the web and email protections enabled, this is above and beyond the built-in OS controls.
 - All laptops and desktops must have the local OS firewall enabled.
