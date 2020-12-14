@@ -17,7 +17,7 @@ This policy applies to all networks within Infinity Works offices.
   - In the case of guest networks, it must be a person who is on-site. i.e. nothing should be connected to the guest network outside of office hours.
 - The ISMS Committee has the authority to remove devices from any network, if no owner can be identified.
 - The ISMS Committee has the authority to remove from the network any equipment which is interfering with the network service or is deemed likely to compromise the security of the network.
-- Anyone connecting equipment to the network is responsible for ensuring that the equipment is configured correctly, that the operating systems and software applications are up-to-date as regards patch management etc. and that the equipment has adequate protection against viruses and other malware. If there is any suspicion that the equipment may be infected or compromised in any way it should not be connected.
+- Anyone connecting equipment to the network is responsible for ensuring that the equipment is configured correctly, that the operating systems and software applications are patched with the latest available security update (See [computing policy](../computing/readme.md). And that the equipment has adequate protection against viruses and other malware through use of company issued ESET malware control. If there is any suspicion that the equipment may be infected or compromised in any way it should not be connected.
 - Access through the network perimeter firewall is managed and operated by the firewall service owner(s).
 - Any servers hosting production services for Infinity Works must be housed in a suitable environment so as to meet the service non-functional requirements.
 - It is the responsibility of the service owner(s) of each service to ensure that an adequate business continuity plan is in place in the event that the service is affected by the non-availability of the relevant servers, network or other elements of the IT infrastructure.
@@ -43,6 +43,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## Related Standards, Policies and Processes
 
+- [Computing Policy](../computing/readme.md)
 - [Monitoring Policy](../monitoring/readme.md)
 - [Information Sensitivity Policy](../informationsensitivity/readme.md)
 - [Data Protection Policy](../../ISO-9001/DataProtectionPolicy/readme.md)
