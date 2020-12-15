@@ -11,7 +11,8 @@ This policy applies to all networks within Infinity Works offices.
 ## Policy
 
 - Only employees and contractors should have access to the Infinity Works staff network, there is a separate guest network for visitors.
-   - All networks should be treated as insecure and potentially hostile.
+  - All networks should be treated as insecure and potentially hostile.
+  - The Infinity Works staff network should only be used for business use. Mobile and personal devices should use the separate guest network.
 - Each piece of equipment connected to the network must have an identifiable ‘owner’.
   - In the case of the staff network, it must be a staff member who will be responsible for ensuring that the connected equipment complies with the relevant policies and regulations. 
   - In the case of guest networks, it must be a person who is on-site. i.e. nothing should be connected to the guest network outside of office hours.
