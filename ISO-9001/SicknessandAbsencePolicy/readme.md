@@ -1,10 +1,12 @@
 # Absence Policy 
-We all feel a bit under the weather sometimes. At Infinity Works we believe that when considering mental health and physical health, the two should not be thought of as separate. 
+We all feel a bit under the weather sometimes. At Infinity Works we believe that when considering mental health and physical health, the two should not be thought of as separate.
+
 We want to provide support to you to proactively and reactively manage your health, We understand that poor physical health can lead to an increased risk of developing mental health problems. Similarly, poor mental health can negatively impact on physical health, leading to an increased risk of some conditions. At Infinity Works we want to maintain attendance standards by taking a fair approach to managing absence. Our policy helps everyone to understand what needs to happen when someone is too ill to come to work for a short or long term. Our policy isn’t just a way of giving out warnings, we want to give support and guidance to people who need to improve their attendance. Abuse of sickness absence however, including failing to report absence or falsely claiming sick pay or unauthorised absence will be treated as misconduct under our Disciplinary Procedure. Unless otherwise stated this policy applies to employees of the company only and not contractors.
 ## Reporting when you are sick
 If you cannot attend work because you are not well enough to work due to your physical, mental health or injury you should telephone your Manager as early as possible and no later than 30 minutes after the time when you are normally expected to start work. This applies to all Infinity Works colleagues including employees and contractors. This should also be logged in BambooHR as well as Kimble.
 ## Evidence of incapacity 
 You must complete a self-certification form for sickness absence of up to seven calendar days. For absence of more than a week you must obtain a certificate from your doctor stating that you are not fit for work, giving the reason. You must also complete a self-certification form to cover the first seven days. If absence continues beyond the expiry of a certificate, a further certificate must be provided.
+
 If your doctor provides a certificate stating that you “may be fit for work” you must inform your Manager immediately. We will hold a discussion with you about how to facilitate your return to work, taking account of your doctor’s advice. If appropriate measures cannot be taken you will remain on sick leave and we will set a date for review.
 ## Sick Pay
 You may be entitled to sick pay if you satisfy the relevant statutory and contractual requirements. Details of your sick pay entitlement is set out in your contract of employment.   
@@ -28,5 +30,7 @@ If, after a reasonable time, you have not been able to return to work or if your
 Where you have previously received a written warning, and the situation has not changed significantly, we will hold a meeting to consider the possible termination of your employment. Before we make a decision, we will consider any matters you wish to raise and whether there have been any changes since the last meeting.
 ## Appeals
 You may appeal against the outcome of any stage of this procedure. If you wish to appeal you should set out your appeal in writing to your Manager stating your grounds of appeal, within one week of the date on which the decision was sent or given to you.
+
 If you are appealing against a decision to dismiss you, we will hold an appeal meeting normally within two weeks of receiving the appeal. This will be dealt with impartially and, where possible, by another manager who has not previously been involved in the case.
+
 We will confirm our final decision in writing, usually within one week of the appeal hearing. There is no further right of appeal. The date that any dismissal takes effect will not be delayed pending the outcome of an appeal. However, if the appeal is successful, the decision to dismiss will be revoked with no loss of continuity or pay.
