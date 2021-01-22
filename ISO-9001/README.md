@@ -56,7 +56,7 @@ Thank You!
 - [Paternity Policy](PaternityPolicy)
 - [Risk Policy](Risk%20Assessment)
 - [SDLC](SDLC%20in-life)
-- [Sickness and Absence Policy](SicknessandAbsencePolicy)
+- [Absence Policy](SicknessandAbsencePolicy)
 - [Shared Parental Leave Policy](Shared%20parental%20leave)
 - [Social Media](SocialMedia)
 - [Time Off for Dependants Policy](TimeOffForDependantsPolicy)
