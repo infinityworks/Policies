@@ -39,7 +39,7 @@ This contains all of the policies which make up the Information Management Syste
 
 ## The ISMS Committee 
 Group Members:
-* ISMS Manager (acting) - Tom Walton
+* ISMS Manager - James O'Donovan
 * Group Operations Director - James O'Donovan
 * Operations Directors:
    * Leeds - Pete Cotton
