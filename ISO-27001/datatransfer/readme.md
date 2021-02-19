@@ -40,7 +40,7 @@ There are 3 main email routes that can be considered when transferring data via 
 - Secure email should not be used for transfer of large amounts of data or significant numbers of records. 
 - Information sent must, where practical, be enclosed in an encrypted attachment.
 - Be careful as to what information you place in the subject line of your email or in the accompanying message. Filename or subject line must not reveal the full contents of attachments or disclose any sensitive personal data.
-- The email platform provided by Infinity Works offers 
+- The email platform provided by Infinity Works offers support for 'confidential emails' that prevents the recipients from accidentally sharing your email. Please make use of this when dealing with this confidential documents or details.
 
 ### Via internal email “@infinityworks.com”
 When sending information internally between “infinityworks.com” addresses, this is already secure and does not require any additional actions.
