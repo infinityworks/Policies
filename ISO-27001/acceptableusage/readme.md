@@ -40,11 +40,13 @@ Infinity Works reserves the right to audit networks and systems on a periodic ba
 
 ## Security and Proprietary Information
 
-All mobile and computing devices that connect to the internal network must comply with this Acceptable Usage Policy.
+The security of Infinity Works systems, data and the integrity of our customers systems and data is paramount. All devices in-scope as per the scoping detailed above are subject to the Acceptable Use policy, these devices are expected to be used in conjunction with the services provided by Infinity Works, either directly or through a third party service provider on our behalf. These systems are audited and configured inline with the policies set out here. At times, it might become appropriate to engage with systems outside of this, when doing so they must NOT be used to store information private to either Infinity Works, or our customers. The only exception to this would be services managed by our customers where it's acceptable to store data about that customer, inline with their security policy. 
 
-System level and user level passwords must comply with the Password Policy. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
+If you wish to use such a system to store data, please raise it with ISMS comittee, who can assist in getting in on-boarded if appropriate.
 
-Employees must use extreme caution when opening e-mail attachments received from unknown senders, which may contain malware.
+For the devices and accounts used to fufill you're role, system level and user level passwords must comply with the Password Policy. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
+
+Employees must use extreme caution when sending confidential data over email. You must also be very cautious opening e-mail attachments received from unknown senders, which may contain malware.
 
 ### Unacceptable Use
 
