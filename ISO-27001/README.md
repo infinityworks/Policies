@@ -1,20 +1,23 @@
 # Infinity Works - Information Security Management System
 
 ## Overview
-OK, now before you panic about the sheer volume of reading that lays ahead of you we do actually want you to take this a little seriously. As Ron would say "it's kind of a big deal!"
 
-So grab a cuppa, sit comfortably and start reading. 
+The policies set out here dictate the security controls that underpin our commitment to the security of both Infinity Works systems and data and that of our customers. The policies detailed below help Infinity Works achieve both ISO-27001 and Cyber Essentials + compliance.
 
 ## Why are we implementing ISO27001?
-For one it'll make sure we don't get into any unnecessary trouble and perhaps do something accidental that might implicate a person, our company or a client. 
 
-Also, by having these policies we will demonstrate to our clients that we take security seriously and won't let ourselves or them down. 
-Plus, it will unlock more doors to more clients in the future who count on this level of security from us. 
+For one it'll make sure we don't get into any unnecessary trouble and perhaps do something accidental that might implicate a person, our company or a client.
+
+Also, by having these policies we will demonstrate to our clients that we take security seriously and won't let ourselves or them down.
+Plus, it will unlock more doors to more clients in the future who count on this level of security from us.
 
 So once you've read and understood these policies we'd really like you to accept them which you can do by clicking on the link at the very bottom of this page
 
 Sound good? OK let's get started!!
 
+## What about Cyber Essentials +?
+
+We've brought the policies that underpin our ISO-27001 compliance inline with Cyber Essentials Plus requirements. Adherence to the policies set out here, also then supports our compliance with the controls set out by Cyber Essentials +.
 
 ## Information Security Management System
 
@@ -26,37 +29,41 @@ This contains all of the policies which make up the Information Management Syste
 * It contains or makes reference to documented procedures
 * It ensures a cycle of feedback exists to allow improvements 
 
-<br>A summarised Security Policy document is available [here](security/readme.md)
+A summarised Security Policy document is available [here](security/readme.md)
 
 ## Schedule  
+
 * Bi-Annual reviews - end of every Apr & Oct
 * Risk Assessment reviews 1mth prior to bi-annual review - end of Mar & Sept
 
 ## The Process
+
 * The ISMS Committee are responsible for maintaining and updating the policies.
 * This committee meets at least quarterly and reviews all policies annually.
 * The ISMS Committee requires one Director and two Principal Consultants to be actively engaged to approve any matters affecting Security policies and personnel
 
-## The ISMS Committee 
+## The ISMS Committee
+
 Group Members:
+
 * ISMS Manager - James O'Donovan
 * Group Operations Director - James O'Donovan
 * Operations Directors:
-   * Leeds - Pete Cotton
-   * London - Lara Longhurst
-   * Manchester - David Postle
-   * Edinburgh - Pete Cotton
+  * Leeds - Pete Cotton
+  * London - Lara Longhurst
+  * Manchester - David Postle
+  * Edinburgh - Pete Cotton
 * Group Technical Director - Neil Dunlop
 * Technical Directors:
-   * Leeds - Ed Marshall
-   * London - Neil Dunlop
-   * Manchester - Rick Boyce
-   * Edinburgh - Ed Marshall
+  * Leeds - Ed Marshall
+  * London - Neil Dunlop
+  * Manchester - Rick Boyce
+  * Edinburgh - Ed Marshall
 * Director of People - Charlotte Goulding
 * Director of Talent Acquisition - Jen Riley
 * Legal Counsel:
-   * Clare Mackintosh
-   * Lynsey Kerr
+  * Clare Mackintosh
+  * Lynsey Kerr
 
 Contact Email: isms@infinityworks.com 
 
@@ -69,15 +76,19 @@ Date 23/07/2020
 On Behalf of Infinity Works Consulting Ltd, Board of Directors
 
 ## Raising Incidents
+
 In the event of an incident please:
+
 * complete the [Security Incident Reporting Form](https://forms.gle/QjXKKgvQ1wZ4GLcV8)
 * inform the ISMS Manager at: isms@infinityworks.com who will ensure all incidents are logged as per the [Security Incident Reporting Policy](securityincidentreporting/readme.md) 
 
 ## Raising Policy Issues
+
 Feel free to raise issues for the ISMS Committee to discuss via (in order of preference):
-   * Github Pull Requests - https://github.com/infinityworks/policies
-   * Github Issues
-   * Emails to isms@infinityworks.com
+
+* [Github Pull Requests](https://github.com/infinityworks/policies)
+* Github Issues
+* Emails to isms@infinityworks.com
 
 ## A-Z Policies
 
@@ -93,6 +104,7 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Data Breach](databreach/readme.md)
 * [Data Protection Policy](../ISO-9001/DataProtectionPolicy/readme.md)
 * [Data Retention, Destruction and Disposal](dataretentionanddisposal/readme.md)
+* [Data Subject Access Response Procedure](datasubjectaccessresponse)
 * [Data Transfer](datatransfer/readme.md)
 * [Digital Signature Acceptance](digitalsignatureacceptance/readme.md)
 * [Disciplinary Process](disciplinary/readme.md)
@@ -118,13 +130,12 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Technology Equipment Disposal Policy](technologyequipmentdisposal/readme.md)
 * [Virus Protection](virusprotection/readme.md)
 
+## Acceptance Form
 
-## Acceptance Form 
 (Please register the completion your Induction or Annual ISO27001 Policy Review by clicking an applicable link below)
 
 * Permanent Employee [click here](https://docs.google.com/forms/d/e/1FAIpQLSfyqxcy6PcsnT7rakh18dXckpDsXL4fmO4k7snyCvsWGZ0Kew/viewform) 
 
-* Contractor Employee [click here ](https://docs.google.com/forms/d/e/1FAIpQLSd2QfbOqf6mSP8VnwFziG9DgzXz-1FKsB2E8QL6fSY13IryvA/viewform)
+* Contractor Employee [click here](https://docs.google.com/forms/d/e/1FAIpQLSd2QfbOqf6mSP8VnwFziG9DgzXz-1FKsB2E8QL6fSY13IryvA/viewform)
 
-<br><br><br>
 [Back to the top](./README.md)

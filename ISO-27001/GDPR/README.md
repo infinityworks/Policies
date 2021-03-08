@@ -220,9 +220,10 @@ We may have to share your data with third parties, including third-party service
 
 We require third parties to respect the security of your data and to treat it in accordance with the law.
 
-We may transfer your personal information outside the EU.
+We may transfer your personal information outside the UK because some of our external third parties are based outside the UK so their processing of your personal data will involve a transfer of data outside the UK.  Whenever we transfer your personal data outside the UK, we ensure a similar degree of protection as would be afforded to it in the UK by ensuring at least one of the following safeguards is implemented:
 
-If we do, you can expect a similar degree of protection in respect of your personal information.
+- We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data; or
+- Where we use certain service providers, we may use specific contracts approved for use in the UK (such as the Standard Contractual Clauses) which give personal data the same protection it has in the UK.  For further details, please contact legal@infinityworks.com.
 
 ### Why might you share my personal information with third parties?
 
