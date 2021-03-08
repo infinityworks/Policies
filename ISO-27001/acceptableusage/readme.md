@@ -44,7 +44,7 @@ The security of Infinity Works systems, data and the integrity of our customers 
 
 If you wish to use such a system to store data, please raise it with ISMS comittee, who can assist in getting in on-boarded if appropriate.
 
-For the devices and accounts used to fufill you're role, system level and user level passwords must comply with the Password Policy. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
+For the devices and accounts used to fulfil your role, system level and user level passwords must comply with the Password Policy. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
 
 Employees must use extreme caution when sending confidential data over email. You must also be very cautious opening e-mail attachments received from unknown senders, which may contain malware.
 
