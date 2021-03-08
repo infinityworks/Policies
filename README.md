@@ -27,10 +27,6 @@ We are compliant with both **ISO-27001**, **ISO-9001*  and **Cyber Essentials +*
 
 ### What do i need to do?
 
-So once you’ve read and understood these policies we’d really like you to accept them which you can do by clicking on the link at the very bottom of this page
+So once you’ve read and understood these policies, you then need to fill out the acceptance form at the bottom of both the security policies page and our Quality Management Page. This will then be recorded against your employee record in Bamboo, and is valid for one year.
 
 Sound good? OK let’s get started!!
-
-> [Security Policies](/ISO-27001)
-
-

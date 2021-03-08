@@ -47,7 +47,7 @@ Thank You!
 - [Gifts and Hospitality Policy](GiftsandHospitality)
 - [Grievance Policy](GrievancePolicy)
 - [Health and Safety at Work Policy](HealthAndSafetyAtWorkPolicy)
-- [Insider Trading](insidertraining)
+- [Insider Trading](insidertrading)
 - [IT and Communication Systems](ItAndCommunicationSystems)
 - [Jury Service](JuryServicePolicy)
 - [Lone Worker](Lone%20Worker)
