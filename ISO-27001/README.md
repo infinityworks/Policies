@@ -46,11 +46,10 @@ A summarised Security Policy document is available [here](security/readme.md)
 
 Group Members:
 
-* ISMS Manager - James O'Donovan
-* Group Operations Director - James O'Donovan
+* ISMS Manager - Pete Cotton (interim)
 * Operations Directors:
   * Leeds - Pete Cotton
-  * London - Lara Longhurst
+  * London - Pete Coulter
   * Manchester - David Postle
   * Edinburgh - Pete Cotton
 * Group Technical Director - Neil Dunlop
