@@ -68,9 +68,9 @@ Thank You!
 
 ![Signature](../signature.png)
 
-Signed by James O'Donovan
-Date 23/07/2020
-On Behalf of Infinity Works Consulting Ltd, Board of Directors
+Signed by Pete Cotton
+Date 25/05/2021
+On Behalf of Infinity Works Consulting Ltd, Senior Leadership Team
 
 ## Acceptance Form 
 (Please register the completion your Induction or Annual ISO9001 Policy Review by clicking on link below)

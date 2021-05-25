@@ -46,14 +46,13 @@ A summarised Security Policy document is available [here](security/readme.md)
 
 Group Members:
 
-* ISMS Manager - James O'Donovan
-* Group Operations Director - James O'Donovan
+* ISMS Manager - Pete Cotton (Interim)
 * Operations Directors:
   * Leeds - Pete Cotton
-  * London - Lara Longhurst
+  * London - Pete Coulter (Interim)
   * Manchester - David Postle
   * Edinburgh - Pete Cotton
-* Group Technical Director - Neil Dunlop
+* Digital Delivery Director - Neil Dunlop
 * Technical Directors:
   * Leeds - Ed Marshall
   * London - Neil Dunlop
@@ -61,6 +60,7 @@ Group Members:
   * Edinburgh - Ed Marshall
 * Director of People - Charlotte Goulding
 * Director of Talent Acquisition - Jen Riley
+* Data Protection Officer - Edward Marshall (Interim)
 * Legal Counsel:
   * Clare Mackintosh
   * Lynsey Kerr
@@ -71,9 +71,9 @@ Information Security Roles and Responsibilities [view here](security#information
 
 ![Signature](../signature.png)
 
-Signed by James O'Donovan
-Date 23/07/2020
-On Behalf of Infinity Works Consulting Ltd, Board of Directors
+Signed by Pete Cotton
+Date 25/05/2021
+On Behalf of Infinity Works Consulting Ltd, Senior Leadership Team
 
 ## Raising Incidents
 
