@@ -68,7 +68,7 @@ Note: There are many other documents covering recommendations for fire safety. T
 
 ### 8.1	Responsibilities, Arrangements & Guidance
 
-### 8.2	Responsible Person, Executive Operations Director = James O'Donovan
+### 8.2	Responsible Person = Pete Cotton (Interim)
 
 Responsibilities Include:
 

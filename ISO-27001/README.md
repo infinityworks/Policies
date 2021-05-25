@@ -60,6 +60,7 @@ Group Members:
   * Edinburgh - Ed Marshall
 * Director of People - Charlotte Goulding
 * Director of Talent Acquisition - Jen Riley
+* Data Protection Officer - Edward Marshall (Interim)
 * Legal Counsel:
   * Clare Mackintosh
   * Lynsey Kerr
