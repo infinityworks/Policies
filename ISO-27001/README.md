@@ -107,7 +107,7 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Data Subject Access Response Procedure](datasubjectaccessresponse)
 * [Data Transfer](datatransfer/readme.md)
 * [Digital Signature Acceptance](digitalsignatureacceptance/readme.md)
-* [Disciplinary Process](disciplinary/readme.md)
+* [Disciplinary Process](../ISO-9001/DisciplinaryAndCapabilityPolicy)
 * [Email and Internet](emailandinternet/readme.md)
 * [End User Encryption Key Protection](enduserencryptionkeyprotection/readme.md)
 * [GDPR](GDPR/README.md)
