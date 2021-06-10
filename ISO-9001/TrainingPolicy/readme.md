@@ -2,35 +2,14 @@
 
 At Infinity Works we have a collection of proven industry experts, each with many years’ practical, hands-on experience in leading organisations around the globe. We pride ourselves in being practitioners at the coalface day in, day out. Our training service helps leverage this experience and knowledge into your team, helping to build capability and forge long lasting relationships with credible experts in their field.
 
-Training is offered as either scheduled public courses, often with industry recognised certifications, or bespoke training, coaching and mentoring tuned to meet your specific needs.
+1. Have a think about what benefit the training course or conference will provide. Why would it be valuable to attend, what will you learn as a result? Have a chat with your manager/ account lead to get their opinion. Also, would anyone else benefit? It could be worth considering who else might be interested too.
 
-- Employee discusses possible training with Advocate. 
-  Examples are classroom training, conference attendance, time out for self-paced learning
+2. Have a conversation with your account lead and team to see if there's any timing challenges with the specific dates. For example, is it when lots of your colleagues are off, or just before a big deadline? Generally though as long as there's enough notice it should be fine.
 
-- First training event each year will usually be approved
+3. If there's money involved (i.e. it's not a free course/conf or significant travel spend is required), speak to your Managing Consultant or someone on your local board. Please include all costs - i.e. ticket price, accommodation and travel so it's a total cost figure. Plus also your rationale around the benefit you feel it will bring and how you're thinking of sharing your knowledge and experience after the event.
 
-- Second and subsequent events should provide wider benefit to clients and / or the company
+4. Assuming you've been given the go ahead to attend, email your local office team to purchase the tickets and organise travel. Remember to include any discount codes included in the price you had approved.
 
-- No hard limit on the number of events each year
+5. Have a think about how you'll share your experience on your return. Writing a blog post or a short talk (for the mini conf etc) are great ways of sharing with your colleagues etc, and good learning opportunities in themselves.
 
-- Proposals as in form as follows:
-
-I believe that _attending or being certified in specific skill / capability_, _a positive benefit will be achieved_
-We will know we have succeeded when we see _measurable outcome_
-
-eg:
-
-_I believe that attending a Scrum Master course and achieving certification, will allow me to act as a credible Scrum Master role and assist in training and coaching these roles. We will know we have succeeded when we see me assigned in a Scrum Master, Agile Coach role and playing an active role in Scrum Master training._
-_I believe that by becoming a Scrum Certified Professional, it will allow me to provide training and coaching at all levels of Scrum delivery, both internally and externally. We will know we have succeeded when we see me providing internal and external training to staff and clients._
-
-- Advocates are empowered to approve training but discuss with other advocates to ensure fair levelling
-
-- Your Advocate will liaise with your Account Manager to help to identify dates that conflict with key deliverables and provide to the employee
-
-- The employee will seek a suitable course on a suitable date, though your Advocate can assist in this
-
-- Once a date is found, your Advocate will work with finance to ensure there are no financial obstacles from booking the course (cashflow, etc), although we expect these to be rare
-
-- Should you be denied training that you feel you can justify, please escalate to either your Advocate or The Leeds Board.
-
-Training Approval Process ![Training Approval Process](approval-process.jpg)
+6. Finally, update the training section and the skills inventory of your Bamboo profile to log the fact you've been. It's really useful to understand who's been on what and to help support and develop a well-rounded training strategy for IW, but also for you, to remember what you've done.
