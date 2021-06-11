@@ -36,3 +36,5 @@ following business reasons:
 8. Planned changes.
 
 If we are unable to agree to your request, we will write to tell you which of those reasons applies in your case.
+
+Please submit requests [here.](https://docs.google.com/forms/d/e/1FAIpQLSf62HquyXjKvXgFYAVsFEIiWH12JKfh78HKmTw0XP-8VrWE-g/viewform)
