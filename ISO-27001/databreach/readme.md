@@ -1,7 +1,5 @@
 # Data Breach Policy
 
-## Overview
-
 Infinity Works (the “company”) collects, holds, processes, and shares personal data, a valuable asset that needs to be suitably protected.
 
 Every care is taken to protect personal data from incidents (either accidentally or deliberately) to avoid a data protection breach that could compromise security.
@@ -32,7 +30,7 @@ An incident in the context of this policy is an event or action which may compro
 
 An incident includes but is not restricted to, the following:
 
-- loss or theft of confidential or sensitive data or equipment on which such data is stored (e.g. loss of laptop, USB stick, iPad / tablet device, or paper record);
+- loss or theft of confidential or sensitive data or equipment on which such data is stored (e.g. loss of laptop, USB stick or paper record);
 - equipment theft or failure;
 - system failure;
 - unauthorised use of, access to or modification of data or information systems;
@@ -73,15 +71,18 @@ Table: Data Breach Roles & Responsibilities by Phase
 
 The high-level flow diagram below attempts to show how this will work in action.
 
-![Table](https://github.com/infinityworks/policies/raw/master/src/ISO-27001//databreach/data-breach-action-plan.png "Logo Title Text 1")
+![Table](incident-response.png)
 
-#### Preparatory
-##### Triage
+### Preparatory
+
+#### Triage
 Understanding the type and severity of an incident allows us to determine how urgent IW’s response should be.  It also enables us to ensure that the correct people are involved from the outset.  The Incident Manager assigned as an action of Triage, will decide to whom and when to report the breach and may update the initial Security Breach Report with new information.
 
-There are two aspects to look at when assessing an incident:
-●	Severity and category
-●	Type.
+There are three aspects to look at when assessing an incident:
+* Severity
+* Category
+* Type
+
 Severity should be assessed against the following:
 1.	Availability
 Is the availability of data or systems impacted? (i.e. what is the impact on business output?)
@@ -93,84 +94,67 @@ Then we need to consider the type of system or data involved in order to determi
 
 When quantifying impact, it can help to have full documentation detailing all critical assets and data.
 
-###### Risk matrix
-To aid our evaluation of incident severity, we should use the following matrices of risk and impact using the examples provided to determine the overall severity.  The combination of risk and its associated impact help to inform how serious the response to the incident should be, who needs to be involved and whether the response needs to take priority over other activities.
-Infinity Works’ Data Breach Risk Matrix.
-Risk	Examples
-Critical	●	Immediate risk to / definite breach of sensitive client or personal data.
-●	Immediate risk to / definite breach of critical systems
-●	Risk of severe reputational damage to the business.
-High	●	High risk of / potential breach of personal or sensitive data.
-●	High risk of / potential breach to critical systems
-●	Immediate risk to / definite breach of non critical systems without current ability to mitigate.
-●	Potential for serious reputational damage to the business.
-Medium	●	Risk of / potential breach of small amounts of non-sensitive data.
-●	Risk to / potential breach of non critical systems.
-●	Low risk to reputational damage to the business.
-●	Small number of non-critical systems affected with known resolutions.
-●	No critical systems or sensitive data breached.
-Low	●	Minimal risk of breach of non-sensitive data.
-●	Minimal risk of breach to non-critical systems.
-●	No critical systems or sensitive data breached.
-None	●	No risk of breach to critical systems or sensitive data.
-●	No risk of breach to non-critical systems or non-sensitive data.
+## Risk matrix
 
-Infinity Works’ Data Breach Impact Matrix.
-Impact	Examples
-Critical	●	Over 80% of staff (or several critical staff/teams) unable to work.
-●	Critical systems offline with no known resolution.
-●	Financial impact of £100k or higher
-High	●	50% of staff unable to work.
-●	Non critical systems affected, or critical systems affected with known (< 30 minutes) resolution
-●	Financial impact of £25k-100k
-Medium	●	20% of staff unable to work
-●	Non critical systems affected, but known (<30 minutes resolution)
-●	Low financial impact of <£25k
-Low	●	<10% of staff or non critical staff affected temporarily (short term)
-●	One or two non-sensitive / non-critical machines affected
-None	●	No staff impact
-●	No impact to systems or data.
-●	No financial impact
+To aid our evaluation of incident severity, we should use the following matrices of risk and impact using the examples provided to determine the overall severity.  The combination of risk and its associated impact help to inform how serious the response to the incident should be, who needs to be involved and whether the response needs to take priority over other activities.
+
+### Infinity Works’ Data Breach Risk Matrix.
+
+| Risk | Examples |
+| ---- | -------  |
+| Critical	| ●	Immediate risk to / definite breach of sensitive client or personal data. ●	Immediate risk to / definite breach of critical systems ●	Risk of severe reputational damage to the business. |
+| High |	●	High risk of / potential breach of personal or sensitive data. ●	High risk of / potential breach to critical systems ●	Immediate risk to / definite breach of non critical systems without current ability to mitigate. ●	Potential for serious reputational damage to the business. |
+| Medium	| ●	Risk of / potential breach of small amounts of non-sensitive data. ●	Risk to / potential breach of non critical systems. ●	Low risk to reputational damage to the business. ●	Small number of non-critical systems affected with known resolutions. ●	No critical systems or sensitive data breached.
+| Low	| ●	Minimal risk of breach of non-sensitive data. ●	Minimal risk of breach to non-critical systems. ●	No critical systems or sensitive data breached. |
+| None |	●	No risk of breach to critical systems or sensitive data. ●	No risk of breach to non-critical systems or non-sensitive data. |
+
+
+### Infinity Works’ Data Breach Impact Matrix.
+
+
+| Impact | Examples |
+| ------ | ------- | 
+| Critical | 	●	Over 80% of staff (or several critical staff/teams) unable to work. ●	Critical systems offline with no known resolution. ●	Financial impact of £100k or higher | 
+| High	| ●	50% of staff unable to work. ●	Non critical systems affected, or critical systems affected with known (< 30 minutes) resolution ●	Financial impact of £25k-100k
+| Medium | ●	20% of staff unable to work ●	Non critical systems affected, but known (<30 minutes resolution) ●	Low financial impact of <£25k
+| Low	| ●	<10% of staff or non critical staff affected temporarily (short term) ●	One or two non-sensitive / non-critical machines affected
+|None	| ●	No staff impact ●	No impact to systems or data. ●	No financial impact | 
 
 The combination of the risk and impact determines the overall Severity score.
-Infinity Works’ Severity Score
 
-		Impact
-		Low	Medium	High	Critical
-Risk	Low	Low	Medium	Medium	High
-	Medium	Low	Medium	High	High
-	High	Medium	Medium	High	Critical
-	Critical	High	High	Critical	Critical
+### Infinity Works’ Severity Score
 
-###### Categorisation of an incident (Type)
+![Table](severity.png)
+
+
+### Categorisation of an incident (Type)
+
 Below are examples to help us to determine what type of incident we are facing:
-●	Malicious code: Malware infection on the network, including ransomware
-●	Denial of Service: Typically a flood of traffic taking down a website, can apply to phone lines, other web facing systems, and in some cases internal systems.
-●	Phishing: Emails attempting to convince someone to trust a link/attachment.
-●	Unauthorised Access: Access to systems, accounts, data by an unauthorised person (internal or external) – for example access to someone's emails or account.
-●	Insider: Malicious or accidental action by an employee causing a security incident.
-●	Data breach: Lost/stolen devices or hard copy documents, unauthorised access or extraction of data from the network (usually linked with some of the above).
-●	Targeted attack: An attack specifically targeted at the business - usually by a sophisticated attacker (often encompassing several of the above categories).
+* Malicious code: Malware infection on the network, including ransomware
+* Denial of Service: Typically a flood of traffic taking down a website, can apply to phone lines, other web facing systems, and in some cases internal systems.
+* Phishing: Emails attempting to convince someone to trust a link/attachment.
+* Unauthorised Access: Access to systems, accounts, data by an unauthorised person (internal or external) – for example access to someone's emails or account.
+* Insider: Malicious or accidental action by an employee causing a security incident.
+* Data breach: Lost/stolen devices or hard copy documents, unauthorised access or extraction of data from the network (usually linked with some of the above).
+* Targeted attack: An attack specifically targeted at the business - usually by a sophisticated attacker (often encompassing several of the above categories).
 These types of incidents should be cross-referenced against the Severity Score to validate that we have categorised and prioritised the breach correctly.
 
 
 
-###### Assign Incident Manager (and who to escalate to)
-Severity	Escalation Required
-Critical	●	The incident must be escalated immediately to the Senior Leadership Team (SLT) in person, i.e. you must find and speak to a member of the SLT, even if this means pulling them out of a meeting.  Our Interim Data Protection Officer (Ed Marshall as at June 2021) will coordinate our response or assign an Incident Manager.
-●	The DPO (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.
-High	●	The incident must be escalated immediately to the SLT in person, i.e. you must find and speak to a member of the SLT, even if this means pulling them out of a meeting.  Our Interim Data Protection Officer (Ed Marshall as at June 2021) will coordinate our response or assign an Incident Manager.
-●	The DPO (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.
-Medium	●	The incident will be handled by a Technical Director or an Incident Manager assigned by them, and escalated as required as part of our core response.
-●	The Technical Director (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.
-Low	●	The incident will be handled by a Technical Director or an Incident Manager assigned by them, and escalated as required as part of our core response.
-●	The Technical Director (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.
-Very Low	●	The incident will be handled by a Technical Director or an Incident Manager assigned by them, and escalated as required as part of our core response.
-●	The Technical Director (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.
+### Assign Incident Manager (and who to escalate to)
 
-#### Core Response
+| Severity | Escalation Required |
+| ---- | ---- |
+| Critical |	●	The incident must be escalated immediately to the Senior Leadership Team (SLT) in person, i.e. you must find and speak to a member of the SLT, even if this means pulling them out of a meeting.  Our Interim Data Protection Officer (Ed Marshall as at June 2021) will coordinate our response or assign an Incident Manager. ●	The DPO (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting. |
+|High	|●	The incident must be escalated immediately to the SLT in person, i.e. you must find and speak to a member of the SLT, even if this means pulling them out of a meeting.  Our Interim Data Protection Officer (Ed Marshall as at June 2021) will coordinate our response or assign an Incident Manager. ●	The DPO (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.|
+|Medium	|●	The incident will be handled by a Technical Director or an Incident Manager assigned by them, and escalated as required as part of our core response. ●	The Technical Director (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.|
+|Low|	●	The incident will be handled by a Technical Director or an Incident Manager assigned by them, and escalated as required as part of our core response. ●	The Technical Director (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.|
+|Very Low|	●	The incident will be handled by a Technical Director or an Incident Manager assigned by them, and escalated as required as part of our core response. ●	The Technical Director (or Incident Manager) will determine when and how to communicate this incident externally and the frequency and type of updates, e.g. email report, email update, face-to-face meeting.
 
-##### Investigation Office (IO)
+### Core Response
+
+#### Investigation Office (IO)
+
 The IO, in consultation with relevant colleagues identified during the initial assessment will establish whether the Information Commissioner’s Office will need to be notified of the breach, and if so, notify them within 72 hours of becoming aware of the breach, where feasible.  The Head of Legal is responsible for drafting and sending this communication on the behalf of Infinity Works.
 
 Every incident will be assessed on a case by case basis; however, the following will need to be considered:
@@ -190,7 +174,7 @@ A record will be kept of any personal data breach, regardless of whether notific
 
 The triage should also determine how we intend to report the incident.  When the breach was raised an initial Security Breach Report would be created.  This should be used as a template where all updates can be added and redistributed for breaches that are low or medium in severity.  For breaches that are high, critical, a client has requested more information or are long in duration to resolve, we should use the Post Incident Review report, highlighting that it is an interim report and follow up with a finalised report upon completion.
 
-##### Analysis
+#### Analysis
 An investigation will be undertaken by the IO immediately and wherever possible, within 24 hours of the breach being discovered / reported.  This will be initially led by the Technical Director (for the affected region).
 
 The IO will investigate the breach and assess the risks associated with it, for example, the potential adverse consequences for individuals, how serious or substantial those are and how likely they are to occur.
