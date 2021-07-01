@@ -32,6 +32,7 @@ Workable | B | None | Talent Team | Recruitment Pipeline & Tracking | Contacts d
 Bamboo | A | None |Employees & Contractors | Leave Tracking, New Starter On-Boarding, Training (Recording) | Training would be retrospectively updated, New starters would be contacted by our HR team to be progressed. Leave would be agreed manually with account leads and retrospectively updated | [link](www.bamboohr.com) |
 Atlassian Cloud | Minor | B | Employees & Contractors | Ticket Tracking, Documentation Portal | Tickets would be logged manually through Slack, documents could be recovered from backup if required | [link](www.atlassian.com) |
 HowNow | C | None |Employees | Employee Training Portal | Training would be placed on-hold until available | [link](www.hownow.com) |
+Miro | C | Minor |Employees | Whiteboarding collaboration tool | Use of other whiteboarding tools, e.g. google jamboard or wait until tool is available | [link](www.miro.com) |
 
 ## Related Policies
 
