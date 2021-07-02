@@ -23,16 +23,18 @@ Salesforce | A | Major | Employees | Lead Tracking, opportunity tracking | Fallb
 Pardot | C | Minor | Employees | Marketing and Campaign Platform | Fallback to manual tracking and targetted campaings. Information would then be back-dated into Salesforce when service resumes | [link](https://login.salesforce.com)|
 15five | C | None | Employees | Feedback Mechanism for employees | Feedback can be submitted through slack, email or video | [link](https://www.15five.com/)|
 Xero | B | Minor |Finance Team | Invoice Distribution & Payment | Invoices could be manually exported from Kimble and sent to customers | [link](https://central.xero.com/s/article/Get-help-from-Xero-Support#Web) |
-GitHub | C | Major |Employees & Contractors | Code & Documentation Repository | Key content is available if required on employees laptops, thanks to this being a distributed version control system | [link](www.github.com) |
-AWS | B | Major |Employees & Contractors | Website Hosting, Various automated scripts | We can update our public DNS and put together a 'sorry' page should AWS suffer issues. For the automated scripts, all are implemented to save time and can be manually executed | [link](www.aws.com) |
+GitHub | C | Major |Employees & Contractors | Code & Documentation Repository | Key content is available if required on employees laptops, thanks to this being a distributed version control system | [link](https://docs.github.com/en) |
+AWS | B | Major |Employees & Contractors | Website Hosting, Various automated scripts | We can update our public DNS and put together a 'sorry' page should AWS suffer issues. For the automated scripts, all are implemented to save time and can be manually executed | [link](https://console.aws.amazon.com/support/home?#/) |
 Soho66 | C | None |External | External Telephone Number | Email, twitter & LinkedIn provide suitable workarounds. Service not heavily relied upon. | [link](https://soho66.co.uk/) |
-Trello | C | None |Employees & Contractors | Work Organisation Tooling | GitHub provides a comparable feature we sometimes make use of | [link](www.trello.com) |
+Trello | C | None |Employees & Contractors | Work Organisation Tooling | GitHub provides a comparable feature we sometimes make use of | [link](https://help.trello.com/) |
 DockerHub | C | None | External| Public facing docker image repository | Provision isn't key to our offerings, downtime wouldn't impact us | [link](https://hub.docker.com/) |
-Workable | B | None | Talent Team | Recruitment Pipeline & Tracking | Contacts details are regularly exported, fallback to offline communication with the candidate | [link](www.workable.com) |
-Bamboo | A | None |Employees & Contractors | Leave Tracking, New Starter On-Boarding, Training (Recording) | Training would be retrospectively updated, New starters would be contacted by our HR team to be progressed. Leave would be agreed manually with account leads and retrospectively updated | [link](www.bamboohr.com) |
-Atlassian Cloud | Minor | B | Employees & Contractors | Ticket Tracking, Documentation Portal | Tickets would be logged manually through Slack, documents could be recovered from backup if required | [link](www.atlassian.com) |
-HowNow | C | None |Employees | Employee Training Portal | Training would be placed on-hold until available | [link](www.hownow.com) |
-Miro | C | Minor |Employees | Whiteboarding collaboration tool | Use of other whiteboarding tools, e.g. google jamboard or wait until tool is available | [link](www.miro.com) |
+Workable | B | None | Talent Team | Recruitment Pipeline & Tracking | Contacts details are regularly exported, fallback to offline communication with the candidate | [link](https://help.workable.com/hc/en-us) |
+Bamboo | A | None |Employees & Contractors | Leave Tracking, New Starter On-Boarding, Training (Recording) | Training would be retrospectively updated, New starters would be contacted by our HR team to be progressed. Leave would be agreed manually with account leads and retrospectively updated | [link](https://help.bamboohr.com/hc/en-us) |
+Atlassian Cloud | Minor | B | Employees & Contractors | Ticket Tracking, Documentation Portal | Tickets would be logged manually through Slack, documents could be recovered from backup if required | [link](https://support.atlassian.com/contact/#/) |
+HowNow | C | None |Employees | Employee Training Portal | Training would be placed on-hold until available | [link](https://infinityworks.hownow.app) |
+Miro | C | Minor |Employees | Whiteboarding collaboration tool | Use of other whiteboarding tools, e.g. google jamboard or wait until tool is available | [link](https://help.miro.com/hc/en-us) |
+A Cloud Guru | C | Minor |Employees | Employee Cloud Training Portal | Training would be placed on hold until available | [link](https://help.acloud.guru/hc/en-us) |
+SnipeIT | C | Minor |Employees | Asset & License Management  | Asset & licenses recorded separately until available  | [link](https://snipeitapp.com/support) |
 
 ## Related Policies
 
