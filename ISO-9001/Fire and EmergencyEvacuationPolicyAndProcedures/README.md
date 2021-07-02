@@ -83,7 +83,7 @@ The Operations Director will ensure any other director or manager does not block
 ### 8.3	Persons Who Manage Fire Safety
 
 * Leeds: Emma Telfer (Office Manager) supported by Pete Cotton
-* London: Shelly Fraser (Office Manager) supported by Lara Longhurst
+* London: Shelly Fraser (Office Manager) supported by Pete Coulter
 * Manchester: Jenny Washbrook (Office Manager) supported by David Postle
 * Edinburgh: Pete Cotton 
 
