@@ -59,6 +59,7 @@ Thank You!
 - [Absence Policy](SicknessandAbsencePolicy)
 - [Social Media](SocialMedia)
 - [Tax Evasion](taxevasion)
+- [Third Party Property Management](ThirdPartyPropertyManagement)
 - [Time Off for Dependants Policy](TimeOffForDependantsPolicy)
 - [Training Policy](TrainingPolicy)
 - [Whistleblowing Policy](WhistleblowingPolicy)
