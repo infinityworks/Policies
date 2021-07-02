@@ -55,8 +55,8 @@ Group Members:
 * Digital Delivery Director - Neil Dunlop
 * Technical Directors:
   * Leeds - Ed Marshall
-  * London - Neil Dunlop
-  * Manchester - Rick Boyce
+  * London - Anthony Cox
+  * Manchester - Ivor Caldwell (Interim)
   * Edinburgh - Ed Marshall
 * Director of People - Charlotte Goulding
 * Director of Talent Acquisition - Jen Riley
