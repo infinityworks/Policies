@@ -25,7 +25,7 @@ The Organisation operates a Quality Management System that is ISO-9001 compliant
 
 We are compliant with both **ISO-27001**, **ISO-9001*  and **Cyber Essentials +**.
 
-### What do i need to do?
+### What do I need to do?
 
 So once you’ve read and understood these policies, you then need to fill out the acceptance form at the bottom of both the security policies page and our Quality Management Page. This will then be recorded against your employee record in Bamboo, and is valid for one year.
 

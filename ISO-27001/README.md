@@ -46,13 +46,14 @@ A summarised Security Policy document is available [here](security/readme.md)
 
 Group Members:
 
-* ISMS Manager - Pete Cotton (interim)
+
+* ISMS Manager - Pete Cotton (Interim)
 * Operations Directors:
   * Leeds - Pete Cotton
-  * London - Pete Coulter
+  * London - Pete Coulter (Interim)
   * Manchester - David Postle
   * Edinburgh - Pete Cotton
-* Group Technical Director - Neil Dunlop
+* Digital Delivery Director - Neil Dunlop
 * Technical Directors:
   * Leeds - Ed Marshall
   * London - Neil Dunlop
@@ -60,6 +61,7 @@ Group Members:
   * Edinburgh - Ed Marshall
 * Director of People - Charlotte Goulding
 * Director of Talent Acquisition - Jen Riley
+* Data Protection Officer - Edward Marshall (Interim)
 * Legal Counsel:
   * Clare Mackintosh
   * Lynsey Kerr
@@ -70,9 +72,9 @@ Information Security Roles and Responsibilities [view here](security#information
 
 ![Signature](../signature.png)
 
-Signed by James O'Donovan
-Date 23/07/2020
-On Behalf of Infinity Works Consulting Ltd, Board of Directors
+Signed by Pete Cotton
+Date 25/05/2021
+On Behalf of Infinity Works Consulting Ltd, Senior Leadership Team
 
 ## Raising Incidents
 
@@ -106,7 +108,7 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Data Subject Access Response Procedure](datasubjectaccessresponse)
 * [Data Transfer](datatransfer/readme.md)
 * [Digital Signature Acceptance](digitalsignatureacceptance/readme.md)
-* [Disciplinary Process](disciplinary/readme.md)
+* [Disciplinary Process](../ISO-9001/DisciplinaryPolicy/readme.md)
 * [Email and Internet](emailandinternet/readme.md)
 * [End User Encryption Key Protection](enduserencryptionkeyprotection/readme.md)
 * [GDPR](GDPR/README.md)
