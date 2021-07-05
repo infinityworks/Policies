@@ -49,7 +49,7 @@ Employees or visitors who do not follow or enforce the Code of Conduct in good f
 We expect employees to not abuse their employment benefits. This can refer to time off, insurance, facilities, subscriptions or other benefits our company offers.
 
 ## Compliance 
-All employees must protect our company’s legality. They should comply with all environmental, safety and fair dealing laws. We expect employees to be ethical and responsible when dealing with our company’s finances, products, partnerships and public image. All employees must also read adn follow our company policies. 
+All employees must protect our company’s legality. They should comply with all environmental, safety and fair dealing laws. We expect employees to be ethical and responsible when dealing with our company’s finances, products, partnerships and public image. All employees must also read and follow our company policies. 
 
   * [Policies](https://policies.infinityworks.com/)
   
