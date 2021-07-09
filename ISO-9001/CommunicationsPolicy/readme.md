@@ -34,6 +34,12 @@ Subject to the agreement with clients there are open lines of communication with
 
 Slack is only used for informal, day-to-day BAU communications between IW and client stakeholders. Official communications are never conducted via this medium.
 
+#### Customer IM Tooling
+
+In addition, or instead of, Slack it is common for IW Consultants to use customer provided, managed and adminstered instant messenger tooling. Where provided, IW adhere to customer codes of conduct and appropriate usage policies with the individual Consultant expected to exercise good judgement. The Account Lead and Managing Consultant provide oversight and escalation where customer tooling is preferred.
+
+This falls outside of the scope of IW's capability to monitor and audit.
+
 #### Phone & Video
 
 Phone-calls & teleconferences are made to clients to support project delivery, escalations, support queries and early engagements. These are a more personal communication offering a face or voice to a name and can help draw the emotive elements missed in written communications.
@@ -113,3 +119,7 @@ Overarching monitoring of email communications, including access to audit trails
 Slack is used by all staff to communicate asynchronously but in a more immediate manner than email. Public and private channels exist and users are able to construct direct messages to each other or in groups of fewer than 8. Images can be uploaded and are retained for 2 years, and a subset of users have administrative privileges over the system. 
 
 Overarching monitoring of Slack communications, including access to audit trails, is governed via Slack Workspace Administration under the remit of IT Systems.
+
+#### Teams
+
+Teams is Accenture equivalent of Slack for internal communication between employees. This tooling ultimately falls within scope of Accenture policy, administration and monitoring whilst standard IW codes of conduct and acceptable behavior policies still apply during integration and the guidelines for usage are equivalent to those for Slack.
