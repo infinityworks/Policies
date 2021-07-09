@@ -6,7 +6,7 @@ Infinity Works is committed to ensuring that all software within the scope of th
 
 ## Purpose
 
-The purpose of this policy is to ensure that:
+The purpose of this policy is to ensure that: 
 * All software used by Infinity Works staff is correctly licensed;
 * All software used on equipment owned or leased by Infinity Works is correctly licensed;
 * Software licensed by Infinity Works is not copied or otherwise used outside of the scope of the licence agreement.
