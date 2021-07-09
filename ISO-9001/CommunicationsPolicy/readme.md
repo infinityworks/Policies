@@ -62,4 +62,54 @@ Media relations
 
 To ensure all external communications are focussed and consistent, and to prevent running afoul of any regulations, all Infinity Works media relations and activities are managed centrally by the Commercial team, rather than through employees’ or teams’ own initiatives. This applies to the creation and distribution of any news/press releases, requests for media interviews, making announcements related to business developments, and participation in industry events. All media relations are approved by a minimum of two people at Director level within Infinity Works before publication. All media enquiries are directed to the Marketing Manager in the first instance to ensure any messages are accurate and consistent.
 
+## Internal communications
 
+IW defines three types of internal communication with different levels of delegated responsibility (accountability remains with the Director of People).
+
+|Type|Responsibility|Scope / Examples|
+|----|--------------|----------------|
+|Informal|Individual member of staff|<ul><li>Slack posts, IWTV.</li><li>Mini-confs.</li><li>Communities of Practice.</li></ul>|
+|Formal (BAU)|Corresponding department|<ul><li>Quarterly all-hands and regional business updates.</li><li>Departmental newsletters.</li><li>New starter emails.</li></ul>|
+|Formal (one off)|Senior Leadership Team|<ul><li>Policy and compliance updates e.g. security, H&S.</li><li>Strategic announcements.</li><li>Invocation of BCP plan.</li></ul>|
+
+IW provides electronic communications tools to staff in order to facilitate communication between management and staff, and between staff, and to enable efficient working practices.
+
+It is the policy of IW to provide staff with these tools subject to a Code of Conduct, behaviour undertakings in employment contracts, and oversight by management.
+
+Management are responsible for the communications tools through mechanisms specified below, and seek improvement by constant review, with staff encouraged to collaborate and drive improvements in the use of these tools. IW is committed to achieving excellence in internal communications by implementing procedures which will be operated to meet or exceed the requirements of ISO 9001.
+
+### Company-wide communications
+
+Internal communications are messages sent to groups (2+) of staff, typically with the aim of communicating an aspect of company policy or some company news.
+
+#### Emails
+
+Communications may be sent to individuals, groups of staff, or to all staff, by email. These are usually company-wide announcements, or announcements affecting specific groups. Anyone with an IW email address is able to do this.
+
+Overarching monitoring of email communications, including access to audit trails, is governed via Google Admin Console under the remit of IT Systems.
+
+#### Slack
+
+Company-wide announcements are made on the #announcements channel which everyone is subscribed to by default (although they can leave). Sometimes company-wide announcements are made on the #infinityworks channel. If the content of the announcement is significant (e.g. of legal or policy consequence) it is reviewed in advance by the relevant managers. In these cases the content of the Slack message and the email message are typically identical (or effectively so, any differences being cosmetic, and due to the difference in medium). Other announcements are simply sent directly by the accountable manager, or on their behalf.
+
+Overarching monitoring of Slack communications, including access to audit trails, is governed via Slack Workspace Administration under the remit of IT Systems.
+
+#### Events
+
+A company-wide “All Hands” call is held quarterly and is conducted via video livestream. During the call there is a parallel chat in Slack on the #all-hands channel. The content is planned and agreed in advance by the senior management team. The parallel chat is monitored by other members of the SLT that are not on the live call, and questions are passed through to the moderator. Written answers to questions are supplied after the event.
+
+The mechanism of oversight is discussion within the SLT in planning meetings, along with post-event review via Slack. The event is facilitated by the Chief Storyteller.
+
+### Communication between employees
+
+#### Emails
+
+Emails are sent between staff and by group accounts to larger subsets of staff and all staff. The content of the communications varies. All staff have the ability to send to all group email accounts. Groups are managed via a Google Admin Interface. 
+
+Overarching monitoring of email communications, including access to audit trails, is governed via Google Admin Console under the remit of IT Systems.
+
+#### Slack
+
+Slack is used by all staff to communicate asynchronously but in a more immediate manner than email. Public and private channels exist and users are able to construct direct messages to each other or in groups of fewer than 8. Images can be uploaded and are retained for 2 years, and a subset of users have administrative privileges over the system. 
+
+Overarching monitoring of Slack communications, including access to audit trails, is governed via Slack Workspace Administration under the remit of IT Systems.
