@@ -16,11 +16,11 @@ The purpose of this policy is to ensure that:
 
 This policy applies to:
 * All Infinity Works Consulting employees and contractors.
-* All computerised equipment capable of running software where these systems are owned by Infinity Works. 
+* All computerised equipment capable of running software where these systems are owned by Infinity Works.
 
 ## Policy
 
-* Software that requires licencing should be procured through the Administration Team, Leadership Guild or a Director.
+* Software that requires licencing should be procured through the Administration Team or a Director.
 * Licenced software will not be copied for any reason other than legitimate backup purposes.
 * Licenced software and any associated license information will not be distributed or shared with anyone other than the licensee.
 * Physical software media for licenced software is securely stored in a locked cabinet.
@@ -41,7 +41,7 @@ The Infinity Works ISMS Committee will verify compliance to this policy through 
 
 * Following the discovery of unlicensed software, the Infinity Works ISMS Committee will ensure immediate removal of the unlicensed software
 * In the event that there is a business need for the software that has been removed the user should apply for the software to be procured through standard channels.
-* An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment. 
+* An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
 
 ## Related Standards, Policies and Processes
 
