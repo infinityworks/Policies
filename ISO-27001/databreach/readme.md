@@ -1,10 +1,12 @@
-# Data Breach Policy
+# Security Breach Policy
 
 Infinity Works (the “company”) collects, holds, processes, and shares personal data, a valuable asset that needs to be suitably protected.
 
 Every care is taken to protect personal data from incidents (either accidentally or deliberately) to avoid a data protection breach that could compromise security.
 
-Compromise of information, confidentiality, integrity, or availability may result in harm to individual(s), reputational damage, detrimental effect on service provision,legislative noncompliance, and/or financial costs.
+Compromise of information, confidentiality, integrity, or availability may result in harm to individual(s), reputational damage, detrimental effect on service provision,legislative noncompliance, and/or financial costs. 
+
+This policy describes a comprehensive approach to managing all types of security breach, including data-protection related breaches.
 
 
 ## Purpose
@@ -17,7 +19,7 @@ This policy relates to all personal and special categories (sensitive) data held
 
 This policy applies to all staff at Infinity Works. This includes temporary, casual or agency staff and contractors, consultants, suppliers and data processors working for, or on behalf of the company.
 
-The objective of this policy is to contain any breaches, to minimise the risk associated with the breach and consider what action is necessary to secure personal data and prevent further breaches.
+The objective of this policy is to contain any security breaches, to minimise the risk associated with the breach and consider what action is necessary to secure personal data and prevent further breaches.
 
 
 ## Policy
