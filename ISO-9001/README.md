@@ -33,6 +33,7 @@ Thank You!
 - [Business Continuity Plan](BusinessContinuity)
 - [Change Management Policy](ChangeManagement%20Policy)
 - [Code of Conduct](code-of-conduct)
+- [Communications Policy](CommunicationsPolicy)
 - [Conflict Of Interest](conflict-of-interest)
 - [Compassionate Leave](Compassionate%20Leave%20Policy)
 - [Data Protection Policy](DataProtectionPolicy)
