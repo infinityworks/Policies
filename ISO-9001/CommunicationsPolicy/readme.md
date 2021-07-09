@@ -12,11 +12,6 @@ We have identified three types of communication which are central to the Infinit
 
 |Type|Accountability|Scope / Examples|
 |----|--------------|----------------|
-|External - Customer|Group Operations Director|* Governance e.g. sprint reports, account reviews.
-* Feedback mechanisms e.g. C-Sat surveys.
-* Policy communications e.g. BCP plans.
-* Security alerts / breaches.
-* Informal e.g. driven by stakeholder maps.
-* Escalation / paths (inbound and outbound).|
+|External - Customer|Group Operations Director|<ul><li>Governance e.g. sprint reports, account reviews.</li><li>Feedback mechanisms e.g. C-Sat surveys.</li><li>Policy communications e.g. BCP plans.</li><li>Security alerts / breaches.</li><li>Informal e.g. driven by stakeholder maps.</li><li>Escalation / paths (inbound and outbound).</li></ul>|
 |External - Marketing|Commercial Director| |
 |Internal - Staff|Director of People| |
