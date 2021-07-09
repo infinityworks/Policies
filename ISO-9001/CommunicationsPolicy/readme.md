@@ -10,7 +10,7 @@ In the context of this policy, the definition of communication is the deliberate
 
 We have identified three types of communication which are central to the Infinity Works’ business, each having a clear accountable owner and a written statement covering responsibilities, mediums/channels and approval processes. These are represented in the following table.
 
-|Type|Accountability|Scope / Examples|
+| Type | Accountability | Scope / Examples |
 |External - Customer|Group Operations Director|* Governance e.g. sprint reports, account reviews.
 * Feedback mechanisms e.g. C-Sat surveys.
 * Policy communications e.g. BCP plans.
