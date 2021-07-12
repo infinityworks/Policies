@@ -14,11 +14,11 @@ In respect of any of our customers’ personal data in respect of which Infinity
 
 Data subjects have the right to request access to their personal data processed by Infinity Works. Such requests are called subject access requests (SARs). When a data subject makes a SAR we must take the following steps:
 
-* Inform the Legal Team and Data Protection Officer immediately so that they can co-ordinate a response.  Do not respond to the SAR yourself directly. 
+* Inform the Legal Team and Data Protection Officer immediately so that they can co-ordinate a response.  Do not respond to the SAR yourself directly.
 * log the date on which the request was received (to ensure that the relevant timeframe of one month for responding to the request is met) and notify the Legal Team of the date;
 * The Legal Team may ask to confirm the identity of the data subject who is the subject of the personal data. For example, they may request additional information from the data subject to confirm their identity;
 * Search databases, systems, applications and other places where the personal data which is the subject of the request may be held; and
-*The Legal Team will confirm to the data subject whether or not personal data of the data subject making the SAR is being processed.
+* The Legal Team will confirm to the data subject whether or not personal data of the data subject making the SAR is being processed.
 
 If personal data of the data subject is being processed, the Legal Team shall provide the data subject with the following information in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in writing or by other (including electronic) means:
 
@@ -28,7 +28,7 @@ If personal data of the data subject is being processed, the Legal Team shall pr
 * Where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
 * The existence of the right to request rectification or erasure of personal data or restriction of processing of personal data or to object to such processing;
 * The right to lodge a complaint with the Information Commissioner's Office (ICO);
-* Where the personal data is not collected from the data subject, any available information as to its source; 
+* Where the personal data is not collected from the data subject, any available information as to its source;
 * The existence of automated decision-making and meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject; and
 * Where personal data is transferred outside the UK, details of the appropriate safeguards to protect the personal data.
 
@@ -105,7 +105,7 @@ Data subjects have the right, in certain circumstances, to receive their persona
 * The legal basis for the processing of the personal data is consent or pursuant to a contract; and
 * Our processing of those data is automated.
 
-When a data subject makes a request for portability in the circumstances set out above, we shall 
+When a data subject makes a request for portability in the circumstances set out above, we shall
 take the following steps:
 
 * Log the date on which the request was received (to ensure that the relevant timeframe of one month for responding to the request is met) and notify the Legal Team of that date;
@@ -133,7 +133,7 @@ Where personal data is processed for direct marketing purposes, data subjects ha
 
 Data subjects have the right, in certain circumstances, not to be subject to a decision based solely on the automated processing of their personal data, if such decision produces legal effects concerning them or similarly significantly affects them. Where such a request is made, we shall, unless there is an exemption (see below), no longer make such a decision unless it:
 
-* Is necessary for entering into, or the performance of, a contract between us and the data subject; 
+* Is necessary for entering into, or the performance of, a contract between us and the data subject;
 * Is authorised by applicable law which lays down suitable measures to safeguard the data subject's rights, freedoms and legitimate interests; or
 * Is based on the data subject's explicit consent.
 
