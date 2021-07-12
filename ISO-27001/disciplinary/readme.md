@@ -16,7 +16,7 @@ It is our people that make Infinity Works a great place to work. That’s why we
 
 ### A "Manager"
 
-Throughout this policy we will use the term "manager".  The term "manager" will mean your Line Manager, Account Manager, Advocate, assigned Principle Consultant or a Director.  Feedback can come from multiple parties dependent on the nature of the concern.
+Throughout this policy we will use the term "manager".  The term "manager" will mean your Line Manager, Account Manager, Advocate, assigned Principal Consultant, Managing Consultant or a Director.  Feedback can come from multiple parties dependent on the nature of the concern.
 
 ## Scope
 
