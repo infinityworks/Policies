@@ -6,7 +6,7 @@ The purpose of this policy is to provide guidance on when digital signatures can
 
 ## Scope
 
-This policy applies to all Infinity Works Consulting employees, contractors, and other agents conducting Infinity Works Consulting busines.
+This policy applies to all Infinity Works Consulting employees, contractors, and other agents conducting Infinity Works Consulting business.
 
 This policy applies only to digitally signed documents and correspondence within Infinity Works and not to electronic materials sent to or received from non-Infinity Works Consulting affiliated persons or organisations.
 
@@ -18,11 +18,11 @@ Digital signatures are accepted as a means of validating the identity of a signe
 
 ### Compliance Measurement
 
-The [ISMS Committee](../README.md#the-isms-committee) will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner. 
+The [ISMS Committee](../README.md#the-isms-committee) will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner.
 
 ### Exceptions
 
-Any exception to the policy must be approved by the [ISMS Committee](../README.md#the-isms-committee) in advance. 
+Any exception to the policy must be approved by the [ISMS Committee](../README.md#the-isms-committee) in advance.
 
 ### Non-Compliance
 
